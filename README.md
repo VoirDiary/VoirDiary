@@ -1,4 +1,4 @@
-### Hi there 👋
+### A Jekyll site with the Hydeout theme. 👋
 
 <!--
 **VoirDiary/VoirDiary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
