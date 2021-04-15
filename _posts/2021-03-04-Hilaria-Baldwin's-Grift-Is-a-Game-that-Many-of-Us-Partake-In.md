@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hilaria Baldwin’s Grift Is a Game that Many of Us Partake In"
+title: Hilaria Baldwin’s Grift Is a Game that Many of Us Partake In
 categories:
   - Op-Eds
 tags:
