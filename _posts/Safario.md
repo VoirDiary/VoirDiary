@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Teenage Bedroom Rapper Safario Spits Quarantine Anthems"
+categories:
+  - Op-Eds
+tags:
+  - Entertainment
+  - Music
+  - Reviews
+  - Music Reviews
+  - Safario
+  - Rap
+
+---
+
+While most of us have been picking lint from between our toes and complaining about cabin-fever, 19-year-old Polish-born musician Safario has been hard at work. From his home in Oslo, Safario (whose real name is Kacper Tratkowski), has been churning out singles that may be just what we need in these trying times. The tracks are upbeat, filled with buoyant synth layered on snappy percussion. Safario's vocals are equal parts rap and dance, with brilliant rhyme sequences that are both rhythmically complex and melodic enough to hum. It's difficult to place Safa (as his fans call him) in any rap subgenre. But, experimental pop rap seems to fit the bill.
+
+Safario's lyrics are coy and relatable. In "Log Me Out," Safario vents about the pervasiveness of social media: "Log me out of life, take my phone away, break it. Safa left the chat, I don't want no more attention. Get the fuck out of my face, Safa season on the daily. Man, I wonder what they want from me." In "Go Crazy, Go Stoopid," he gets tongue-in-cheek-political: "Bernie Sanders, that's my man – Call me back, I ain't got no plans – Donald Trump is wack as fuck – orange juice up in my, in my sippy cup."
+
+Safario has collaborated with other young musicians, including Slotface bassist Lokoy (aka Lasse Lokoy). Last fall they released a video for their co-produced track "Both Eyes" in which both lads jam out from a single-prop plane. But at the end of the day, Safario is nothing if not self-made. And he is prolific, putting out two albums and several singles within the last two years and dropping fresh videos on the regular. With only 59,310 monthly listeners on Spotify, Safario is tragically underrated. But, we can expect to see more of the precocious artist. Safa spits above his weight.
+
+Check out Safario on Spotify and Soundcloud.
