@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hilaria Baldwin’s Grift Is a Game that Many of Us Partake In
+title: "Hilaria Baldwin’s Grift Is a Game that Many of Us Partake In"
 categories:
   - Op-Eds
 tags:
@@ -9,7 +9,8 @@ tags:
   - Hilaria Baldwin
   - Op-Ed
   - Politics
- ---
+
+---
 
 *My response to Hilaria Baldwin's charading as a Spanish person and a discussion of how this flavor of identity fabrication is actually quite common among Americans.*
 
