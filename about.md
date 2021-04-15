@@ -5,9 +5,8 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  I am a Seattle-based lawyer and occasional writer, doodler, and wine taster.  This is a site to share my writing with family and friends.
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+#To make pages show up in the sidebar, add `sidebar_link: true` to the front
+#matter.
