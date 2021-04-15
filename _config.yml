@@ -6,7 +6,7 @@ highlighter:      rouge
 # Setup
 title:            Voir Diary
 tagline:          'A personal site.'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Thoughts, feelings, and imaginary things.'
 url:              https://voirdiary.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
