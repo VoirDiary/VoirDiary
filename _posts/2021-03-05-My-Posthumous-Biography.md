@@ -3,7 +3,6 @@ layout: post
 title: "My Posthumous Biography"
 categories:
   - Essays
-  - Poetry
 tags:
   - Prose
   - True Crime
