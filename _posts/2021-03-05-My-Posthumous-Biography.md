@@ -3,6 +3,7 @@ layout: post
 title: "My Posthumous Biography"
 categories:
   - Essays
+  - Poetry
 tags:
   - Prose
   - True Crime
@@ -10,6 +11,7 @@ tags:
 
 I’ve been listening to a lot of true crime podcasts, lately, with the quarantine and all.  Whenever they go into the history of the victim and their personal life, I can’t help but wonder if the victim would agree with the characterization.  They usually seem to follow a standard format: 
 “She loved life.  She loved to help others.  She would give the shirt off her back.  She lit up the room when she walked in.  Everyone loved here.  She had a lot of talents.  She had limitless potential.”  
+
 If this is how someone posthumously described me, my ghost would be pissed.  A litany of vague, universally-accepted virtues would not adequately describe my singular existence.  So, I decided to write my own bio, in case I am ever the subject of such a series.  It goes as follows:
 
 *Most people knew Erin for her red hair.  Despite the rumors, it was natural.  This can be confirmed by looking at her childhood photos and hair on other parts of her body.  Those in her inner-circle say that she could go seven days without washing her hair.  On occasion, she would even receive compliments on day six.*  
