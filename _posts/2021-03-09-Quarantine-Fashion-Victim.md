@@ -13,4 +13,4 @@ tags:
 ---
 
 
-![image](/assets/images/Quarantine victim.jpg){:height="900px" width="514px"}
+![image](/assets/images/QuarantineFashionVictim.jpg){:height="900px" width="514px"}
