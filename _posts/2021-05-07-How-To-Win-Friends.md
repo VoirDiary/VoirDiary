@@ -10,7 +10,7 @@ tags:
   - Psychology
 ---
 
-Part 1: Fundamental Techniques in Handling People
+## Part 1: Fundamental Techniques in Handling People
 Principle 1: Don’t criticize, condemn, or complain
 People don’t criticize themselves for anything (?)
 Animals rewarded for good behavior learn more rapidly and retain what they learn more than animals who are punished for bad behavior.
@@ -20,7 +20,8 @@ The biggest need in human nature is the desire to be important.
 People want to feel important.
 Principle 3: Arouse in the other person an eager want
 Frame statements in terms of what the other person wants/needs and how it benefits them
-Part 2: Six Ways to Make People Like You
+
+## Part 2: Six Ways to Make People Like You
 Principle 1: Become genuinely interested in other people
 You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
 Principle 2: Smile
@@ -30,7 +31,8 @@ Principle 5: Talk in terms of the other person’s interests
 If it is important enough, prepare by finding out what interests the person or learning about their interest.
 Principle 6: Make the other person feel important—and do it sincerely
 Don’t forget little courtesies.
-Part 3: How to Win People to Your Way of Thinking
+
+## Part 3: How to Win People to Your Way of Thinking
 Principle 1: The only way to get the best of an argument is to avoid it
 You won’t convince someone by arguing with them.
 Principle 2: Show respect for the other person’s opinions. Never say, “You’re wrong.”
@@ -51,7 +53,8 @@ The person will think of the real reason, without you having to mention it.  App
 Principle 11: Dramatize your ideas
 Principle 12: Throw down a challenge
 Stimulate competition
-Part 4: Be a Leader—How to Change People Without Giving Offense or Rousing Resentment
+
+## Part 4: Be a Leader—How to Change People Without Giving Offense or Rousing Resentment
 Principle 1: Begin with praise and honest appreciation
 It’s easier to listen to unpleasant things about yourself after hearing about your positive points
 Principle 2: Call attention to people’s mistakes indirectly
