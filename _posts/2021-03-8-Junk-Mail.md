@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Like Robocalls, Junk Mail Should be Given the Boot!"
+title: "Like robocalls, junk mail should be given the boot!"
 categories:
   - Op-Eds
 tags:
