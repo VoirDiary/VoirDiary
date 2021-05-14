@@ -11,13 +11,6 @@ tags:
   - Negotiation
 ---
 
-## Two hashes
-1. Just numbered text
-* **Three asterisk**
-* Test (one asterisk)
-**Surrounding asterisk**
-
-
 ## **Chapter 1: The New Rules - Successful negotiation is about building trust and getting information.**
 * Good negotiators approach the bargaining table attempting to gain as much information as possible, both about the situation and their counterpart.  Naturally, during this process, new stuff comes to light.  So, success means being prepared for a bend in the road.
 * Nobody is going to provide you with information if they don’t trust you, and that’s why rapport is essential.  If you manage to establish it you’ll build trust in the process, making it much more likely that the other person will divulge useful information.
@@ -30,11 +23,11 @@ tags:
 * Usually use a positive/playful voice to communicate you’re easygoing and empathetic and put things in a positive light (can achieve by smiling when you talk).
 * If needed - direct or assertive voice. 
 * If in a confrontation: 
-<space><space><space><space> 1. Use the late-night FM DJ voice;
-&nbsp;&nbsp;&nbsp; 2. Start with “I’m sorry …”;
-&nbsp;&nbsp;&nbsp; 3. Mirror;
-&nbsp;&nbsp;&nbsp; 4. Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
-&nbsp;&nbsp;&nbsp; 5. Repeat.
+1. Use the late-night FM DJ voice;
+2. Start with “I’m sorry …”;
+3. Mirror;
+4. Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
+5. Repeat.
 
 ## **Chapter 3: Don’t Feel Their Pain, Label It - Understand and state the emotions of your counterpart to position yourself effectively in a negotiation.**
 * People’s emotions have two levels: the “presenting” behavior - the part above the surface you can see and hear; and the “underlying” feeling that motivates the behavior
