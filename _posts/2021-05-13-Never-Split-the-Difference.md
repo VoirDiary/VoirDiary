@@ -19,22 +19,22 @@ tags:
 
 
 ## **Chapter 1: The New Rules - Successful negotiation is about building trust and getting information.**
-Good negotiators approach the bargaining table attempting to gain as much information as possible, both about the situation and their counterpart.  Naturally, during this process, new stuff comes to light.  So, success means being prepared for a bend in the road.
-Nobody is going to provide you with information if they don’t trust you, and that’s why rapport is essential.  If you manage to establish it you’ll build trust in the process, making it much more likely that the other person will divulge useful information.
+* Good negotiators approach the bargaining table attempting to gain as much information as possible, both about the situation and their counterpart.  Naturally, during this process, new stuff comes to light.  So, success means being prepared for a bend in the road.
+* Nobody is going to provide you with information if they don’t trust you, and that’s why rapport is essential.  If you manage to establish it you’ll build trust in the process, making it much more likely that the other person will divulge useful information.
 
 ## **Chapter 2: Be a Mirror - Closely listening to and even repeating what your counterpart says can build trust.**
-Engage in active listening, which means showing empathy and demonstrating that you understand what the other person is going through.  
-Mirroring - repeating what your counterpart says but with an inquisitive tone.  It makes the other person feel that you’re similar to them and forges belonging and trust.
-The tone of your voice can do wonders for negotiation.
-If the other party is likely to become upset or nervous - employ a deep but soft voice (the Late-Night FM DJ voice).
-Usually use a positive/playful voice to communicate you’re easygoing and empathetic and put things in a positive light (can achieve by smiling when you talk).
-If needed - direct or assertive voice. 
-If in a confrontation: 
-Use the late-night FM DJ voice;
-Start with “I’m sorry …”;
-Mirror;
-Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
-Repeat.
+* Engage in active listening, which means showing empathy and demonstrating that you understand what the other person is going through.  
+* Mirroring - repeating what your counterpart says but with an inquisitive tone.  It makes the other person feel that you’re similar to them and forges belonging and trust.
+* The tone of your voice can do wonders for negotiation.
+* If the other party is likely to become upset or nervous - employ a deep but soft voice (the Late-Night FM DJ voice).
+* Usually use a positive/playful voice to communicate you’re easygoing and empathetic and put things in a positive light (can achieve by smiling when you talk).
+* If needed - direct or assertive voice. 
+* If in a confrontation: 
+** Use the late-night FM DJ voice;
+** Start with “I’m sorry …”;
+** Mirror;
+** Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
+** Repeat.
 
 ## **Chapter 3: Don’t Feel Their Pain, Label It - Understand and state the emotions of your counterpart to position yourself effectively in a negotiation.**
 People’s emotions have two levels: the “presenting” behavior - the part above the surface you can see and hear; and the “underlying” feeling that motivates the behavior
