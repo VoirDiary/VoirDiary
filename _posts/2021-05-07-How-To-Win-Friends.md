@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Win Friends and Influence People: The Principles"
+title: "How to Win Friends and Influence People by Dale Carnegie: The Principles"
 categories:
   - Book Notes
 tags:
