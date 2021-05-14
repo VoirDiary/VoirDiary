@@ -30,7 +30,7 @@ tags:
 * Usually use a positive/playful voice to communicate you’re easygoing and empathetic and put things in a positive light (can achieve by smiling when you talk).
 * If needed - direct or assertive voice. 
 * If in a confrontation: 
-&nbsp;&nbsp;&nbsp; 1. Use the late-night FM DJ voice;
+<space><space><space><space> 1. Use the late-night FM DJ voice;
 &nbsp;&nbsp;&nbsp; 2. Start with “I’m sorry …”;
 &nbsp;&nbsp;&nbsp; 3. Mirror;
 &nbsp;&nbsp;&nbsp; 4. Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
