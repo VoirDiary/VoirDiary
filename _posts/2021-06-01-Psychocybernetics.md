@@ -21,12 +21,12 @@ tags:
 * It was by conscious thought, though perhaps irrational and unrealistic, that the unconscious machine developed its negative and inappropriate reaction patterns, and it is by conscious rational thought that the automatic reaction patterns can be changed.
 * These negative experiences do not inhibit, but contribute to the learning process, as long as they are used properly as “negative feedback data,” and are seen as deviations from the positive goal which is desired.
 * However, as soon as the error has been recognized as such, and correction of course made, it is equally important that the error be consciously forgotten, and the successful attempt remembered and “dwelt upon.”
-* Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection.”
+* Gradually I learned to be indifferent to myself and my deficiencies; I came to center my attention upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection.
 * Whenever you begin to feel remorse for an act which your reason tells you is not wicked, examine the causes of your feeling of remorse, and convince yourself in detail of their absurdity.
 * Do not be content with an alteration between moments of rationality and moments of irrationality. Look into the irrationality closely with a determination not to respect it and not to let it dominate you. When it thrusts foolish thoughts or feelings into your consciousness, pull them up by the roots, examine them, and reject them.
 * Happiness is a mental habit, a mental attitude, and if it is not learned and practiced in the present it is never experienced.
 * Happiness is a mental habit which can be cultivated and developed.
-* “The habit of being happy enables one to be freed, or largely freed, from the domination of outward conditions.”
+* The habit of being happy enables one to be freed, or largely freed, from the domination of outward conditions.
 * Form the habit of reacting aggressively and positively toward threats and problems. Form the habit of keeping goal-oriented all the time, regardless of what happens.
 * I will be as cheerful as possible. I will try to feel and act a little more friendly toward other people. I am going to be a little less critical and a little more tolerant of other people, their faults, failings and mistakes. I will place the best possible interpretation upon their actions. Insofar as possible, I am going to act as if success were inevitable, and I already am the sort of personality I want to be. I will practice “acting like” and “feeling like” this new personality. I will not let my own opinion color facts in a pessimistic or negative way. I will practice smiling at least three times during the day. Regardless of what happens, I will react as calmly and as intelligently as possible.
 * I will ignore completely and close my mind to all those pessimistic and negative “facts” which I can do nothing to change.
@@ -40,11 +40,11 @@ tags:
 * Practice treating other people as if they had some value—and surprisingly enough your own self-esteem will go up.
 * It is literally true that success breeds success. Even a small success can be used as a stepping stone to a greater one.
 * Another important technique is to form the habit of remembering past successes, and forgetting failures.
-* [We are] afraid.” And out of habit, we continue to respond in the accustomed way. We “obey” the bell. 
-* How to Extinguish Conditioned ResponsesW: e can, however, extinguish the conditioned response if we make a practice of relaxing instead of responding. We can, if we wish, just as in the case of the telephone, learn to ignore the “bell,” and continue to sit quietly and “let it ring.” A key thought that we can carry with us to use whenever we
+* In each case the crowd, the closed space, the open space, the boss, etc., act as "bells," which say—"danger is present, run away, feel afraid. And out of habit, we continue to respond in the accustomed way. We “obey” the bell. 
+* How to Extinguish Conditioned Responses: We can, however, extinguish the conditioned response if we make a practice of relaxing instead of responding. We can, if we wish, just as in the case of the telephone, learn to ignore the “bell,” and continue to sit quietly and “let it ring.” A key thought that we can carry with us to use whenever we
 are confronted by any disturbing stimulus is to say to ourselves, “The telephone is ringing, but I do not have to answer it. I can just let it ring.” This thought will “key in” to your mental picture of yourself sitting quietly, relaxed, unresponding, doing nothing, letting the telephone ring unheeded, and will act as a trigger or “clue” to
-call up the same attitude that you had when letting the telephone ring. If You Cannot Ignore the Response—Delay It In
-* ignore the “bell,” especially if it is rung unexpectedly. In such instances you can accomplish the same final result
+call up the same attitude that you had when letting the telephone ring. 
+* If You Cannot Ignore the Response—Delay It - ignore the “bell,” especially if it is rung unexpectedly. In such instances you can accomplish the same final result
 —extinction of the conditioning—by delaying your response.
 * It has been proved in scientific laboratory experiments that you absolutely cannot feel angry, fearful, anxious, insecure, “unsafe” as long as your muscles remain perfectly relaxed.
 * Not satisfied with over-responding to actual minor stimuli in the actual environment, many of us create straw men in our imaginations, and emotionally respond to our own mental pictures.
