@@ -12,7 +12,7 @@ tags:
 ---
 
 * “Positive thinking” does indeed “work” when it is consistent with the individual’s self-image.
-* 
+
 * The self-image is changed, for better or worse, not by intellect alone, nor by intellectual knowledge alone, but by “experiencing.” Wittingly or unwittingly you developed your self-image by your creative experiencing in the past. You can change it by the same method.
 
 * Experimental and clinical psychologists have proved beyond a shadow of a doubt that the human nervous system cannot tell the difference between an “actual” experience and an experience imagined vividly and in detail.
