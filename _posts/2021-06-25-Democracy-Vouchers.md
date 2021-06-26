@@ -23,7 +23,7 @@ Essentially, each registered voter gets four $25 vouchers.  They select one or m
 Now there are some restrictions on which candidates are eligible to receive funding from the vouchers.  They must:  
 •	have previously raised $1,500-$6,000;  
 •	agree to campaign finance restrictions (like accepting no more than a certain amount of non-voucher donations per any individual contributor);  
-•	agree to cap campaign spending to a determined limit;  
+•	agree to cap campaign spending to a determined limit; and    
 •	have not received contributions from entities with more than $250k in service contracts with the city.  
 
 But there’s one catch – when you submit a Democracy Voucher, your name and your selection(s) are publicly displayed on the city website.  So, you better be willing to stand behind your vote!
