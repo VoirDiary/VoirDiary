@@ -16,7 +16,6 @@ tags:
 
 As a recently-registered Seattle voter, I was confused when a packet containing something called “Democracy Vouchers” arrived in my mailbox.  How did they relate to voting?  Could I use them for booze?  So, I hit the WWW to find out.
 
-![image](/assets/images/IMG_0815.jpg) 
 ![image](/assets/images/IMG_0816.jpg) 
 
 Essentially, each registered voter gets four $25 vouchers.  They select one or more municipal election candidate(s) (e.g., Mayoral, City Council, or City Attorney).  They fill-in the voucher(s) with the name(s) of the selected candidate(s) and mail the little guys in.  (This process can also be performed online by entering codes that are printed on the vouchers).  The funds represented by the vouchers are paid from a city fund to the campaign(s) associated with the selected candidate(s).  
@@ -28,6 +27,8 @@ Now there are some restrictions on which candidates are eligible to receive fund
 •	have not received contributions from entities with more than $250k in service contracts with the city.  
 
 But there’s one catch – when you submit a Democracy Voucher, your name and your selection(s) are publicly displayed on the city website.  So, you better be willing to stand behind your vote!
+
+![image](/assets/images/IMG_0815.jpg) 
 
 The Democracy Voucher program effectively democratizes campaign fundraising.  The vouchers give people who might not have the means to donate the ability to participate and give people who would not otherwise donate a reason to do so.    Also, the voucher eligibility requirements on candidates minimize the influence of big donors.
 
