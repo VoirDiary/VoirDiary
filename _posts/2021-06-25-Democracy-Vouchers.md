@@ -20,11 +20,11 @@ As a recently-registered Seattle voter, I was confused when a packet containing 
 
 Essentially, each registered voter gets four $25 vouchers.  They select one or more municipal election candidate(s) (e.g., Mayoral, City Council, or City Attorney).  They fill-in the voucher(s) with the name(s) of the selected candidate(s) and mail the little guys in.  (This process can also be performed online by entering codes that are printed on the vouchers).  The funds represented by the vouchers are paid from a city fund to the campaign(s) associated with the selected candidate(s).  
 
-Now there are some restrictions on which candidates are eligible to receive funding from the vouchers.  They must:
-•	have previously raised $1,500-$6,000;
-•	agree to campaign finance restrictions (like accepting no more than a certain amount of non-voucher donations per any individual contributor);
-•	agree to cap campaign spending to a determined limit;
-•	have not received contributions from entities with more than $250k in service contracts with the city.
+Now there are some restrictions on which candidates are eligible to receive funding from the vouchers.  They must:  
+•	have previously raised $1,500-$6,000;  
+•	agree to campaign finance restrictions (like accepting no more than a certain amount of non-voucher donations per any individual contributor);  
+•	agree to cap campaign spending to a determined limit;  
+•	have not received contributions from entities with more than $250k in service contracts with the city.  
 
 But there’s one catch – when you submit a Democracy Voucher, your name and your selection(s) are publicly displayed on the city website.  So, you better be willing to stand behind your vote!
 
