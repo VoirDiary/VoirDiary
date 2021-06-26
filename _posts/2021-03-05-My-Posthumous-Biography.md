@@ -2,7 +2,7 @@
 layout: post
 title: "My Posthumous Biography"
 categories:
-  - Essays
+  - Journaling
 tags:
   - Prose
   - True Crime
