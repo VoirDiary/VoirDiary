@@ -28,7 +28,7 @@ Now there are some restrictions on which candidates are eligible to receive fund
 
 But there’s one catch – when you submit a Democracy Voucher, your name and your selection(s) are publicly displayed on the city website.  So, you better be willing to stand behind your vote!
 
-![image](/assets/images/IMG_0815.jpg) 
+![image](/assets/images/IMG_0815.jpg){:height="600px" width="342px"} 
 
 The Democracy Voucher program effectively democratizes campaign fundraising.  The vouchers give people who might not have the means to donate the ability to participate and give people who would not otherwise donate a reason to do so.    Also, the voucher eligibility requirements on candidates minimize the influence of big donors.
 
