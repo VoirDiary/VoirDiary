@@ -21,12 +21,10 @@ As a recently-registered Seattle voter, I was confused when a packet containing 
 <img src=IMG_0815.jpg width="425"/> <img src=IMG_0816.jpg width="425"/> 
 <img src=/assets/images/IMG_0815.jpg width="425"/> <img src=/assets/images/IMG_0816.jpg width="425"/> 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/assets/images/IMG_0815.jpg)  |  ![](/assets/images/IMG_0816.jpg)
-
-:-------------------------:|:-------------------------:
-![](/assets/images/IMG_0815.jpg)  |  ![](/assets/images/IMG_0816.jpg)
+<p float="left">
+  <img src=/assets/images/IMG_0815.jpg width="100" />
+  <img src=/assets/images/IMG_0816.jpg width="100" /> 
+</p>
 
 Essentially, each registered voter gets four $25 vouchers.  They select one or more municipal election candidate(s) (e.g., Mayoral, City Council, or City Attorney).  They fill-in the voucher(s) with the name(s) of the selected candidate(s) and mail the little guys in.  (This process can also be performed online by entering codes that are printed on the vouchers).  The funds represented by the vouchers are paid from a city fund to the campaign(s) associated with the selected candidate(s).  
 
