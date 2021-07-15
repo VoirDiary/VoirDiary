@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Egotism and Waste: Why Travel Is Not Something to Be Glorified
+title: "Egotism and Waste: Why Travel Is Not Something to Be Glorified"
 categories:
   - Op-Eds
 tags:
