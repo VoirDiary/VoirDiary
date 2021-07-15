@@ -11,7 +11,8 @@ tags:
   - Enviromentalism
   - Personal
   - Self-Improvement
-  ---
+---
+
 
 One of the most common complaints about the pandemic was the inability to travel.  The way some people went about it, you’d think they were being deprived of a fundamental physiological need.  I have several friends who went on international trips during the pandemic, in defiance of public guidance, because they “needed to get out.”  
 
