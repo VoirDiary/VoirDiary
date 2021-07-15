@@ -38,7 +38,7 @@ It’s as if travel gives us a great “sign-on bonus.”  But, beyond that, the
 
 Then, we have business travel.  Not only is it excessive, it’s just plain outmoded in an age when technology enables us to communicate with the farthest flung corners of the Earth in real-time.  
 
-And there are some very good reasons to avoid travel.  Overtourism is responsible for damage to natural and historic sites.  Air travel is a major contributor to greenhouse gas emissions and is far less fuel efficient than road or rail travel.  Aside from the environmental impacts, studies have shown that air travel can have negative physiological and psychological impacts on passengers.  So, in consideration of all this, maybe travel isn’t something that we should venerate.  
+And there are some very good reasons to avoid travel.  [Overtourism](https://www.responsiblevacation.com/copy/what-is-overtourism) is responsible for damage to natural and historic sites.  Air travel is a major contributor to [greehouse gas emissions](https://www.eesi.org/papers/view/fact-sheet-the-growth-in-greenhouse-gas-emissions-from-commercial-aviation) and is far less fuel efficient than road or rail travel.  Aside from the environmental impacts, studies have shown that air travel can have [negative physiological and psychological impacts](https://www.bbc.com/future/article/20170919-how-flying-seriously-messes-with-your-mind) on passengers.  So, in consideration of all this, maybe travel isn’t something that we should venerate.  
 
 I’m not advocating for complete abstention from travel.  It’s possible to travel without buying into the wanderlust worship zeitgeist.  But, I suggest that we examine our personal motivations for traveling.  And, at the least, get vaccinated before you go.
 
