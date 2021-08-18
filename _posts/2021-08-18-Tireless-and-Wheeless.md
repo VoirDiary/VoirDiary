@@ -2,7 +2,6 @@
 layout: post
 title: "Tireless & Wheeless: On the Loss of a Bike"
 categories:
-  - Op-Eds
   - Journaling
 tags:
   - Biking
