@@ -9,7 +9,7 @@ sidebar_link: true
 </p>
 
 <p>
-  For inquiries, email me at erin@voirdiary.com
+  For inquiries, please contact erin@voirdiary.com
 </p>
 
 <!---To make pages show up in the sidebar, add `sidebar_link: true` to the front matter.--->
