@@ -38,5 +38,5 @@ As electronic goods get more expensive, we can expect to hear more from supporte
 
 
 
-![image](/assets/images/RTR.PNG){:height="900px" width="500px"}
+![image](/assets/images/RtR.PNG){:height="900px" width="500px"}
 
