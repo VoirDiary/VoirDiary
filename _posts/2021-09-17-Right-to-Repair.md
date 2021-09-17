@@ -31,5 +31,5 @@ Recognizing the demand for DIY repairs, many third party suppliers have started 
 Lawmakers have also weighed in.  Some legislators view anti-repair activity as a violation of the Magnuson-Moss Warranty Act, which essentially prohibits voiding a warranty based on a user’s attempt to repair a product.  To date, 17 states have enacted legislation requiring manufacturers to give independent repair shops access to genuine parts, tools, and information.  Yet there are no laws on the books that grant a right at the individual level.  
 
 As electronic goods get more expensive, we can expect to hear more from supporters of the Right to Repair movement.  More states may join-in on passing Right to Repair laws.  And perhaps manufacturers and consumers will arrive at a truce where DIY repairs can be facilitated in a way that is mutually beneficial to customer and corporate interests.   
-![image](/assets/images/RtR.PNG){:height="900px" width="500px"}
+![image](/assets/images/RtR.PNG)
 
