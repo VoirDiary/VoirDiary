@@ -28,13 +28,13 @@ In The Only Good Indians, Louis has what seems like the opposite problem.  He po
 
 Featherweight echoes Louis’ fears of muddying the lineage: 
 
-“*Don’t go giving us a half-breed baby, now! they would say. We got enough white blood already.
+“*Don’t go giving us a half-breed baby, now! they would say. We got enough white blood already.*
 
-What if she’s light-skinned? I would say, just to prod them a bit.
+*What if she’s light-skinned? I would say, just to prod them a bit.*
 
-Well, if you have to, they would say.
+*Well, if you have to, they would say.*
 
-A lot of indians belong to the Church of Latter-Day Eugenicists. Right there out in the open, not even trying to hide the travesty. Brown-skin supremacists. That’s just how they are.*”
+*A lot of indians belong to the Church of Latter-Day Eugenicists. Right there out in the open, not even trying to hide the travesty. Brown-skin supremacists. That’s just how they are.*”
 
 Together, the works pose an interesting question.  What is worse for a dwindling population - the risk of inbreeding or diluting the race?  
 
