@@ -65,5 +65,5 @@ Neither Graham Jones nor HolyWhiteMountain write to make us comfortable.  Someti
 
 
 Other Notes on The Only Good Indians:
-Basketball is a major theme of the book.  And only women characters are good at it!  I never thought I’d care about a fictional 1-on-1 match.  But the telling of Dinorah’s heated scrimmage was gripping.
-In the book, nature (e.g., the elk) is not concerned with fairness and has no hesitation about using violence.  This contrasts with the popular idea of nature as a benevolent force.
+* Basketball is a major theme of the book.  And only women characters are good at it!  I never thought I’d care about a fictional 1-on-1 match.  But the telling of Dinorah’s heated scrimmage was gripping.
+* In the book, nature (e.g., the elk) is not concerned with fairness and has no hesitation about using violence.  This contrasts with the popular idea of nature as a benevolent force.
