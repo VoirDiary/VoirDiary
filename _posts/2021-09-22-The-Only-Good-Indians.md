@@ -64,6 +64,6 @@ Together, the works pose an interesting question.  What is worse for a dwindling
 Neither Graham Jones nor HolyWhiteMountain write to make us comfortable.  Sometimes fictional terrors are easier to grapple with than real ones.  Ghosts and monsters might be the stuff of nightmares.  But poverty, substance abuse, and disenfranchisement persist long after daybreak.  
 
 
-Other Notes on The Only Good Indians:
+**Other Notes on The Only Good Indians:**
 * Basketball is a major theme of the book.  And only women characters are good at it!  I never thought I’d care about a fictional 1-on-1 match.  But the telling of Dinorah’s heated scrimmage was gripping.
 * In the book, nature (e.g., the elk) is not concerned with fairness and has no hesitation about using violence.  This contrasts with the popular idea of nature as a benevolent force.
