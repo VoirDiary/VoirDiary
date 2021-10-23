@@ -11,4 +11,4 @@ tags:
 ---
 
 
-![image](/assets/images/BlackDiamond.png.jpg){:height="900px" width="514px"}
+![image](/assets/images/BlackDiamond.jpg){:height="900px" width="514px"}
