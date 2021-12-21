@@ -20,8 +20,8 @@ It's the kind of drink I could have everyday - maybe after dinner, if I gave mys
 
 After a bit of tinkering we arrived on a recipe that yields something close to the original.  Here it is for your holiday enjoyment!
 
-2 oz. Old Forester (bourbon)
-½ oz. Punt e Mes (vermouth)
-¾ oz. Benedictine (angelica, hysspop, lemon balm liqueur) 
-40 cc/mL Honey & Cardamom simple syrup
-Rosemary sprig
+*2 oz. Old Forester (bourbon)
+*½ oz. Punt e Mes (vermouth)
+*¾ oz. Benedictine (angelica, hysspop, lemon balm liqueur) 
+*40 cc/mL Honey & Cardamom simple syrup
+*Rosemary sprig
