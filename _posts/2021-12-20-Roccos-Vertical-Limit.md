@@ -29,3 +29,5 @@ After a bit of tinkering we arrived on a recipe that yields something close to t
 • 40 cc/mL Honey & Cardamom simple syrup
 
 • Rosemary sprig
+
+![image](/assets/images/verticallimit.jpg){:height="900px" width="514px"}
