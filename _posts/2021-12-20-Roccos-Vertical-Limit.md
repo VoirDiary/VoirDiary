@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rocco's Vertical Limit - an Adult Beverage for the Holidays"
+title: "Rocco's Vertical Limit - an Adult Beverage for the Yuletide"
 categories:
   - Journaling
 tags:
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Rocco's Pizza in Belltown (Seattle) is known for its cocktails.  Their "Vertical Limit" is a bourbon-based drink, which I can only describe as liquid Christmas.  Rocco's describes it as "Bourbon Bill Paxton
+Rocco's in Belltown, Seattle is a pizza joint that also has great cocktails.  Their "Vertical Limit" is a bourbon-based drink, which I can only describe as liquid Christmas.  Rocco's describes it as "Bourbon Bill Paxton
 Spirit-forward stiff wind/sheer cliff combo with a hint of wildflower;
 Kentucky bourbon rounded with mountain herb sweetness for the Yankee in the backcountry."
 
