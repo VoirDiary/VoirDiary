@@ -2,7 +2,7 @@
 layout: post
 title: "Jingle Balls"
 categories:
-  - Doodles
+  - Arts & Crafts
 tags:
   - Cartoons
   - Holiday
