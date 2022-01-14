@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Doodles
+title: Arts & Crafts
 ---
