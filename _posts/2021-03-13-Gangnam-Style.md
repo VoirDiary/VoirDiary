@@ -2,7 +2,7 @@
 layout: post
 title: "Gangnam Style"
 categories:
-  - Doodles
+  - Arts & Crafts
 tags:
   - Cartoons
   - Covid
