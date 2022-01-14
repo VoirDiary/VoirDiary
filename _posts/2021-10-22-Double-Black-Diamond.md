@@ -2,7 +2,7 @@
 layout: post
 title: "Double Black Diamond"
 categories:
-  - Doodles
+  - Arts & Crafts
 tags:
   - Cartoons
   - Skiing
