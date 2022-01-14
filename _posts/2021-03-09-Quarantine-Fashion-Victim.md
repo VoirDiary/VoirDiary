@@ -2,7 +2,7 @@
 layout: post
 title: "Quarantine Fashion Victim"
 categories:
-  - Doodles
+  - Arts & Crafts
 tags:
   - Cartoons
   - Covid
