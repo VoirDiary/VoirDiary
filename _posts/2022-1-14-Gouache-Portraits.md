@@ -18,7 +18,7 @@ I took a gouache class last fall at Gage Academy.  It was my first time painting
 
 Gouache is a unique medium, kind of like a cross between oil and watercolor.  It is tricky to get the right consistency, which can be achieved by adding water.  Consistency is key to opacity.  And opacity is key to layering.  I'm definitely still working on it.
 
-Here are a few take-aways from the class.
+**Here are a few take-aways from the class.**
 
 •You can use Bristol paper, drawing paper, Moleskin notebooks.  The teacher prefers smooth paper for small detail. (Others like textured paper).
 
@@ -50,7 +50,9 @@ Here are a few take-aways from the class.
 
 •When choosing colors/shades, look for relationships between colors of areas of subject ("moments of connection").
 
-Here are some exercises:
+
+
+**Here are some exercises:**
 
 •Try to sketch in 60 seconds.
 
