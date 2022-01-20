@@ -14,9 +14,9 @@ tags:
 
 ![image](/assets/images/Painting1.jpeg){:height="450px" width="257px"}
 
-I took a gouache class last fall at Gage Academy.  It was my first time painting since I was a child, besides a few 1-off classes at Blick.  I found it to be a very immersive experience.  And it satisfied a need for tactile activity that I don't get at work.  
+Last Fall, I took a gouache class last at the Gage Academy.  It was my first time painting since my youth, besides a few 1-off classes at Blick.  I found it to be very immersive and it satisfied a need for tactile activity that is lacking in my job.  
 
-Gouache is a unique medium, kind of like a cross between oil and watercolor.  It is tricky to get the right consistency, which can be achieved by adding water.  Consistency is key to opacity.  And opacity is key to layering.  I'm definitely still working on it.
+Gouache is a unique medium, kind of like a cross between oil and watercolor.  The main challenge is getting the right consistency, which can be achieved by adding water. The ideal consistency is creamy and drips from the brush.  Consistency is key to opacity.  And opacity is key to layering.  I definitely have not mastered it.
 
 **Here are a few take-aways from the class.**
 
@@ -46,17 +46,17 @@ Gouache is a unique medium, kind of like a cross between oil and watercolor.  It
 
 •Can move closer to figure/subject if need to see details.
 
-•Ask yourself whether need to adjust the moment or area around it.
+•Ask yourself whether you need to adjust the moment or the area around it.
 
 •When choosing colors/shades, look for relationships between colors of areas of subject ("moments of connection").
 
 
 
-**Here are some exercises:**
+**Here are some ideas for practice exercises:**
 
 •Try to sketch in 60 seconds.
 
-•Try to sketch/paint in shapes.
+•Try to sketch/paint in large shapes.
 
 •Try to sketch in 60 seconds without picking up your pencil.
 
@@ -73,4 +73,6 @@ Gouache is a unique medium, kind of like a cross between oil and watercolor.  It
 
 
 ![image](/assets/images/Painting4.jpeg){:height="450px" width="257px"}
+
+I signed up for a gouache landscape course with the same teacher.  I'm hoping the subject matter will be simpler than humans.  But that is to be seen!
 
