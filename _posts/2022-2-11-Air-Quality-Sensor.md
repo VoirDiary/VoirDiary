@@ -47,6 +47,9 @@ The PMS was a big boy without any pinholes, so I taped it to the PCB instead of 
 Finally, it was time to connect! 
 
 I plugged the USB into the microcontroller and into a power source.  The OLED screen lit up and voila!  Air quality data at my fingertips. 
+
+![image](/assets/images/AQSensor3.jpg)
+
 AirGradient offers instructions to 3D print an enclosure for the sensor.  My lab partner printed one for me.  At first the sensor did not seem to fit inside the case.  But after some finageling of the PSB and snipping leads, it fit.  The display window still did not line up to the OLED, so I enlarged the aperture with a dremel.  I went a little nuts with the dremel and ended up carving a Wonderbread-shaped hole.  But gets the job done.
 
 Then it was time to get testing.  We had long suspected that the air quality in my “garden unit” apartment was bad.  Only one of my windows can be opened and I have no ventilation for cooking.  But to my surprise, the AQ hovered around 4-20. 
