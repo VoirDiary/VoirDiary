@@ -3,6 +3,7 @@ layout: post
 title: "DIY Air Quality Sensor - A Fun & Healthy Project"
 categories:
   - Journaling
+  - Arts & Crafts
 tags:
   - Air Quality
   - Electronics
