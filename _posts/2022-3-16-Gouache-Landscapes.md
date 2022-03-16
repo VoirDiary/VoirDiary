@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![image](https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png)
+![image](https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png){:height="257px" width="450px"}
 
 I was very excited to take my second gouache class at the Gage Academy this winter.  But after the first week it was cancelled!
 
