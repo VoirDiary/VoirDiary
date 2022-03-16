@@ -46,6 +46,7 @@ One realization that I had while painting landscapes was that I did not understa
 
 ![image](https://images.squarespace-cdn.com/content/v1/56013c83e4b02285801be760/1585998672068-3CR5JEZU8T3BSD0KOWLB/Crave-Painting-perspective-exercises-one-point-cubes.jpg?format=1000w){:height="200px" width=auto}
 
+<img src="https://images.squarespace-cdn.com/content/v1/56013c83e4b02285801be760/1585998672068-3CR5JEZU8T3BSD0KOWLB/Crave-Painting-perspective-exercises-one-point-cubes.jpg?format=1000w" width="200">
 
 
 
