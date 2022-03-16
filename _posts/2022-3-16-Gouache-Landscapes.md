@@ -42,9 +42,9 @@ One realization that I had while painting landscapes was that I did not understa
 
 •Take an image and identify the vanishing point.  Then draw lines from the different surfaces to the vanishing point.  
 
-•Draw a horizon with a vanishing point.  Draw different size boxes in different orientations in one-point perspective.
+•Draw a horizon with a vanishing point.  Draw different size boxes in different orientations in 1-point perspective.  Then try the same thing in 2-point perspective and 3-point perspective.
 
-![image](https://images.squarespace-cdn.com/content/v1/56013c83e4b02285801be760/1585998672068-3CR5JEZU8T3BSD0KOWLB/Crave-Painting-perspective-exercises-one-point-cubes.jpg?format=1000w)
+![image](https://images.squarespace-cdn.com/content/v1/56013c83e4b02285801be760/1585998672068-3CR5JEZU8T3BSD0KOWLB/Crave-Painting-perspective-exercises-one-point-cubes.jpg?format=1000w)(width=100px height=auto)
 
 
 
