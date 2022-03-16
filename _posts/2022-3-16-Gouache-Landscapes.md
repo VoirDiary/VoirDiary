@@ -37,8 +37,7 @@ One realization that I had while painting landscapes was that I did not understa
 
 •Draw a horizon and a vanishing point.  Then draw a grid of lines passing through the vanishing point and equidistantly-spaced points below the horizon (orthogonal lines).  Identify a point on each of the orthogonal lines that is directly above or below one of the other points (a vertical line of points).  Draw horizontal lines each intersecting one of the points (the plane).  
 
-![image](https://user-images.githubusercontent.com/79613537/158696315-4a2836db-e3c7-4ded-8144-381281a6d57a.png)
-
+<img src="https://user-images.githubusercontent.com/79613537/158696315-4a2836db-e3c7-4ded-8144-381281a6d57a.png" width="400">
 
 •Take an image and identify the vanishing point.  Then draw lines from the different surfaces to the vanishing point.  
 
