@@ -11,9 +11,7 @@ tags:
 
 ---
 
-![image](https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png)
 <img src="https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png" width="400">
-
 
 
 I was very excited to take my second gouache class at the Gage Academy this winter.  But after the first week it was cancelled!
@@ -32,6 +30,8 @@ Then I moved to a complimentary triad.
 
 ![image](/assets/images/667516587.090698.jpeg){:height="450px" width="257px"}
 ![image](/assets/images/667516742.592243.jpeg){:height="450px" width="257px"}
+<img src="https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png" width="400">
+<img src="https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png" width="400">
 
 One realization that I had while painting landscapes was that I did not understand linear perspectives.  A few YouTube videos later, I had a general idea.  But I think more practice is needed for me to gain a firmer graps.
 
