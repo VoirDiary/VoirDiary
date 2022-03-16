@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![image](https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png){:height="257px" width="450px"}
+![image](https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png)
 
 I was very excited to take my second gouache class at the Gage Academy this winter.  But after the first week it was cancelled!
 
@@ -40,33 +40,17 @@ One realization that I had while painting landscapes was that I did not understa
 ![image](https://user-images.githubusercontent.com/79613537/158696315-4a2836db-e3c7-4ded-8144-381281a6d57a.png)
 
 
-•White is the most important color.
+•Take an image and identify the vanishing point.  Then draw lines from the different surfaces to the vanishing point.  
 
-•Use a spray bottle to rehydrate/reactivate paint.  But paint straight out of tube is nicer.
+•Draw a horizon with a vanishing point.  Draw different size boxes in different orientations in one-point perspective.
 
-•You can put 2 whites on palette - 1 to muddy and 1 to keep clean.
+![image](https://images.squarespace-cdn.com/content/v1/56013c83e4b02285801be760/1585998672068-3CR5JEZU8T3BSD0KOWLB/Crave-Painting-perspective-exercises-one-point-cubes.jpg?format=1000w)
 
-•Some people prefer Payne’s Gray to black for darkening.
 
-•Permanent white is more opaque than zinc white.
 
-•Blot on paper towel, cloth.
 
-•Use cheap brushes, acrylic brushes, synthetic w/ finer bristles.
 
-•Try to use thick paint (not too much water), especially for background in case you want to layer or correct.
 
-•Water changes the value of the paint, like when you swirl the brush between uses.
-
-•Try to view a figure/the subject as a bunch of shapes.
-
-•Squint at the figure/subject to view the shapes and not details.
-
-•Can move closer to figure/subject if need to see details.
-
-•Ask yourself whether you need to adjust the moment or the area around it.
-
-•When choosing colors/shades, look for relationships between colors of areas of subject ("moments of connection").
 
 
 
