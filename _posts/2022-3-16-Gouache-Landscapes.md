@@ -21,10 +21,10 @@ I was determined not to continue with my practice, so conducted my own painting 
 Following the approach of the class, I used MapCrunch.com to find subject photos.  MapCrunch is basically a database of images from Google Maps.  But it's neat because you can filter the images by country.
 
 One of the goals of these exercises was to get more experience with color palettes.  I started painting with black and white.  
-![image](/assets/images/667516926.935578.jpeg){:height="450px" width="257px"}
-![image](/assets/images/667516897.351874.jpeg){:height="450px" width="257px"}
-![image](/assets/images/667516860.179023.jpeg){:height="450px" width="257px"}
-![image](/assets/images/667516830.089371.jpeg){:height="450px" width="257px"}
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516830.089371.jpg?raw=true" width="400">
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516860.179023.jpg?raw=true" width="400">
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516897.351874.jpg?raw=true" width="400">
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516926.935578.jpg?raw=true" width="400">
 
 Then I moved to a complimentary triad.
 
