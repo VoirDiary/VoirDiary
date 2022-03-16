@@ -35,7 +35,10 @@ One realization that I had while painting landscapes was that I did not understa
 
 **Here are a few exercises for drawing/painting with linear perspective:**
 
-•You can use Bristol paper, drawing paper, Moleskin notebooks.  The teacher prefers smooth paper for small detail. (Others like textured paper).
+•Draw a horizon and a vanishing point.  Then draw a grid of lines passing through the vanishing point and equidistantly-spaced points below the horizon (orthogonal lines).  Identify a point on each of the orthogonal lines that is directly above or below one of the other points (a vertical line of points).  Draw horizontal lines each intersecting one of the points (the plane).  
+
+![image](https://user-images.githubusercontent.com/79613537/158696315-4a2836db-e3c7-4ded-8144-381281a6d57a.png)
+
 
 •White is the most important color.
 
