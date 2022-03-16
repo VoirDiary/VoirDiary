@@ -11,7 +11,7 @@ tags:
 
 ---
 
-
+![image](/assets/images/IMG_2455.jpeg){:height="450px" width="257px"}
 
 I was very excited to take my second gouache class at the Gage Academy this winter.  But after the first week it was cancelled!
 
@@ -23,7 +23,7 @@ One of the goals of these exercises was to get more experience with color palett
 ![image](/assets/images/667516926.935578.jpeg){:height="450px" width="257px"}
 ![image](/assets/images/667516897.351874.jpeg){:height="450px" width="257px"}
 ![image](/assets/images/667516860.179023.jpeg){:height="450px" width="257px"}
-![image](/assets/images/667516926.935578.jpeg){:height="450px" width="257px"}
+![image](/assets/images/667516830.089371.jpeg){:height="450px" width="257px"}
 
 Then I moved to a complimentary triad.
 
@@ -32,7 +32,6 @@ Then I moved to a complimentary triad.
 
 One realization that I had while painting landscapes was that I did not understand linear perspectives.  A few YouTube videos later, I had a general idea.  But I think more practice is needed for me to gain a firmer graps.
 
-![image](/assets/images/667516587.090698.jpeg){:height="450px" width="257px"}
 
 **Here are a few exercises for drawing/painting with linear perspective:**
 
