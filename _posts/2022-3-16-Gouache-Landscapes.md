@@ -16,23 +16,23 @@ tags:
 
 I was very excited to take my second gouache class at the Gage Academy this winter.  But after the first week it was cancelled!
 
-I was determined not to continue with my practice, so conducted my own painting exercises.
+I was determined to continue with my practice, so conducted my own painting exercises.
 
 Following the approach of the class, I used MapCrunch.com to find subject photos.  MapCrunch is basically a database of images from Google Maps.  But it's neat because you can filter the images by country.
 
-One of the goals of these exercises was to get more experience with color palettes.  I started painting with black and white.  
+One of the goals of these exercises was to get more experience with color palettes.  I started painting with black and white. 
+
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516830.089371.jpg?raw=true" width="400">
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516860.179023.jpg?raw=true" width="400">
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516897.351874.jpg?raw=true" width="400">
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516926.935578.jpg?raw=true" width="400">
-
 
 Then I moved to a complimentary triad.
 
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516587.090698.jpg?raw=true" width="400">
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/667516742.592243.jpg?raw=true" width="400">
 
-One realization that I had while painting landscapes was that I did not understand linear perspectives.  A few YouTube videos later, I had a general idea.  But I think more practice is needed for me to gain a firmer graps.
+One realization that I had while painting landscapes was that I did not understand linear perspective.  A few YouTube videos later, I had a general idea.  But I think more practice is needed to gain a firmer grasp.
 
 
 **Here are a few exercises for drawing/painting with linear perspective:**
