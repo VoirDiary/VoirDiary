@@ -10,15 +10,15 @@ tags:
 ---
 
 
-This story is from Elena Poniatowska’s book, De Noche Vienes.  I couldn’t find an English version of the book, which is a tragedy.  Poniatowska is an influential Mexican literary figure whose work focuses on the experiences of the poor and disenfranchised.  Her writing is singularly free, with prose that, at times, borders on poetry.    
+*This story is from Elena Poniatowska’s book, De Noche Vienes.  I couldn’t find an English version of the book, which is a tragedy.  Poniatowska is an influential Mexican literary figure whose work focuses on the experiences of the poor and disenfranchised.  Her writing is singularly free, with prose that, at times, borders on poetry.    
 
-I translated this story, in hopes that it might reach a wider audience.  Or at least a different audience.  
+*I translated this story, in hopes that it might reach a wider audience.  Or at least a different audience.  
 
 She felt like the words were flapping around the room before he even said them.  With one hand she smoothed her hair, with the other she pretended to calm her heartbeat.  Anyways, she had to prepare dinner and do bills.  But the words went from one side to the other turning over in the air (without coming down) like black butterflies, brushing against ears.  She got the notebook from the kitchen and a pencil; the tip was so sharp that, when writing, it broke the page, and this hurt.  The walls of the room narrowed in turn around her and even the grey eye of the window appeared to be observing her with an ironic look.  And Juan’s blazer, hanging on the hanger, had a threatening ghostly look.  Where could another pencil be?  There was one in her purse, smooth and warm.  She wrote: gas $18.00; milk $2.50; bread $1.25; squash $0.80.  The pen melted gently above the lines, almost like balsam.  What to feed him for dinner?  At least there was chicken; which he liked so much!  But no, she would open a can of deviled ham.  Because at least the room wouldn’t smell like gas for the love of God.
 
 Juan continued smoking in bed, mouth open.  The smoke of his cigarette ascended, getting lost among his black and blue hairs.  
 
-You know what, Manuela?
+- You know what, Manuela?
 
 Manuela knew.  She knew that there was still time.
 
