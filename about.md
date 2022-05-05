@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  I am a Seattle-based lawyer and occasional writer, doodler, and wine taster.  This is a medium to share my writing with family and friends.  
+I am a Seattle-based lawyer and occasional writer, doodler, and scaler of steep surfaces.  I'm interested in urbanism, technology freedom, consumer rights/protection, anything spooky, and anything Southern.  I write about local issues, books, and lived/fictional experiences.  
 </p>
 
 <p>
