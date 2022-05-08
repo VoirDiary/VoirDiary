@@ -13,102 +13,14 @@ tags:
 
 By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 
-## Part 1: Fundamental Techniques in Handling People
-1. Principle 1: Don’t criticize, condemn, or complain
-* **People don’t criticize themselves for anything (?)**
-* **Animals rewarded for good behavior learn more rapidly and retain what they learn more than animals who are punished for bad behavior.**
-* **People don’t change in response to criticism.**
-
-2. Principle 2: Give honest and sincere appreciation
-* **The biggest need in human nature is the desire to be important.**
-* **People want to feel important.**
-
-3. Principle 3: Arouse in the other person an eager want
-* **Frame statements in terms of what the other person wants/needs and how it benefits them**
-
-## Part 2: Six Ways to Make People Like You
-1. Principle 1: Become genuinely interested in other people
-* **You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.**
-
-2. Principle 2: Smile
-
-3. Principle 3: Remember that a person’s name is to that person the sweetest and most important sound in any language
-
-4. Principle 4: Be a good listener
-
-5. Principle 5: Talk in terms of the other person’s interests
-* **If it is important enough, prepare by finding out what interests the person or learning about their interest.**
-
-6. Principle 6: Make the other person feel important—and do it sincerely
-* **Don’t forget little courtesies.**
-
-## Part 3: How to Win People to Your Way of Thinking
-1. Principle 1: The only way to get the best of an argument is to avoid it
-* **You won’t convince someone by arguing with them.**
-
-2. Principle 2: Show respect for the other person’s opinions. Never say, “You’re wrong.”
-* **Our first reaction to most of the statements (which we hear from other people) is an evaluation or judgment.**
-* **Judge people by their own principles, not your own.**
-
-3. Principle 3: If you are wrong, admit it quickly and emphatically
-* **People don’t want to change their minds.**
-
-4. Principle 4: Begin in a friendly way
-
-5. Principle 5: Get the other person saying, “yes, yes” immediately
-* **Begin by emphasizing the things on which you agree.**
-
-6. Principle 6: Let the other person do a great deal of the talking
-
-7. Principle 7: Let the other person feel that the idea is his or hers
-
-8. Principle 8: Try honestly to see things from the other person’s point of view
-
-9. Principle 9: Be sympathetic with the other person’s ideas and desires
-
-10. Principle 10: Appeal to the nobler motives
-* **A person usually has two reasons for doing something: a real reason and a reason that sounds good.**
-* **The person will think of the real reason, without you having to mention it.  Appeal to the nobler reason.**
-
-11. Principle 11: Dramatize your ideas
-
-12. Principle 12: Throw down a challenge
-* **Stimulate competition.**
-
-## Part 4: Be a Leader—How to Change People Without Giving Offense or Rousing Resentment
-1. Principle 1: Begin with praise and honest appreciation
-* **It’s easier to listen to unpleasant things about yourself after hearing about your positive points.**
-
-2. Principle 2: Call attention to people’s mistakes indirectly
-
-3. Principle 3: Talk about your own mistakes before criticizing the other person
-
-4. Principle 4: Ask questions instead of giving direct orders
-* **Asking a question not only makes an order more palatable, it stimulates creativity.**  
-* **People are more likely to follow an order if they feel that they had a part in the decision.**
-
-5. Principle 5: Let the other person save face
-
-6. Principle 6: Praise the slightest improvement and praise every improvement. Be “hearty in your approbation and lavish in your praise.”
-
-7. Principle 7: Give the other person a fine reputation to live up to
-
-8. Principle 8: Use encouragement. Make the fault seem easy to correct
-
-9. Principle 9: Make the other person happy about doing the thing you suggest
-* **Be sincere.  Do not promise anything that you cannot deliver.  Forget about the benefits to you, momentarily and think about what they want.**
-* **Know exactly what it is you want the other person to do.**
-* **Be empathetic.  Ask yourself exactly what it is the other person wants.**
-* **Consider the benefits that other person will receive from doing what you suggest.**
-* **Match those benefits to the other person’s wants.**
-* **When you make your request, put it in the form that will convey to the other person the idea that he personally will benefit.**
-
 ## Introduction
 * In the United States, 40 percent of people experiencing homelessness were Black in 2019, 22 percent were Hispanic/Latinx, and 3.2 percent were Native-American, even though these races constituted approximately 14 percent, 18 percent, and 2 percent of the general population, respectively.
+
 ## 1. The Transformation of Homeless Services
 * [T]he moral authority and financial responsibility for providing shelter was originally in the hands of charitable organizations, with governmental support slow to follow.  Homelessness remiandly largely unclaimed as a social problem well into the twentieth century.  Without the statutory responsibility to manage the problem, and few financial resources to achieve programmatic goals, municipal players were handicappped in terms of having the knowledge and ability to overcome homelessness. 
 * Understanding the causes of homelessness is important, and knowing the common pressure points that can dismantle a life or multiple lives enables cities to intervene earlier to forestall more street living.  
 * If cities lack the legal authority or service capacity to address fully the causes and consequences of homelessness, how can the evidence of what works be leveraged?  A better approach would be for cities to move from the disjointed patchwork of often ill-defined services to a coordinated system of care whereby clients rationally receive the most appropriate service through a shared system of assessment and intake, with a commitment to measuring impact backed up with rigorous evaluation.
+
 ## 2. Engaging People on the Streets
 * Even in New York City, with its unconditional right to shelter, a right that has led to the creation of a complex network of facilities that safely accommodate more than 70,000 adults and children every night - more than 120,000 different individuals over a year - an estimated 3,588 persons were sleeping rough, according to the city’s 2019 on-night point-in-time street count.  
 * To put a fine point on it, even in one of the world’s wealthiest and most progressive cities, where any person without a home is entitled to a place to stay, thousands every night choose to sleep rough.  How better to underscore that it requires more than simply the availability of shelter to engage effectively those who sleep on the streets or in parks, transit facilities, and other public spaces of the urban landscape.
@@ -124,6 +36,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * While the circumstances in El Brox [Bogota] were unique, in general, once a decision is made to dismantle a particular encampment, a specific date must be set and communicated to the residents.  This affords the outreach teams sufficient time to do their work (build relationships, enagem clients, and the like), while confirming to encampment residents that whether they accept services or not, they will have to move by a certain date.  In short, it empowers the clients to make choices and feel at least partially in control of their circumstances.  Over the weeks leading up to a removal, as outreach teams engage, some clients will accept services.  Others will wait to see if the threat is real before pulling up stakes.  Credibility is thus critical; it is imperative that once a date is set, it is enforced.  On the stated date, with police and property managers present, outreach teams will make one last effort.  Most clients who took the wait-and-see approach will leave, either to accept services ro to find a new location.  Because of the extensive effort and advance notice, rarely is it necessary to arrest anyone for trespass, though there might be cases of involuntary removals for safety.  Once all residents of the encampment have left, the area should be cleaned of any remaining debris by the property manager, secured, and routinely patrolled to ensure the encampment is not reestablished.
 * The efforts of homeless outreach teams should become more highly visible to the community at large.
 * The culmination of these efforts is to bring these people inside.  Months of engagement can be wasted if, at the point the person finally agrees to accept a bed, no placement is available.  The ability of outreach workers to coordinate who is prioritized for shelter and housing resources is critical to success.  With this final step, much depends on whether the municipality has a range of placement options available for outreach workers to access.
+
 ## 3. Sheltering Options that Work
 * Many cities have opted for quick responses to basic needs but have not accepted reality: despite decades of evidence, homelessness is a chronic societal condition and, as such, necessitates a comprehensive, strategic, and permanent response.  
 * While the goal should be to have housing affordable to all, the reality is that the supply-demand imbalance is extreme and won’t be resolved in the short-term, if ever.  Stable housing unquestionably improves an individual’s ability to manage their lives.  However, there are individuals sheltered and unsheltered -who have physical or behavioral health issues, or both, that put them at risk, jeopardizing their ability to succeed and thrive in traditional housing.  Therefore, it becomes essential that municipalities consider offering forms of transitional living facilities as a bridge between homelessness and home.
@@ -135,6 +48,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * As Safe Havens are designed specifically for chronically homeless individuals who have been living unsheltered, clients seeking admission cannot simply arrive; instead, they must be referred (and often are brought) by an outreach worker who has verified the client's chronic homeslssness as well as their appropriateness for the proga.  Once admitted, clients are assigned a bed and locker and can come and go freely, leaving their belongings behind and not be subject to a curfew.
 * For shelters to succeed, they need to provide structure, ensure safety, and offer an array of services.  As shetlers evolve away from emergency response to centers of transformation, attention should be paid to the service model, the physical design,  building up an organizational entity qualified to operate the program.  
 * Some cities have organized certain shelters around specific root-cause issues; for example, designating one or more shelters for individuals focused on finding and retaining employment, living with a mental health disorder, recovering from addiction, or obtaining medical recuperation and support. 
+
 ## 4. Developing an Affordable Housing Strategy
 * The upswing in urban living follows years of disinvestment in social housing by many national governments, which has put many low-income people at risk of displacement because of escalating costs.  
 * A Pew Charitable Trusts report in 2018 concluded that 38 percent of rental households in the United States were rent burdened in 2015.
@@ -157,6 +71,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * One avenue to securing these funds is local revenue raising.
 * Another option is to create public-private partnerships that help fund housing for the homeless.
 * Another strategy encourages development through inclusionary housing, which uses building codes or zoning regulations to increase production of affordable housing.
+
 ## 5. Supportive Housing to Target Complex Needs
 * A comprehensive housing plan considers both affordability and the many reasons why a person may be living unsheltered.  Homelessness brought on by an economic crisis can be solved with affordable housing, but chronic homelessness requires more than simply a place to stay.  * It requires additional support to ensure a person stays housed.
 * Supportive housing is an evidence-based model of permanent affordable housing that combines on-site services and support to lease-holding tenants who need assistance to live successfully on their own.
@@ -169,6 +84,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * Supportive housing works best for people who have multiple needs, such as housing stability, no or low income, serious and persistent health problems, or mental health or drug addiction challenges, or both.
 * As the street homeless often do not have health insurance, emergency costs are frequently not reimbursed and public hospitals often bear the cost.  If the PSH can reduce costly emergency room visits, a compelling budgetary argument can therefore be made.
 * Outcomes for the homeless criminal justice population in supportive housing are also mixed but not promising.  For example, a 2012 study of a reentry program in Ohio found that participants were 43 percent less-likely to be rearrested for misdemeanors and 61 percent less likely one year later to be incarcerated than the comparison group, but there were no cost savings.  The 2017 RAND study in LosAngeles found decreases in the number of people arrested and jailed, but an overall increase in jail days and costs.
+
 ## 6. Prevention that Works
 * Given the rarity of homelessness and its relationship to a certain level of bad luck, ensuring that prevention strategies reach the right household poses a major challenge, because distinguishing the potentially homeless household or person from the rest of those in the neighborhood suffering from the stresses of poverty is difficult.
 * Considering that only a small percentage of any one ends up homeless, and given that public resources are limited, programs must be well designed and workers must be efficient at identifying those at risk and choosing the proper services for them.  A classic challenge that cities face is structuring service offerings that help individuals within their jurisdiction without luring people from other locations that do not offer such services.
@@ -176,12 +92,14 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * The goals of both secondary and tertiary prevention strategies are to ensure that homelessness is brief and does not recur.
 * Secondary prevention involves targeting people who are just approaching the crisis response system or are at the shelter door. The aim is to stabilize an individual or family.
 * Tertiary prevention seeks to eliminate repeated spells of homeessness, recognizing that those who have been homeless before face the highest risk of homeslssness.
+
 ## 7. Systems-Level Thinking
 * Each player with a piece of the solution must be brought to the same table to coordinate a strategic response.  Only a complete, coordinated, and well-managed array of programs at scale can deliver on the promise to end homelessness.
 * Many cities whose experiences are described in this book have deepened their approach to homelessness by pursuing evidence-based practices and refining models of care.  At the core of  municipal services, however, remains a siloed array of emergency services and shelters.  An overlay of competing political and structural barriers drive fault lines through what should be a coordinated continuum of services.
 * A clear articulation of the initial set of actions to be carried out to fulfill the vision statement, set forth in a broadly shared document, creates a road map for partners to rally behind.  Ideal homelessness plans include actions on prevention, intervention, and permanency, tackling the challenge from all angles.  Winning endorsements from all or most of the organizations that have the potential to impact outcomes will signal that the community is behind the plan.
 * Plans require updating as initiatives take hold and as constant monitoring and attention provide evidence of impact.
 * This systems-level principle is best applied when broken down into manageable objectives, achievable short-term outcomes that build momentum toward the longer-term goal.
+
 ## 8. Engaging the Community
 * Sustained commitment to overcoming homelessness rests strongly on an engaged community that understands, supports, and constructively contributes to the strategy.  An effective communications campaign can inform the public in ways that broaden networks, encourage innovation, and focus attention on alleviating the struggles of the homeless.
 * Two different but not necessarily separate passions inspire the public’s opinions about homelessness.  
@@ -195,6 +113,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * Street counts are useful tools for providing overall, year-over-year accountability; however, they are not robust enough to manage the daily street outreach operations or track placements from the street into homes and shelters.
 * By-name lists are not the equivalent of a count, in that they do not accurately or completely reflect the current status.  However, these lists can reflect some of the flow in and out of homelessness and homeless people’s length of stay better than a point-in-time street count.
 * Capacity management databases contain a wealth of information on shelter inhabitants since anyone who stays a night or uses a service is logged in.
+
 ## 9. Managing for Results: Performance Management and Modeling
 * Collecting data helps in better understanding homelessness, but it is just as important for responsible parties to use information in real time to address problems as they arise, documenting what works - and - what doesn’t - with systems, data and accountability, and solid management.
 * Governments and nonprofits interested in managing for results are increasingly using regularly reported indicators or measures, such as outcomes collected in databases, as a way to enhance performance management systems.  Pictures and data might not be projected on live screens, as in the Paris crisis center, but they are reviewed at a designated time by top management to assess progress in meeting goals.  The information that constitutes performance measures consists of quantitative and qualitative indicators of various aspects of public or nonprofit programs.  The measures are tracked and reported at regular intervals, provide objective information to improve decision making as well as accountability, and prove critical to results-oriented management.
@@ -208,7 +127,10 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * From the point when permanency for those currently experiencing homeless is achieved, the scale going forward need only be enough to meet the expected new onset of homelessness.  The more that preventive strategies reduce that onset, the less that needs to be retained in the ongoing homeless service system capacity.
 * Tracking homelessness system-wide also requires coordinated data systems or matching data between systems, or both, so  that partners can understand the interrelationships of service systems that affect the homeless outcome and can detect impact from efforts to improve results.
 * Performance monitoring provides an early warning system for changing trends, but it will not necessarily shed light on the causes or solution of the newly identified trend.
+
 ## 10. Managing in Emergencies
+* No notes.
+
 ## 11. Conclusion
 * Effective outcomes require sustained cross-system collaboration.  
 * Solutions require the input of systems that produce the problem: hospitals, jails, prisons, behavioral health facilities, child welfare systems, domestic violence systems, housing providers, housing courts, and others.
@@ -221,6 +143,7 @@ By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 * At the core of those best practices are solid data, the glue that holds the collaborative partners together, informing service systems with a better understanding the people they serve.
 * Street counts effectively measure change over time and can be energizing points of civic engagement.
 * The emergency of by-name lists has demonstrated the ability to galvanize partners around the very concrete lives of those in need.
+
 ## My thoughts:
 * It’s easy to say “our systems don’t work” because we see people on the streets.  But when it is working, we aren’t aware because it isn’t as visible.  We don’t see how many people are in housing, especially in housing projects that are well-integrated in the neighborhood.  We don’t see how many beds are occupied in a shelter or the traffic experienced by social services.
 
