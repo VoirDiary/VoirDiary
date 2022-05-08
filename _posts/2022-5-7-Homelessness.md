@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Ten Global Cities Take On Homelessness by Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo"
+title: "How Ten Global Cities Take On Homelessness: Excerpts"
 categories:
   - Book Notes
 tags:
@@ -10,6 +10,8 @@ tags:
   - Urbanism
   - Public Policy
 ---
+
+By Linda Gibbs, Jay Bainbridge, Muzzy Rosenblatt, and Tamiru Mammo
 
 ## Part 1: Fundamental Techniques in Handling People
 1. Principle 1: Don’t criticize, condemn, or complain
