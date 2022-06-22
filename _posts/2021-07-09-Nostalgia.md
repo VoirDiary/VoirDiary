@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nostalgia for the Not-So Distant Past"
+title: "Nostalgia for the not-so-distant past"
 categories:
   - Journaling
 tags:
