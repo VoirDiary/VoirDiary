@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strength in Simplicity - a Case for Plain Language"
+title: "Strength in simplicity - A case for plain language"
 categories:
   - Op-Eds
   - Journaling
