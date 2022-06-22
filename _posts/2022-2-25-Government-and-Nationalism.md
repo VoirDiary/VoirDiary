@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Notion of Government as National Embodiment is a Very American One"
+title: "The notion of government as national embodiment is a very american one"
 categories:
   - Op-Eds
   - Journaling
