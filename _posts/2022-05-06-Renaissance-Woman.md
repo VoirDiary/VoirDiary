@@ -37,4 +37,4 @@ I even believe that my extracurriculars make me more creative and focused at wor
 
 Now, I face the dilemma of deciding between a Spanish book club at North Seattle College, photography lessons at the Photographic Center Northwest, and a coding course with University of Washington Continuing Education. I’m leaning toward taking them all. As an older student, I’m not afraid of a heavy course load.
 
-*Originally published in the [(Seattle Times (May 6, 2022 Issue))https://www.seattletimes.com/opinion/i-finally-realized-my-dream-of-becoming-a-renaissance-woman/]
+*Originally published in the [Seattle Times (May 6, 2022 Issue)](https://www.seattletimes.com/opinion/i-finally-realized-my-dream-of-becoming-a-renaissance-woman/)
