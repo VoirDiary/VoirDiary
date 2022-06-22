@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gun reform paves the way for police reform.
+title: Gun reform paves the way for police reform
 categories:
   - Op-Eds
 tags:
