@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tireless & Wheeless: On the Loss of a Bike"
+title: "Tireless & wheeless: On the loss of a bike"
 categories:
   - Journaling
 tags:
