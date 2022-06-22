@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Ten Global Cities Take On Homelessness: Excerpts"
+title: "How ten global cities take on homelessness: Excerpts"
 categories:
   - Book Notes
 tags:
