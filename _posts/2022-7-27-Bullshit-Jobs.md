@@ -11,6 +11,9 @@ tags:
   - Non-Fiction
 ---
 
+
+
+
 # Preface: On the Phenomenon of Bullshit Jobs
 * In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a fifteen-hour work week.  There’s every reason to believe he was right.  In technological terms, we are quite capable of this.  And yet it didn’t happen.  Instead, technology has been marshaled, if anything, to figure out ways to make us all work more.  In order to achieve this, jobs have had to be created that are, effectively, pointless.  
 * It’s as if someone were out there making up pointless jobs for the sake of keeping us all working.  And here, precisely, lies the mystery.  * In capitalism, this is precisely what is not supposed to happen.  Sure, in the old inefficient Socialist states like the Soviet Union, where employment was considered both a right and a sacred duty, the system made up as many jobs as it had to.  (This is why in Soviet department stores it took three clerks to sell a piece of meat.)  But of course, this is the very problem market competition is supposed to fix.  According to economic theory, at least, the last thing a profit-seeking firm is going to do is shell out money to workers they don’t really need to employ.  Still, somehow, it happens.
