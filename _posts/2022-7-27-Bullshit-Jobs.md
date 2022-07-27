@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Bullshit Jobs: A Theory by David Graeber Select Quotes"
+categories:
+  - Book Notes
+tags:
+  - Books
+  - Anthropology
+  - Economics
+  - Business
+  - Non-Fiction
+---
 
 # Preface: On the Phenomenon of Bullshit Jobs
 * In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like * * * Great Britain or the United States would have achieved a fifteen-hour work week.  There’s every reason to believe he was right.  In technological terms, we are quite capable of this.  And yet it didn’t happen.  Instead, technology has been marshaled, if anything, to figure out ways to make us all work more.  In order to achieve this, jobs have had to be created that are, effectively, pointless.  
