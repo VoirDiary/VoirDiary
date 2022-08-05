@@ -6,6 +6,7 @@ categories:
 tags:
   - Biohacking
   - Technology
+  - Diet
 ---
 
 As an employee at a West Coast tech company, I hear about biohacking a lot. My colleagues talk about diets, like keto and Whole30, every time we go to lunch.  They debate which is best for burning fat or clearing brain fog.  Someone invariably brings up intermittent fasting (and suddenly it makes sense why their plate is piled 3-meals high).
@@ -16,7 +17,7 @@ On the other end of the spectrum are stimulants.  Though intimation of their use
 
 Given the popularity of biohacking in the industry, it’s no surprise that it has come to be considered the domain of tech bros.  
 
-But under a broad definition, my non-tech worker friends indulge, too.  
+But under a [broad definition](https://www.forbes.com/sites/bernardmarr/2021/02/26/whats-biohacking-all-you-need-to-know-about-the-latest-health-craze/?sh=534aaede5d76), my non-tech worker friends indulge, too.  
 
 Several have started using fillers and injectables to combat signs of aging.  Botox is a favorite.  It’s a toxin that paralyzes the muscles to smooth wrinkles or stop their formation.  Others swear by Cool Sculpting, a procedure that destroys fat cells by freezing them.  
 
