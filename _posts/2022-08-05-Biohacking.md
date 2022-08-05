@@ -33,7 +33,7 @@ I’ve found that biohackers of all stripes defend their hacks with a righteous 
 
 “Why would you waste your money?” is a common response that I get when discussing cosmetic procedures.  But I could ask the same of these people when they brag about experimenting with a new line of nootropics.  
 
-On the topic of fad diets, a war is raging.  [Anti-dieters](https://www.wsj.com/articles/the-next-it-diet-not-trying-to-lose-weight-11641654014) rail against keto, paleo, and intermittent fasting as being [disordered eating](https://greatist.com/health/the-anti-diet-movement#1.-Youre-right!-Diets-dont-work!-But-this-isnt-a-diet,-its-a-lifestyle) in disguise.  They point to ugly side effects, such as [bad breath, constipation, and kidney stones]9https://hexscience.substack.com/p/no-we-dont-want-to-hear-about-your?s=r), and a lack of scientific backing.  
+On the topic of fad diets, a war is raging.  [Anti-dieters](https://www.wsj.com/articles/the-next-it-diet-not-trying-to-lose-weight-11641654014) rail against keto, paleo, and intermittent fasting as being [disordered eating](https://greatist.com/health/the-anti-diet-movement#1.-Youre-right!-Diets-dont-work!-But-this-isnt-a-diet,-its-a-lifestyle) in disguise.  They point to ugly side effects, such as [bad breath, constipation, and kidney stones]https://hexscience.substack.com/p/no-we-dont-want-to-hear-about-your?s=r), and a lack of scientific backing.  
 
 Honestly, I can’t think of a topic that incites as much antagonism, except maybe football or Joe Rogan.
 
