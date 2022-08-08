@@ -21,6 +21,7 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
   * Finish the envelope in this way.
   * After drawing the envelope, build-in smaller shapes.
 ![image](/assets/images/49A6BE77-CD70-41DE-95C2-482A4804E2C7.jpeg)
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/49A6BE77-CD70-41DE-95C2-482A4804E2C7.jpeg?raw=true" width="400">
 ![image](/assets/images/D92D26DB-11B4-49C8-9F5E-569AF71D1210.jpeg)
 * Look for curves, “movement”, anchor points (where direction changes or lines intersect).
 * Find the plumb line.
