@@ -42,8 +42,6 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
 
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/C5061625-6BF5-4B8A-B220-E88DBB10EFB0.jpeg?raw=true" width="400">
 
-![image](/assets/images/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg)
-![image](/assets/images/C5061625-6BF5-4B8A-B220-E88DBB10EFB0.jpeg)
 
 * Hold the pencil loosely, more like a paintbrush than a writing pen.
 * Move from the shoulder, not the wrist.
