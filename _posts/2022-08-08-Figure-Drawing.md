@@ -28,6 +28,7 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
 * Put in the shadow shapes.
 * Similar but alternative techniques to blocking are to draw the body as a series of ovals or lines.  
 ![image](/assets/images/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg)
+![image](/assets/images/C5061625-6BF5-4B8A-B220-E88DBB10EFB0.jpeg)
 <img src="https://user-images.githubusercontent.com/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg" width="400">
 * Hold the pencil loosely, more like a paintbrush than a writing pen.
 * Move from the shoulder, not the wrist.
