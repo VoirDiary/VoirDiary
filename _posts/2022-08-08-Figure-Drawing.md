@@ -26,18 +26,27 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
 
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/D92D26DB-11B4-49C8-9F5E-569AF71D1210.jpeg?raw=true" width="400">
 
-![image](/assets/images/D92D26DB-11B4-49C8-9F5E-569AF71D1210.jpeg)
 
 * Look for curves, “movement”, anchor points (where direction changes or lines intersect).
 * Find the plumb line.
 * Look at the tilt of the hips/shoulders, asis/sacrum, head, rib cage.
+
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/1555EB40-611C-4FA2-81EE-CAC204852816.jpeg?raw=true" width="400">
+
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/C5AFAC59-6673-428A-AE77-789FFD881D3B.jpeg?raw=true" width="400">
+
 ![image](/assets/images/1555EB40-611C-4FA2-81EE-CAC204852816.jpeg)
 ![image](/assets/images/C5AFAC59-6673-428A-AE77-789FFD881D3B.jpeg)
 * Put in the shadow shapes.
 * Similar but alternative techniques to blocking are to draw the body as a series of ovals or lines.  
+
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/D92D26DB-11B4-49C8-9F5E-569AF71D1210.jpeg?raw=true" width="400">
+
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/D92D26DB-11B4-49C8-9F5E-569AF71D1210.jpeg?raw=true" width="400">
+
 ![image](/assets/images/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg)
 ![image](/assets/images/C5061625-6BF5-4B8A-B220-E88DBB10EFB0.jpeg)
-<img src="https://user-images.githubusercontent.com/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg" width="400">
+
 * Hold the pencil loosely, more like a paintbrush than a writing pen.
 * Move from the shoulder, not the wrist.
 * For practice, draw without looking at paper.
