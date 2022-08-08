@@ -13,6 +13,7 @@ tags:
 
 
 ![image](/assets/images/04AC24E4-C5D5-4B1F-B52A-5C1CD05A2C58.jpeg){:height="450px" width="257px"}
+![image](/assets/images/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg){:height="450px" width="257px"}
 
 Last Fall, I took a gouache class last at the Gage Academy.  It was my first time painting since my youth, besides a few 1-off classes at Blick.  I found it to be very immersive and it satisfied a need for tactile activity that is lacking in my job.  
 
