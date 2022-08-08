@@ -16,10 +16,10 @@ I signed up for figure drawing class not because I have an interest in drawing (
 Besides overcoming my fear of naked strangers, I picked up some simple approaches to blocking.  These include:
 
 * Draw the envelope - this is a 2D shape encapsulating the subject comprising several intersecting straight lines.  A polygon.  This is an opportunity to decide on a scale of the figure on the paper.
-** Start with one line, look at the model while squinting and holding out your pencil to gauge the angle of the line.  Do the same for the second line.  
-** When you have two points, you can begin to triangulate.  This means that you will decide where to place a third point by determining the angle of the third line from one of the existing points that intersects one of the existing lines.  
-** Finish the envelope in this way.
-** After drawing the envelope, build-in smaller shapes.
+..* Start with one line, look at the model while squinting and holding out your pencil to gauge the angle of the line.  Do the same for the second line.  
+..* When you have two points, you can begin to triangulate.  This means that you will decide where to place a third point by determining the angle of the third line from one of the existing points that intersects one of the existing lines.  
+..* Finish the envelope in this way.
+..* After drawing the envelope, build-in smaller shapes.
 * Look for curves, “movement”, anchor points (where direction changes or lines intersect).
 * Find the plumb line.
 * Look at the tilt of the hips/shoulders, asis/sacrum, head, rib cage.
