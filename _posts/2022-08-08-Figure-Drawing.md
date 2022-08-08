@@ -24,6 +24,7 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
 * Find the plumb line.
 * Look at the tilt of the hips/shoulders, asis/sacrum, head, rib cage.
 ![image](/assets/images/1555EB40-611C-4FA2-81EE-CAC204852816.jpeg)
+![image](/assets/images/C5AFAC59-6673-428A-AE77-789FFD881D3B.jpeg)
 * Put in the shadow shapes.
 * Similar but alternative techniques to blocking are to draw the body as a series of ovals or lines.  
 ![image](/assets/images/0018316E-9553-4373-BE9A-6820AD4818FE.jpeg)
