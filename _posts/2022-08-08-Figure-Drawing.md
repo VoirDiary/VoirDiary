@@ -20,6 +20,8 @@ Besides overcoming my fear of naked strangers, I picked up some simple approache
   * When you have two points, you can begin to triangulate.  This means that you will decide where to place a third point by determining the angle of the third line from one of the existing points that intersects one of the existing lines.  
   * Finish the envelope in this way.
   * After drawing the envelope, build-in smaller shapes.
+![image](/assets/images/49A6BE77-CD70-41DE-95C2-482A4804E2C7.jpeg)
+![image](/assets/images/X)
 * Look for curves, “movement”, anchor points (where direction changes or lines intersect).
 * Find the plumb line.
 * Look at the tilt of the hips/shoulders, asis/sacrum, head, rib cage.
