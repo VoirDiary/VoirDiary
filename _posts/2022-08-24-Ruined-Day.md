@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socializing under the influence"
+title: "Ruined day syndrome"
 categories:
   - Journaling
 tags:
