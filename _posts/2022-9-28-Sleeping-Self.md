@@ -63,21 +63,36 @@ automatically discards the vast majority of people as forgettable. But sometimes
 * I remembered the joke “love minus distance plus time equals hate.” I just needed a minute of distance, so I could appreciate Weston for who he was. (Kindle Location 3682).
 
 * “I’m confused about it all right now. Have you heard about Ferguson, and all the racial tension and stuff?” 
-“Oh, yes. That stuff doesn’t surprise me. America is good with race. Argentina used to have black people. Do you see any?” 
+
+“Oh, yes. That stuff doesn’t surprise me. America is good with race. Argentina used to have black people. Do you see any?”
+
 “No, actually. I haven’t seen almost any. Did they all move to Brazil?” 
+
 “No. We killed them all. Black slaves made up almost half our country at one point. But then we only promised them freedom if they’d fight in war. And we sent all the men to the front lines of our war with Spain, and then our war with Paraguay. We killed them all. And then we only allowed Europeans to immigrate here. So, Argentina is worse with race. America will be fine.” 
+
 “Whoa. I didn’t know any of that. Do people talk about that?” 
+
 “People don’t know. They trust the newspapers, which are all lies. What do you think about Syria and the U.S.?” she said, leaning in like she was asking about secrets. 
+
 “What Assad is doing is terrible. It’s so terrible. I don’t know if the U.S. is going to intervene. It makes me really sad.” 
+
 “You believe that Assad is bad?” 
+
 “Yes, doesn’t everyone?” 
+
 “I don’t believe it. I believe it’s the U.S. coming in and lying, the newspapers are lying. The U.S. wants the oil in Syria, to control. I think Assad is maybe a good guy, and the rebels are U.S.-planted terrorists to disrupt. Like what the U.S. did in Nicaragua.” 
+
 Whoa. There are so many ways to see the world. I tried to counter. “I don’t know. I’ve 
 got friends in journalism,” I said. “I’ve got friends who work at NPR and cover the Middle East. They’re there. They see what they see and report it. And our news media is pretty antagonistic with our government.” 
+
 “Well, that’s what they want you to think.” She leaned back and raised her eyebrows, looking down at her beer. Her body language pulled away as she realized I was another sheep in the system. I tried to bring her back. “What makes you think these things?” I asked.
+
 “It’s just the truth. The U.S. runs the world through coercion, through fake news stories, through control. Everyone knows this that’s outside of the U.S. They keep Americans arguing over guns and black people so they won’t look outside the country and see that the U.S. is an empire.” 
+
 “Wow. That may be some level of true. Thank God I made it out, right?” I held my beer up, and she leaned back in to cheers me. 
+
 “I mean, I’ve always wanted to visit the U.S.,” she said, somewhat reassuringly. “I want to do a road trip across it. It’s so famous, to do the U.S. road trip. One day I will. I want to see the empire before it falls.” 
+
 “It is a beautiful empire,” I said.
 (Kindle Location 4520).
 
@@ -85,7 +100,10 @@ got friends in journalism,” I said. “I’ve got friends who work at NPR and 
 lush. Horses waded through it. Puerto Natales swarmed with serious hikers from all over—Europeans, Australians, Israelis, and Americans. They come here to do the circuit hikes around the peaks of Torres del Paine and Cuernos del Paine. The full circuit takes about a week. You camp along the way, stop at ranger cabins to replenish or have a beer, and meet hikers from all over the planet. For two days, we played tourists along with the crowds—shopping, horseback riding, and eating well. Then we drove the final two hours to the park itself. (Kindle Location 4842).
 
 * “Mom, that fruit is probably from a factory just like at home.” 
+
 “Well, I don’t know. It seems fresher. I have us big water bottles, metal ones, lightweight, so we don’t get that BPA poison in our systems. Oh, and here.” She handed me a crystal. “I got these at a gift shop, they are crystals from the top of the Andes and the lady said they are charged with good energy. I think we should have them in our pockets! For good luck.” 
+
 I laughed. “Mom, when I was a kid, you forbade me from having those little troll dolls with the poofy pink hair because you thought it was witchcraft and un-Christian. And here you are giving me a crystal?” 
+
 “God made crystals. The Chinese made those troll dolls. Trolls are demonic. Crystals are okay. And so are pennies.
 (Kindle Location 4871).
