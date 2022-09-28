@@ -101,9 +101,9 @@ lush. Horses waded through it. Puerto Natales swarmed with serious hikers from a
 
 * “Mom, that fruit is probably from a factory just like at home.” 
 
-“Well, I don’t know. It seems fresher. I have us big water bottles, metal ones, lightweight, so we don’t get that BPA poison in our systems. Oh, and here.” She handed me a crystal. “I got these at a gift shop, they are crystals from the top of the Andes and the lady said they are charged with good energy. I think we should have them in our pockets! For good luck.” 
+      “Well, I don’t know. It seems fresher. I have us big water bottles, metal ones, lightweight, so we don’t get that BPA poison in our systems. Oh, and here.” She handed me a crystal. “I got these at a gift shop, they are crystals from the top of the Andes and the lady said they are charged with good energy. I think we should have them in our pockets! For good luck.” 
 
-I laughed. “Mom, when I was a kid, you forbade me from having those little troll dolls with the poofy pink hair because you thought it was witchcraft and un-Christian. And here you are giving me a crystal?” 
+      I laughed. “Mom, when I was a kid, you forbade me from having those little troll dolls with the poofy pink hair because you thought it was witchcraft and un-Christian. And here you are giving me a crystal?” 
 
-“God made crystals. The Chinese made those troll dolls. Trolls are demonic. Crystals are okay. And so are pennies.
-(Kindle Location 4871).
+      “God made crystals. The Chinese made those troll dolls. Trolls are demonic. Crystals are okay. And so are pennies.
+      (Kindle Location 4871).
