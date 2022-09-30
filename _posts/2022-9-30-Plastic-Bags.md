@@ -41,4 +41,4 @@ At best, the ban achieves negligible environmental benefits. More likely, the ba
 
 As a similar saying goes, sometimes the path to waste is paved with sustainable intentions.
 
-Originally published by the Tacoma News Tribune(https://www.thenewstribune.com/opinion/article266128636.html).
+Originally published by the [Tacoma News Tribune](https://www.thenewstribune.com/opinion/article266128636.html).
