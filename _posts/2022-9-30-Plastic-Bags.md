@@ -1,4 +1,4 @@
----
+  ---
 layout: post
 title: "Washington’s plastic bag ban is well-intentioned. In reality, it’s been a huge waste."
 categories:
@@ -10,7 +10,8 @@ tags:
   - Recycling
   - Public Policy
   - Local Policy
- ---
+  ---
+
 
 I know that I’m not the only one that relies on old shopping bags to fulfill a second life as garbage bags. In fact, grocery stores and restaurants have long been a primary source of trash can liners for many of my friends and family.
 
