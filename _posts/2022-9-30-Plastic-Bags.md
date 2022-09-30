@@ -17,19 +17,19 @@ I know that I’m not the only one that relies on old shopping bags to fulfill a
 
 But ever since Washington state adopted a plastic bag ban, my garbage bag supply has been dwindling.
 
-The law, enacted in January 2021, prohibits single-use plastic carryout bags in all food service businesses, festivals and markets. Instead, businesses may offer paper bags or reusable plastic bags for a charge of $0.08. Or shoppers can bring their own.
+The law, enacted in January 2021, [prohibits single-use plastic carryout bags](https://ecology.wa.gov/Waste-Toxics/Reducing-recycling-waste/Waste-reduction-programs/Plastics/Plastic-bag-ban) in all food service businesses, festivals and markets. Instead, businesses may offer paper bags or reusable plastic bags for a charge of $0.08. Or shoppers can bring their own.
 
 As a result of the ban, many Washington businesses have stopped offering bags at all. With shopping bags becoming increasingly uncommon, many Washingtonians will become unwilling participants in the retail garbage bag market.
 
 Even when businesses do offer bags, reusable plastic bags and paper bags carry problems of their own.
 
-“Reusable” sounds great, right? Actually, the term simply means that the bags have a thickness of 2.25 millimeters and contain a minimum of 40% post-consumer recycled content. So, reusable plastic bags result in the consumption of even more plastic than single-use plastic bags.
+“Reusable” sounds great, right? Actually, the term simply means that [the bags have a thickness of 2.25 millimeters and contain a minimum of 40% post-consumer recycled content](https://dor.wa.gov/sites/default/files/2022-02/sn_21_Plasticbagban.pdf). So, reusable plastic bags result in the consumption of even more plastic than single-use plastic bags.
 
 And other than as trash bags, I doubt that reusable plastic bags see much “reuse.” Usually encrusted with food drippings or smelling of yesterday’s leftovers, they aren’t exactly substitutes for tote bags or purses.
 
 My experience has been that more businesses offer paper bags than reusable plastic bags in the post-ban era. While paper bags make great receptacles for clean recyclables, they do not contain liquids well. Thus, they make poor trash bags.
 
-To boot, paper bags are worse for the environment. Cutting down and processing trees requires water, toxic chemicals, fuel and heavy machinery. Paper bags have four times the carbon footprint of their plastic counterparts.
+To boot, paper bags are worse for the environment. Cutting down and processing trees requires water, toxic chemicals, fuel and heavy machinery. [Paper bags have four times the carbon footprint of their plastic counterparts](https://www.bbc.com/news/business-47027792).
 
 But won’t more shoppers bring bags to avoid the fee? I’m skeptical. Eight cents is hardly a deterrent for most customers. What else can you buy for eight cents? The value is difficult to register.
 
