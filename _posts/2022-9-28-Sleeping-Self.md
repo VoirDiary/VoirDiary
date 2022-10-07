@@ -13,6 +13,8 @@ tags:
 " target="_blank"><img src="http://img.youtube.com/vi/usb2435vSZA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+![](https://youtube.com/watch?feature=player_embedded&v=usb2435vSZA)
+
 * I have learned this for certain: if discontent is your disease, travel is medicine. It resensitizes. It opens you up to see outside the patterns you follow. Because new places require new learning. It forces your childlike self back into action. When you are a kid, everything is new. You don’t know what’s under each rock, or up the creek. So, you look. You notice because you need to. The world is new. This, I believe, is why time moves so slowly as a child—why school days creep by and summer breaks stretch on. Your brain is paying attention to every second. It must as it learns the patterns of living. Every second has value. But as you get older, and the patterns become more obvious, time speeds up. Especially once you find your groove in the working world. The layout of your 
 days becomes predictable, a routine, and once your brain reliably knows what’s next, it reclines and closes its eyes. Time pours through your hands like sand.
 
