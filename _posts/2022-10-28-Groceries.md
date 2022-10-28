@@ -66,48 +66,49 @@ At the 1956 International Food Congress in Rome—one year before Joe Coulombe w
 * But slotting fees are nothing. They are so transparent and obvious that many retailers have moved away from them. In their place, a mad, inventive spree of different taxes and extractive demands has emerged. There are “promotional fees” (subsidizing the cost of two-for-one deals, tag sales, and other discounts). There is “freefill” (a free case or ten in each flavor for the retailer to sell at 100 percent profit). There are “advertising fees” for unwanted but mandatory placement in the company’s internal newsletter (a promotion that almost no one will read and will produce no benefits), or fees for receiving the privilege of being broadcast on their “radio network” (a network that consists of interrupting whatever Muzak is bopping from their in-store speakers to announce your product). There are negotiations around the length of credit. There are payments for waste, spoilage, or just because your product—that they bought—doesn’t sell. There are mandatory “requests” that you use their specific overpriced proprietary supply chain “solutions” (“You must pay for our style of bar code, despite the fact that it costs two times the normal amount and the difference disappears into our pocket,” a consultant tells me), and fees for package redesign or store-mandated market research. There are fees on top of fees. And every movement or change offers new opportunities: money is demanded when the retailer opens a new store or refurbishes an existing one, when a competitor opens up nearby, when the category gets its annual overhaul.
 
 **Part 4: The Retail Experience**
-Lorr (the author) got a job at Whole Foods to get the inside scoop.
-New employees must complete a twelve-hour orientation about the mission and philosophy of Whole Foods.
-* "concussive effect of repetitive dull content"
-** "Passing the probation vote [to be hired at Whole foods] requires a two-thirds majority in which each team member fills out a skills sheet anonymously ranking our abilities."
-** "We [Whole Foods employees] are told to apologize for any and every mistake, especially if it isn’t our fault, unless, of course, the customer is complaining about injury or food-borne illness"
-* "Andy gives us a secret phrase to use whenever we are stumped: “Sounds important.” It can be deployed almost universally to respond to questions we don’t fully understand, hectoring we don’t necessarily deserve, demands for advice we don’t particularly have"
-* "Mr. Green is the Orwellian name for the Whole Foods internal security team"
-* "Human Capital Management, or “just-in-time scheduling”"
-* "somewhere in the last ten years, just-in-time manufacturing morphed into just-in-time scheduling."
-* "He [Walter] only opens once or twice a week so he never completely adjusts to any schedule."
-* "Another [study] found that 60 percent of retail workers said that they needed to be available to fulfill every work schedule that might be assigned in a given week"
-* "There are professions where we expect people to be “on call”—doctors, first responders—but they are compensated for that both financially and in civic respect"
-* "organic does not mean healthier, but rather is an option to pay extra to limit the externalities of production"
-* "we pluck melons just on the verge of rot and take them into the back room, where a woman who speaks no English stands all day carving them up into chunks and packing endless grab-n-go containers."
+*Lorr (the author) got a job at Whole Foods to get the inside scoop.
+New employees must complete a twelve-hour orientation about the mission and philosophy of Whole Foods.*
+* Concussive effect of repetitive dull content
+** Passing the probation vote [to be hired at Whole foods] requires a two-thirds majority in which each team member fills out a skills sheet anonymously ranking our abilities.
+** We [Whole Foods employees] are told to apologize for any and every mistake, especially if it isn’t our fault, unless, of course, the customer is complaining about injury or food-borne illness
+* Andy gives us a secret phrase to use whenever we are stumped: “Sounds important.” It can be deployed almost universally to respond to questions we don’t fully understand, hectoring we don’t necessarily deserve, demands for advice we don’t particularly have
+* Mr. Green is the Orwellian name for the Whole Foods internal security team
+* Human Capital Management, or “just-in-time scheduling”
+* somewhere in the last ten years, just-in-time manufacturing morphed into just-in-time scheduling.
+* He [Walter] only opens once or twice a week so he never completely adjusts to any schedule.
+* Another [study] found that 60 percent of retail workers said that they needed to be available to fulfill every work schedule that might be assigned in a given week
+* There are professions where we expect people to be “on call”—doctors, first responders—but they are compensated for that both financially and in civic respect
+* [O]organic does not mean healthier, but rather is an option to pay extra to limit the externalities of production
+* [W]e pluck melons just on the verge of rot and take them into the back room, where a woman who speaks no English stands all day carving them up into chunks and packing endless grab-n-go containers.
 
 **Part 5: Theater of Retail**
-* "kept thinking of the medieval practice of simony, where the wealthy could pay money to be released from their sins."
-·"Government regulation of our food is as spotty as a fourteen-year-old boy’s first beard"
-·       "These audits rarely occur unannounced, instead unfolding with all the spontaneity of a doctor’s appointment. ... [because] People don’t hire you to blow up their deals."
-·       "It [the pig farm] was not filthy, nor a hellscape. It was instead an intensely alien, highly functional place for animals to live a sad, short life before they were set to die."
-·       "Anthropologist Daniel Miller studied purchasing decisions of Britons and Trinidadians and came to the conclusion that most people didn’t even know whether they liked something until after they shared it with others."
-Part 6: Bottom of the Commodity Chain
+* I kept thinking of the medieval practice of simony, where the wealthy could pay money to be released from their sins.
+* Government regulation of our food is as spotty as a fourteen-year-old boy’s first beard
+* These audits rarely occur unannounced, instead unfolding with all the spontaneity of a doctor’s appointment. ... [because] People don’t hire you to blow up their deals.
+* It [the pig farm] was not filthy, nor a hellscape. It was instead an intensely alien, highly functional place for animals to live a sad, short life before they were set to die.
+* Anthropologist Daniel Miller studied purchasing decisions of Britons and Trinidadians and came to the conclusion that most people didn’t even know whether they liked something until after they shared it with others.
+
+**Part 6: Bottom of the Commodity Chain**
 The horrors of shrimp
-·       Tun-Lin is a man from Myanmar who makes his way to Thailand only to be sold into slave labor on a shrimp boat. He left Myanmar not even knowing what a factory was, only that if you work hard you can make good money. He watched his best friend die on a shrimp boat and then get kicked over the side. After five years of slave labor on the boat he simply asks the captain if he can leave and is set free. This chapter goes into much more gruesome detail about what life was like aboard the slave ship.
-·       "NGOs estimate 17 to 60 percent of Thai shrimp includes slave labor like Tun-Lin in its supply chain"
-·       "This is called transshipment at sea. It saves fuel for the larger refrigerated fishing vessels, and it allows some boats to stay out almost indefinitely. Resupplied by others, they turn into floating prisons for trafficked workers."
-·       "Rule number one when hiring people is you do not hire locals. They will want to go home. They will have families. You want someone who will live here twenty-four"
-·       "Peeling shrimp is delicate labor, and despite all advances in technology, nothing can yet do the work better than small, nimble fingers."
-·       "The [commodity] word comes to us etymologically from the French commodité, meaning convenience"
-·       "thirty years ago, fresh shrimp epitomized class. They cost more than steak"
-·       "since 1980 prices [of shrimp] have fallen while production has increased some 3,000 percent."
-·       "It turns out for as of yet biologically unexplained reasons, a female shrimp who loses a single eyeball gets fast-tracked through puberty"
-·       "A cycle of spectacular growth, overnight riches, and then sudden collapse came to define the Asian shrimp industry."
-·       "[dropping an unpopular supplier or food is] catering to the aesthetic sense of consumers who don’t like to be associated with ugly things"
+* *Tun-Lin is a man from Myanmar who makes his way to Thailand only to be sold into slave labor on a shrimp boat. He left Myanmar not even knowing what a factory was, only that if you work hard you can make good money. He watched his best friend die on a shrimp boat and then get kicked over the side. After five years of slave labor on the boat he simply asks the captain if he can leave and is set free. This chapter goes into much more gruesome detail about what life was like aboard the slave ship.*
+* NGOs estimate 17 to 60 percent of Thai shrimp includes slave labor like Tun-Lin in its supply chain
+* This is called transshipment at sea. It saves fuel for the larger refrigerated fishing vessels, and it allows some boats to stay out almost indefinitely. Resupplied by others, they turn into floating prisons for trafficked workers.
+* Rule number one when hiring people is you do not hire locals. They will want to go home. They will have families. You want someone who will live here twenty-four
+* Peeling shrimp is delicate labor, and despite all advances in technology, nothing can yet do the work better than small, nimble fingers.
+* The [commodity] word comes to us etymologically from the French commodité, meaning convenience
+* thirty years ago, fresh shrimp epitomized class. They cost more than steak
+* since 1980 prices [of shrimp] have fallen while production has increased some 3,000 percent.
+* It turns out for as of yet biologically unexplained reasons, a female shrimp who loses a single eyeball gets fast-tracked through puberty
+* A cycle of spectacular growth, overnight riches, and then sudden collapse came to define the Asian shrimp industry.
+* [dropping an unpopular supplier or food is] catering to the aesthetic sense of consumers who don’t like to be associated with ugly things
 
 **Afterword**
-·       The Whole Foods philosophy is far more Texas libertarian than it ever was East Coast liberal. This comes from the early organic movement which saw the gov as failing to regulate agriculture and corrupt.
-·       "Whole Foods was the leader in progressive activism in the food industry. Then somewhere by mid-2016, everyone I knew doing that type of work got sacked.""
-·       "Humanity can’t just play defense. We need a good offense too."
-·       "[a Trader Joe's purchaser told a story about] visiting a factory selling extremely profitable “handmade pies” that he watched get unloaded from a truck, unboxed, and reboxed into different, more “handmade” packaging. When he rushed back to tell Joe, the only response was one of those chuckles and, “Oh, maybe don’t go visiting any more suppliers without calling ahead first.”"
-·       "What did you do once you became a better version of yourself? Where did all this self-improvement lead? The answer was always back to more yoga"
-·       "it’s not that we are what we eat, it’s that we eat the way we are"
-·       "Thai producers who have poured themselves into costly reforms only to watch buyers balk at their new prices and seek cheaper product elsewhere"
-·       "He [Tun-Lin] says he will open a store. A big store with lots of food the people in his village haven’t seen."
+* The Whole Foods philosophy is far more Texas libertarian than it ever was East Coast liberal. This comes from the early organic movement which saw the gov as failing to regulate agriculture and corrupt.
+* Whole Foods was the leader in progressive activism in the food industry. Then somewhere by mid-2016, everyone I knew doing that type of work got sacked.
+* Humanity can’t just play defense. We need a good offense too.
+* [a Trader Joe's purchaser told a story about] visiting a factory selling extremely profitable “handmade pies” that he watched get unloaded from a truck, unboxed, and reboxed into different, more “handmade” packaging. When he rushed back to tell Joe, the only response was one of those chuckles and, “Oh, maybe don’t go visiting any more suppliers without calling ahead first.”
+* "What did you do once you became a better version of yourself? Where did all this self-improvement lead? The answer was always back to more yoga
+* it’s not that we are what we eat, it’s that we eat the way we are
+* Thai producers who have poured themselves into costly reforms only to watch buyers balk at their new prices and seek cheaper product elsewhere
+* He [Tun-Lin] says he will open a store. A big store with lots of food the people in his village haven’t seen.
  
