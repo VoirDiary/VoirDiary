@@ -12,7 +12,7 @@ tags:
 ---
 
 
-When I practiced patent prosecution, I felt conflicted about doing work for smaller clients, such as small businesses and individual inventors.1 On one hand, I was grateful for their business. But on the other, I felt that I was not providing a service that would benefit them.
+When I practiced patent prosecution, I felt conflicted about doing work for smaller clients, such as small businesses and individual inventors.[^1] On one hand, I was grateful for their business. But on the other, I felt that I was not providing a service that would benefit them.
 
 A few months ago, I left private practice. And I’m finally at liberty to speak candidly about my experience with the U.S. patent system and how it works against small entities.
 
@@ -58,6 +58,7 @@ Under current policies, small businesses and individual inventors stand no chanc
 
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true" width="400">
 
+[^1]: “Patent prosecution” refers to the process of applying for and pursuing a patent.
 
 
 Originally published by the [Washington State Bar News](https://wabarnews.org/2022/12/12/how-the-u-s-patent-system-fails-small-businesses/).
