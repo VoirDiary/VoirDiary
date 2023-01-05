@@ -58,8 +58,10 @@ Under current policies, small businesses and individual inventors stand no chanc
 
 <img src="[https://user-images.githubusercontent.com/79613537/patentcosts.png](https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true)" width="400">
 
-<img src="[https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true" width="400">
+<img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true" width="400">
 
 <img src="https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png" width="400">
+
+![image](/assets/images/PatentCosts.png){:height="900px" width="514px"}
 
 Originally published by the [Washington State Bar News](https://wabarnews.org/2022/12/12/how-the-u-s-patent-system-fails-small-businesses/).
