@@ -56,6 +56,8 @@ These inequities highlight the need for change at the system level. I believe th
 
 Under current policies, small businesses and individual inventors stand no chance against large corporations who have the resources to file applications indiscriminately, fund prolonged prosecution, and absorb costs of litigation. This imbalance is antithetical to the American ethos of entrepreneurism. And without reform, innovation at the low-capitalization level will continue to be severely limited.  
 
-<img src="https://user-images.githubusercontent.com/79613537/patentcosts.png](https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true)" width="400">
+<img src="https://user-images.githubusercontent.com/79613537/patentcosts.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/79613537/158696534-5a135e81-2fa8-400d-bc4b-ead0e1d2feeb.png" width="400">
 
 Originally published by the [Washington State Bar News](https://wabarnews.org/2022/12/12/how-the-u-s-patent-system-fails-small-businesses/).
