@@ -56,8 +56,6 @@ These inequities highlight the need for change at the system level. I believe th
 
 Under current policies, small businesses and individual inventors stand no chance against large corporations who have the resources to file applications indiscriminately, fund prolonged prosecution, and absorb costs of litigation. This imbalance is antithetical to the American ethos of entrepreneurism. And without reform, innovation at the low-capitalization level will continue to be severely limited.  
 
-<img src="https://user-images.githubusercontent.com/79613537/patentcosts.png](https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true)" width="400">
-
 <img src="https://github.com/VoirDiary/VoirDiary/blob/main/assets/images/PatentCosts.png?raw=true" width="400">
 
 
