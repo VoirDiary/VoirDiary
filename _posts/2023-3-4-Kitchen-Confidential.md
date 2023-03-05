@@ -57,85 +57,86 @@ Here are some notable excerpts:
 
   After a few days of sulking and self-pity, I slowly, and with growing determination, began to formulate a plan, a way to get back at my tormentors. I would   go to school, at the Culinary Institute of America - they were the best in the country and certainly none of these P-town guys had been there. I would          apprentice in France. I would endure anything: evil drunk chets, crackpot owners, low pay, terrible working conditions; I would let sadistic, bucket-headed   French sous-chefs work me like a Sherpa ... but I would be back. I would do whatever was necessary to become as good as, or better than, this Mario crew.     would have hands like Tyrone's and I would break loudmouth punks like myself over the wheel like they'd broken me.  I'd show them.  Pp.33-35. 
 
-## **Chapter 2: Be a Mirror - Closely listening to and even repeating what your counterpart says can build trust.**
-* Engage in active listening, which means showing empathy and demonstrating that you understand what the other person is going through.  
-* Mirroring - repeating what your counterpart says but with an inquisitive tone.  It makes the other person feel that you’re similar to them and forges belonging and trust.
-* The tone of your voice can do wonders for negotiation.
-* If the other party is likely to become upset or nervous - employ a deep but soft voice (the Late-Night FM DJ voice).
-* Usually use a positive/playful voice to communicate you’re easygoing and empathetic and put things in a positive light (can achieve by smiling when you talk).
-* If needed - direct or assertive voice. 
-* If in a confrontation: 
-1. Use the late-night FM DJ voice;
-2. Start with “I’m sorry …”;
-3. Mirror;
-4. Silence. At least four seconds, to let the mirror work its magic on your counterpart; and
-5. Repeat.
+## **Second Course: From our Kitchen to Your Table**
+* Good food and good eating are about risk.  Every once in a while an oyster, for instance, will make you sick to your stomach.  Does this mean you should stop eating oysters?  No way.  The more exotic the food, the more adventurous the serious eater, the higher the likelihood of later discomfort.  P. 64.
+* I never order fish on Mondays, unless I’m eating at Le Bernardin - a four-star restaurant where I know they are buying their fish directly from the source.  I know how old most seafood is on Monday - about four to five days old!
+…
+Here’s how it works: the chef of this fine restaurant orders his fish on Thursday for delivery Friday morning.  He’s ordering a pretty good amount of it, too, as he’s not getting another delivery until Monday morning.  All right, some seafood purveyors make Saturday deliveries, but hte market is closed Friday night.  It’s the same fish from Thursday!  The chef is hoping to sell the bulk of that fish - your tuna - on Friday and Saturday nights, when he assumes it will be busy.  He’s assuming also that if he has a little left on Sunday, he can unload the rest of it then, as seafood salad for brunch, or as a special.  Monday?  It’s merchanizing night, when whatever is left over from the weekend is used up, and hopefully sold for money.  P. 64.
+* I don’t eat mussels in restaurants unless I know the chef personally, or have seen, with my own eyes, how they store and hold their mussels for service.  I love mussels.  But in my experience, most cooks are less than scrupulous in their handling of them.  More often than not, mussels are allowed to wallow in their own foul-smelling piss in the bottom of a reach-in.  Some restaurants, I’m sure, have special containers, with convenient slotted bins, which allow the mussels to drain while being held and maybe, just maybe, the cooks at these places pick carefully through every order, mussel by mussel, making sure that everyone is healthy and alive before throwing them into a pot.  I haven’t worked in many places like that.  P. 66. 
+* Brunch menus are an open invitation to the cost-conscious chef, a dumping ground for the odd bits left over from Friday and Saturday nights or for the scraps generated in the normal course of business.  You see a fish that would be much better served by quick grilling with a slice of lemon, suddenly all dressed up with vinaigrette?  For ‘en vinaigrette’ on the menu, read ‘preserved’ or ‘disguised’.
 
-## **Chapter 3: Don’t Feel Their Pain, Label It - Understand and state the emotions of your counterpart to position yourself effectively in a negotiation.**
-* People’s emotions have two levels: the “presenting” behavior - the part above the surface you can see and hear; and the “underlying” feeling that motivates the behavior
-* Labeling - telling your counterpart that you understand and acknowledge both their positions and feelings.  Describe the underlying feeling.  (e.g., “It seems like…”, “It sounds like…”, “It looks like…”.).
-* Labeling negatives diffuses them.  Labeling positive reinforces them.
-* If counterpart disagrees with the label, that’s okay.  You can say “that’s just how it seemed….”
+While we're on brunch, how about hollandaise sauce? Not for me. Bacteria love hollandaise. And hollandaise, that delicate emulsion of egg yolks and clarified butter, must be held at a temperature not too hot nor too cold, lest it break when spooned over your poached eggs. Unfortunately, this lukewarm holding temperature is also the favorite environment for bacteria to copulate and reproduce in. Nobody I know has ever made hollandaise to order. Most likely, the stuff on your eggs was made hours ago and held on station. Equally disturbing is the likelihood that the butter used in the hollandaise is melted table butter, heated, clarified, and strained to get out all the breadcrumbs and cigarette butts. Butter is expensive, you know. Hollandaise is a veritable petri-dish of biohazards. And how long has that Canadian bacon been festering in the walk-in anyway? Remember, brunch is only served once a week — on the weekends. Buzzword here, 'Brunch Menu'. Translation? 'Old, nasty odds and ends, and 12 dollars for two eggs with a free Bloody Mary'. One other point about brunch. Cooks hate brunch. A wise chef will deploy his best line cooks on Friday and Saturday nights; he'll be reluctant to schedule those same cooks early Sunday morning, especially since they probably went out after work Saturday and got hammered until the wee hours. Worse, brunch is demoralizing to the serious line cook. Nothing makes an aspiring Escoffier feel more like an army commissary cook, or Mel from Mel's Diner, than having to slop out eggs over bacon and eggs Benedict for the Sunday brunch crowd. Brunch is punishment block for the 'B'-Team cooks, or where the farm team of recent dishwashers learn their chops. Most chefs are off on Sundays, too, so supervision is at a minimum. Consider that before ordering the seafood frittata.  Pp. 67-68.
+* I will eat bread in restaurants. Even if I know it's probably been recycled off someone else's table. The reuse of bread is an industry-wide practice….Okay, maybe once in a while some tubercular hillbilly has been coughing and spraying in the general direction of that bread basket, or some tourist who's just returned from a walking tour of the wetlands of West Africa sneezes — you might find that prospect upsetting. But you might just as well avoid air travel, or subways, equally dodgy environments for airborne transmission of disease. Eat the bread. 
+P. 68. 
+* I won't eat in a restaurant with filthy bathrooms. This isn't a hard call. They let you see the bathrooms. If the restaurant can't be bothered to replace the puck in the urinal or keep the toilets and floors clean, then just imagine what their refrigeration and work spaces look like. Bathrooms are relatively easy to clean. Kitchens are not.  P. 68. 
+* 'Saving for well-done' is a time-honored tradition dating back to cuisine's earliest days: meat and fish cost money. Every piece of cut, fabricated food must, ideally, be sold for three or even four times its cost in order for the chef to make his 'food cost percent'. So what happens when the chef finds a tough, slightly skanky end-cut of sirloin, that's been pushed repeatedly to the back of the pile? He can throw it out, but that's a total loss, representing a three-fold loss of what it cost him per pound. He can feed it to the family, which is the same as throwing it out. Or he can 'save for well-done' — serve it to some rube who prefers to eat his meat or fish incinerated into a flavorless, leathery hunk of carbon, who won't be able to tell if what he's eating is food or flotsam. Ordinarily, a proud chef would hate this customer, hold him in contempt for destroying his fine food. But not in this case. The dumb bastard is paying paying for the privilege of eating his garbage! What's not to like?  P. 69. 
 
-## **Chapter 4: Beware “Yes” - Master “No” - Don’t be afraid to get the other party to say “no.”**
-* Try to get to “no” early in the negotiation.  (Or you can ask the other party what they don’t want).  It makes the speaker feel safe and in control.  (Or something equivalent to “no”).
-* Can provoke “no” by mislabeling or asking a ridiculous question.
-* Ask solution-based questions (e.g., “What about this doesn’t work for you?”, “What would you need to make it work?”, “It seems like there’s something here that bothers you.”).
+## **Second Course: How to Cook Like the Pros**
+* You need, for God’s sake, a decent chef’s knife….Okay, most talented amateurs get a boner buying one of the old-school professional high-carbon stainless knives from Germany or Austria, like a Henckel or Wusthof, and those are fine knives, if heavy. High carbon makes them slightly easier to sharpen, and stainless keeps them from getting stained and corroded. They look awfully good in the knife case at the store, too, and you send the message to your guests when flashing a hundred-dollar hunk of Solingen steel that you take your cooking seriously. But do you really need something so heavy? So expensive? So difficult to maintain (which you probably won't)? Unless you are really and truly going to spend fifteen minutes every couple of days working that blade on an oiled carborundum stone, followed by careful honing on a diamond steel, I'd forgo the Germans. 
 
-## **Chapter 5: Trigger the Words That Immediately Transforms Any Negotation - try to get your counterpart to say “that’s right.”**
-* Better than “yes.”
-* Can do by summarizing or paraphrasing.
+Most of the professionals I know have for years been retiring their Wusthofs and replacing them with the lightweight, easy-to-sharpen and relatively inexpensive vanadium steel Global knives, a very good Japanese product which has — in addition to its many other fine qualities — the added attraction of looking really cool.  
 
-## **Chapter 6: Bend Their Reality - establish yourself as fair.**
-* Anchor their emotions - acknowledge their fears.
-* Let them go first.  (But, be careful of them using this to bend your reality).
-* Establish a range.  Or set an extreme anchor to make your “real” offer seem reasonable.
-* Pivot to Non-Monetary Terms - they can be things that aren’t important to you but matter to the other party.
-* If talking numbers, use odd ones - they sound less rounded.
-* Surprise with a gift - stake an extreme anchor and then give an unexpectedly generous offer.
-* If negotiating about salary, be pleasantly persistent on non-salary terms, ask what it takes to succeed in role.
-* Don’t accept the other party’s demands, don’t compromise, and don’t rush.  Most deadlines are actually flexible.
-* If the other party wields the term “fair” to put you on the defensive, don’t get suckered into a concession and ask them to explain how you’re being unfair.
-* People will take more risks to avoid a loss than to realize a gain.  Make sure your counterpart sees that there is something to lose by inaction.
+Global makes a lot of knives in different sizes, so what do you need? One chefs knife. This should cut just about anything you might work with, from a shallot to a watermelon, an onion to a sirloin strip. Like a pro, you should use the tip of the knife for the small stuff, and the area nearer the heel for the larger. This isn't difficult; buy a few rutabagas or onions — they're cheap — and practice on them. Nothing will set you apart from the herd quicker than the ability to handle a chef's knife properly. If you need instruction on how to handle a knife without lopping off a finger, I recommend Jacques Pepin's La Technique.  Pp. 76-77.
 
-## **Chapter 7: Create the Illusion of Control**
-* Instead of saying what you “need,” describe what you’re looking for and ask for suggestions.  Then to get a better offer ask: “How am I supposed to do that?”
-* Use calibrated questions (questions that start with “how” or “what”) to educate your counterpart on what the problem is rather than causing conflict.  Gives them sense of control.
-* What about this is important to you?
-* How can I help to make this better for us?
-* How would you like me to proceed?
-* What is it that brought us into this situation?
-* How can we solve this problem?
-* What’s the objective? / What are we trying to accomplish here?
-* How am I supposed to do that?
-* Always stay calm.
-* Avoid questions that can be answered with “yes.”  They require little though and inspire the need for reciprocity.
+* Also, recommends getting a flexible boning knife for butchering, a paring knife for intricate work, an offset serrated knife for serrated blade needs (e.g., slicing bread and thick-skinned tomatoes) and anything else (Dicks brand for $25).
+* Recommends a plastic squeeze bottle for drizzling sauces, a metal ring for towering food, a mandolin for waffle cutting.
+* On pans - there’s no reason to buy new and no reason to pay a lot.  Heavyweight.  A thin-bottomed saucepan is useless for anything…A non-stick saute pan…Never wash it.  Simply wipe it clean after each use, and don’t use metal in it, use a wooden spoon rr ceramic or non-metallic spatula to flip or toss whatever you’re cooking in it.  You don’t want to scratch the surface.  Pp. 79-80.
+* Shallots are one of the things — a basic prep item in every mise-en-place — which make restaurant food taste different from your food. In my kitchen we use nearly 20 pounds a day. You should always have some around for sauces, dressings and saute items.  P. 80.
+* Butter. I don't care what they tell you they're putting or not putting in your food at your favorite restaurant, chances are, you're eating a ton of butter. In a professional kitchen, it's almost always the first and last thing in the pan. We saute in a mixture of butter and oil for that nice brown, caramelized color, and we finish nearly every sauce with it (we call this monter au beurre); that's why my sauce tastes richer and creamier and mellower than yours, why it's got that nice, thick, opaque consistency. Believe me, there's a big crock of softened butter on almost every cook's station, and it's getting a heavy workout.  Pp. 80-81.
+* Roasted garlic. Garlic is divine. Few food items can taste so many distinct ways, handled correctly. Misuse of garlic is a crime. Old garlic, burnt garlic, garlic cut too long ago, garlic that has been tragically smashed through one of those abominations, the garlic press, are all disgusting. Please, treat your garlic with respect. P. 81.
+* Chiffonaded parsley. Big deal, right? Restaurants garnish their food. Why shouldn't you? And parsley tastes good, too. Just don't chop it in a machine, please. Dip the picked sprigs in cold water, shake off excess, allow to dry for a few minutes, and slice the stuff, as thinly as you can, with that sexy new chef's knife I inspired you to buy. I promise you, sprinkled over or around your plate it'll give your chow that striking professional touch it's been missing. Pp. 81-82.
+* Stock. Stock is the backbone of good cooking. You need it and you don't have it. I have the luxury of 30-quart stockpots, a willing prep crew, readily available bones and plenty of refrigeration space. Does this mean you should subject your guests to a sauce made from nasty commercial bases or salty canned broth? Make stock already! It's easy! Just roast some bones, roast some vegetables, put them in a big pot with water and reduce and reduce and reduce. Make a few months' worth, and when it's reduced enough strain it and freeze it in small containers so you can pull it from the freezer as needed. Life without stock is barely worth living, and you will never attain demi-glace without it. P. 82.
+* Demi-glace. There are a lot of ways to make demi-glace, but I recommend you simply take your already reduced meat stock, add some red wine, toss in some shallots and fresh thyme and a bay leaf and peppercorns, and slowly, slowly simmer it and reduce it again until it coats a spoon. Strain. Freeze this stuff in an ice-cube tray, pop out a cube or two as needed, and you are in business — you can rule the world. And remember, when making a sauce with demi-glace, don't forget to monter au beurre. P. 82.
+* Chervil, basil tops, chive sticks, mint tops, etc. What does it take, for chrissakes?! A nice sprig of chervil on top of your chicken breast? A healthy-looking basil top decorating your pasta? A few artfully scattered chive sticks over your fish? A mint top nestled in a dollop of whipped cream, maybe rubbing up against a single raspberry? Come on! Get in the game here! It takes so little to elevate an otherwise ordinary-looking plate. You need zero talent to garnish food. So why not do it? And how about a sprig of fresh herb — thyme or rosemary? You can use the part not needed for garnish to maybe actually flavor your food. That dried sawdust they sell in the cute little cans at the super market? You can throw that, along with the spice rack, right in the garbage. It all tastes like a stable floor. Use fresh! Good food is very often, even most often, simple food. Some of the best cuisine in the world — whole roasted fish, Tuscan-style, for instance — is a matter of three or four ingredients. Just make sure they're good ingredients, fresh ingredients, and then garnish them. How hard is that? Pp. 82-83.
 
-## **Chapter 8: Guarantee Execution** 
-* Ask your counterpart “how” to arrive at a solution.
-* Be aware of the 7-38-55 rule.  7% of message is based on words, 38% is based on tone of voice, and 55% is based on body language and face.  Pay attention to misalignment between words and non-verbal cues.
-* Use the rule of three - get the other person to agree to the same thing three times in a conversation.  Can use this rule to test if a “yes” is counterfeit. 
-* Be aware of the Pinocchio Effect - liars use more words than truth tellers and more third-person pronouns.
-* Use your own name (not theirs) to create forced empathy - make the other side see you as a person.
+## **Dessert: The Level of Discourse**
+* There are also the terms of the trade, the jargon. Every trade has one. You already know some of our terms. '86' is the best known. A dish is 86'ed when there's no more. But you can use the term for someone who's just been fired, or about to be fired, or for a bar customer who's no longer welcome. 
 
-## **Chapter 9: Bargain Hard** 
-* If being dragged into a haggle, change to non-monetary topics.
-* When you want to flip a dubious counterpart to your side, ask them, “Why would you do that?” but in a way that the “that” favors you.
-* Using the first-person singular pronoun is another great way to set a boundary without escalating into confrontation. When you say, “I’m sorry, that doesn’t work for me,” the word “I” strategically focuses your counterpart’s attention onto you long enough for you to make a point.
-* When you want to counteract unproductive statements from your counterpart, you can say, “I feel ___ when you ___ because ___,” and that demands a time-out from the other person.
-* The Ackerman model
-1. Set your target price (your goal);
-2. Set your first offer at 65 percent of your target price;
-3. Calculate three raises of decreasing increments (to 85, 95, and 100 percent);
-4. Use lots of empathy and different ways of saying “No” to get the other side to counter before you increase your offer;
-5. When calculating the final amount, use precise, non-round numbers like, say, $37,893 rather than $38,000. It gives the number credibility and weight; and
-6. On your final number, throw in a non-monetary item (that they probably don’t want) to show you’re at your limit.
+One doesn't refer to a table of six or a table of eight; it's a six-top or an eight-top. Two customers at a table are simply a deuce.
 
-## **Chapter 10: Find the Black Swan(hidden piece of information that when revealed can drastically alter course) - persuade your counterpart that they have something real to lose if the deal falls through.**
-* Positive leverage is your ability as a negotiator to provide—or withhold—things that your counterpart wants. When they say that, you have power.
-* Negative leverage is what most people picture when they hear the word “leverage.” It’s a negotiator’s ability to make his counterpart suffer.
-* Normative leverage is using the other party’s norms and standards to advance your position. If you can show inconsistencies between their beliefs and their actions, you have normative leverage.
-* Reasons a counterpart may seem crazy - they are ill-informed, they are constrained, they have other interests.
-* Dig into the other side’s religion/worldviews and use that in negotiating.
- 
- 
+'Weeded' means 'in the weeds', 'behind', 'in the shit' or 'dans la merde — a close cousin and possible outcome of being 'slammed', 'buried' or 'hit'. 
+
+A waitron or waitron unit is an old-school '70s, term — gender non-specific — for floor personnel, who are also, at staff mealtime, referred to as the floor or the family or simply scum. And the meal itself becomes — particularly if it's the usual trinity of chicken, pasta and salad — the shaft meal or the gruel. 
+
+Then there's the equipment. Since the introduction of the Cuisinart, any food processor can be referred to as the Queez; the square and oblong metal sauce containers are six-pans or eight-pans depending on size, and the long, shallow ones hotels. The cook's spoons with holes or slots are, unsurprisingly, female, and the unslotted ones, male. 
+
+Meez is mise-en-place: your set up, your station prep, your assembled ingredients and, to some extent, your state of mind. A la minute is made-to-order from start to finish. Order!, when yelled at a cook means 'Make initial preparations' such as searing, half-cooking, setting up for finishing. Fire! means 'Finish cooking' and get ready for 'pick up'. Food ready to be picked up is put in the window or en la ventana — also called the pass, the slide or the shelf. The 'slide' refers to the slotted rack where dupes or tickets containing orders hang. So one could say, 'What orders do I have hanging?' and the reply could be, 'You got two steak' on order for the deuce on five, three soles are fired.' A cook might ask for an all-day, a total number of a particular item both ordered and fired, with temperatures, meaning degrees of doneness. And on the fly means Rush! 
+
+A wipe means just what it sounds like: a last-minute plate-cleaning. Marijuana or mota or chronic is chopped parsley. Jiz is any reduced liquid, like demi-glace. When one adds whole butter to jiz, one is mounting, as in monter-au-beurre. Cook well-done translates to 'Burn it!' or 'Murder it!' or 'Kill it!' When one finds oneself waiting too long for a well-done steak to finish cooking, and it's holding up the rest of the order, one can suggest throwing it in the jukebox, or giving it a little radar love in the micro or microwave. 
+
+The latex surgical gloves we rarely wear are anal research gloves, and one usually puts them on with some theatrical flourish, snapping and grinning menacingly, accompanied by suggestions to 'Turn left and cough' or 'Grab your ankles, 'cause here comes papi chulo'. Those paper toques are coffee filters or clown hats, the checked pants we all wear, simply checks, our jackets and aprons, whites. 
+
+When the boss arrives, it's 'Elvis is in the building' or 'Pssst, desastre es aqui! And the usual nicknames apply to any and all: cooks, waiters, busboys and runners alike. Crude irony abounds. Cachundo, meaning 'piece of ass', might be applied to a particularly homely runner. Caliman, meaning 'strong man', is reserved for a weak cook, Rayo, or 'flash' to a slowpoke; Baboso, or 'drooling idiot' to, well, any drooling idiot. Any blond, well-scrubbed waiter can become 'Opie', 'Richie Cunningham' or 'Doogie Howser Motherfucker'. Stocky busboy? Sounds like Burro to me. When referring to themselves collectively, my Mexican carnales like La Raza or La M (pronounced la emaayy), or La Mafia. Externs from culinary school, working for free as a 'learning experience' — which by itself translates to 'lots of work and no money' — are quickly tagged as FNG (Fucking New Guy), or Mel for mal carne (bad meat). Army, short for 'army cook', or the classic but elegant shoe, short for 'shoemaker', are the perennial insults for a lousy or 'slophouse' cook.
+
+The slide, when full of dupes, is called the board, as in, 'The board is full'. Food currently being loaded by a runner or waiter is My hand, as in 'Where's that fucking steak?' Reply: 'My hand, Chef!' A hot nut is used when an expeditor wants something now: 'I gotta hot nut for that sole on table six'. This is often for a VIP, or 'Very Important Pendejo' or PPX, or soigneee mutha-fucka - meaning friend of the owner, or the man himself. So make sure to move that food out rush or STAT. Applying what we've learned to a battlefield situation, one might find oneself saying: 'I gotta hot nut for that six-top on seven, Cabrone! It's been fired for ten fucking minutos, pinche tortuga. What? You don't got yer meez together, asesino? Get that shit in the window, you seso de polio pinche grill man throw it in the fucking jukebox if you have to. The rest of the order my hand! And don't forget to give it a wipe and some mota and a squirt of that red jiz on the way out, I got shit hanging here and you're falling in the fucking weeds!' Pp. 224-227.
+
+
+## **Coffee and a Cigarette: So you want to be a chef?**
+* So you wanna be a chef?
+1. Be fully committed.
+2. Learn Spanish! - The very backbone of the industry, whether you like it or not, is inexpensive Mexican, Dominican, Salvadorian, and Ecuadorian labor - most of whom could cook you under the table without breaking a sweat.  If you can’t communicate, develop relationships, understand instructions and pass them alone, then ou are at a tremenous disadvantage.
+3. Don’t steal.
+4. Always be on time.
+5. Never make excuses or blame others.
+6. Never call in sick.
+7. Lazy, sloppy and slow are bad.
+8. Be prepared to witness every variety of human folly and injustice.
+9. Assume the worst.
+10. Try not to lie.
+11. Avoid restaurants where the owner’s name is over the door.
+12. Think about that resume!
+13. Read!
+14. Have a sense of humor about things.
+15. Be fully committed.
+Pp. 294-299. 
+
+
+## **Coffee and a Cigarette: Kitchen’s Closed**
+* I got, finally, the hands I always wanted. Hands just like the ones Tyrone taunted me with all those years ago. Okay, there are no huge water-filled blisters — not this weekend anyway. But the scars are there, and as I lie in bed, I take stock of my extremities, idly examining the burns, old and new, checking the condition of my calluses, noting with some unhappiness the effects of age and hot metal. At the base of my right forefinger is an inch-and-a-half diagonal callus, yellowish-brown in color, where the heels of all the knives I've ever owned have rested, the skin softened by constant immersions in water. I'm proud of this one. It distinguishes me immediately as a cook, as someone who's been on the job for a long time. You can feel it when you shake my hand, just as I feel it on others of my profession. It's a secret sign, sort of a Masonic handshake without the silliness, a way that we in the life recognize one another, the thickness and roughness of that piece of flesh, a resume of sorts, telling telling others how long and how hard it's been. My pinky finger on the same hand is permanently deformed, twisted and bent at the tip — a result of poor whisk handling. Making hollandaise and bearnaise every day for Bigfoot, I'd keep the whisk handle between pinky and third finger, and apparently the little finger slipped out of joint unnoticed and was allowed to build up calcium deposits, until it became what it is today, freakish-looking and arthritic. 
+
+There are some recent scrapes and tiny punctures, a few little dings here and there on the backs of my hands — the result of rummaging at high speed through crowded reach-in boxes, hauling milk crates filled with meat upstairs, busting open boxes and counting cans on Saturday inventory — and a few shiny spots where I must have spattered myself with hot oil or simply grabbed a pot handle or pair of kitchen tongs that was too hot. My nails, such as they are — I gnaw them in the taxi home from work — are filthy; there's dried animal blood under the cuticles, and crushed black pepper, beef fat and sea salt. A large black bruise under the left thumbnail is working its way slowly out over time; it looks as though I've dipped the thumb in India ink. There's a beveled-off fingertip on the left; I lopped off that fingertip while trying to cut poblano peppers many years back. Jesus, I remember that one: the face on the emergency room intern as he crunched the curved sewing needle right through the nail, trying vainly to re-attach a flap of skin that was clearly destined to become necrotic and fall off. I remember looking up at him as I twisted and writhed on the table, hoping to see the cool, calm, somehow reassuring expression of a Marcus Welby looking back at me. Instead, I saw the face of an overextended fry cook — a kid, really — and he looked pained, even grossed-out as he pulled through another loop of filament. 
+
+There's a raised semi-circular scar on the left palm where I had a close encounter with the jagged edge of a can of Dijon mustard. Almost passed out from that one — that terrible few seconds before the blood came, me looking at my injured paw and it not looking like my hand at all, just some terribly violated slab of very pale meat. When the blood came it was almost a relief. 
+
+There are some centimeter-long ridges in the webbing of my left hand, between thumb and forefinger, from the Dreadnaught, when I would regularly lose control of the oyster knife, the dull blade hopping out of or breaking through the shell to bury itself in my hand. The knuckle wounds are so numerous, and have been opened and reopened so frequently, that I can no longer recall, in the layer upon layer of white scar tissue, where or when I got any of them. I know that one of them is the result of boiling duck fat at the Supper Club, but other insults to the flesh have come and gone; it's like the layers of an ancient city now, evidence of one kitchen after another piled up on top of each other. The middle finger of my left hand, at the first joint, where the finger guides the knife blade, has been nicked so many times it's a raised hump of dead flesh, which tends to get in the way of the blade if I'm whacking vegetables in a hurry. I have to be careful. My fingerprints are stained with beet juice (hot borscht as soupe du jour yesterday), and if I hold my fingers to my nose, I can still smell smoked salmon, chopped shallots and a hint of Morbier rind.  Pp. 300-302.
+
