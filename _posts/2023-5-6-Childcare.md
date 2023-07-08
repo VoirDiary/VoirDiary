@@ -38,8 +38,8 @@ Should I never have children, I’d still advocate for kids on campus. I don’t
 
 Originally published by the [Seattle Times](https://www.seattletimes.com/opinion/on-site-child-care-would-alleviate-companies-return-to-office-struggles/).
 
-**An aside, submitting to Seattle Times, I was up against a tight word limit.  But had I more space, I would have mentioned that, in practice, corporations probably wouldn't foot the entire bill.  Employees who use the service would pay to use it.  
+*An aside, submitting to Seattle Times, I was up against a tight word limit.  But had I more space, I would have mentioned that, in practice, corporations probably wouldn't foot the entire bill.  Employees who use the service would pay to use it.*  
 
-Also, it is not unusual for an employer to offer a perk that does not benefit all employees. For example, Amazon allows dogs on campus, though not all employees have dogs. Google offers student loan reimbursement, but not all employees have debt. Microsoft covers the cost of bike tune-ups and not all employees bike.  The availability of these benefits is not seen as a detriment to those that don’t use them; rather they are part of a suite of offerings, not all of which each employee will use.  
+*Also, it is not unusual for an employer to offer a perk that does not benefit all employees. For example, Amazon allows dogs on campus, though not all employees have dogs. Google offers student loan reimbursement, but not all employees have debt. Microsoft covers the cost of bike tune-ups and not all employees bike.  The availability of these benefits is not seen as a detriment to those that don’t use them; rather they are part of a suite of offerings, not all of which each employee will use.*  
 
-Furthermore, parent employees who feel empowered to nurture their children will experience improved morale. A rising tide lifts all boats and even non-parent employees will benefit from happier coworkers.**
+*Furthermore, parent employees who feel empowered to nurture their children will experience improved morale. A rising tide lifts all boats and even non-parent employees will benefit from happier coworker.*
