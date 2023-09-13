@@ -49,64 +49,64 @@ Here’s everything I watched:
 * Rating: 4/5
 
 **Anabel (2015)**
-Director: Antonio Trashorras
-Country: Spain
-Summary:  A low-budget, indie film featuring Ana de Armas before she became a darling of Hollywood. It tells the sinister tale of two college students who take in a strange man as a housemate. 
-Review: Good premise, but ending left much to be desired.  Shooting in black & white and the omnipresent heavy orchestral music were odd choices and seemed out of place given the modern, modest setting.
-Rating: 3/5
+* Director: Antonio Trashorras
+* Country: Spain
+* Summary:  A low-budget, indie film featuring Ana de Armas before she became a darling of Hollywood. It tells the sinister tale of two college students who take in a strange man as a housemate. 
+* Review: Good premise, but ending left much to be desired.  Shooting in black & white and the omnipresent heavy orchestral music were odd choices and seemed out of place given the modern, modest setting.
+* Rating: 3/5
 
-Tesis (1996)
-Director: Alejandro Amenábar
-Country: Spain
-Summary: In researching violence for a thesis, Angela comes across a snuff film.  When she finds out that the victim in the film was a student at her school, she embarks on a quest to get to the bottom of the crime.
-Review: Good chemistry between the protagonist and anti-hero.  Fast-paced and engrossing.  Still, I think it suffered from tropes and predictability.  Maybe I suffer from hindsight bias and wouldn’t be saying that had I seen it in 1996.  But I also have very little tolerance for movies about DIY criminal investigations.  (Just call the police/FBI for god’s sake!)
-Rating: 4/5
+**Tesis (1996)**
+* Director: Alejandro Amenábar
+* Country: Spain
+* Summary: In researching violence for a thesis, Angela comes across a snuff film.  When she finds out that the victim in the film was a student at her school, she embarks on a quest to get to the bottom of the crime.
+* Review: Good chemistry between the protagonist and anti-hero.  Fast-paced and engrossing.  Still, I think it suffered from tropes and predictability.  Maybe I suffer from hindsight bias and wouldn’t be saying that had I seen it in 1996.  But I also have very little tolerance for movies about DIY criminal investigations.  (Just call the police/FBI for god’s sake!)
+* Rating: 4/5
 
-Shrew’s Nest (Musarañas) (2014) 
-Director: Juanfer Andrés, Esteban Roel
-Country: Spain
-Summary: An agoraphobic seamstress lives with her younger sister in 1950’s Madrid.  One day an injured stranger shows up at their doorstep.  
-Review: Far-fetched characters with a nutty twist.
-Rating: 3/5
+**Shrew’s Nest (Musarañas) (2014)**
+* Director: Juanfer Andrés, Esteban Roel
+* Country: Spain
+* Summary: An agoraphobic seamstress lives with her younger sister in 1950’s Madrid.  One day an injured stranger shows up at their doorstep.  
+* Review: Far-fetched characters with a nutty twist.
+* Rating: 3/5
 
-A Cop Movie (Una película de policías) (2021)
-Director: Alonso Ruizpalacios
-Country: Mexico
-Summary: An intimate view of the lives of police officers in Mexico City. 
-Review: I was floored when I realized that this film was dramatized.  The acting is uncanny.  But then I found myself asking “why”?  It seems like the kind of story that derives the majority of its value from being true.  Still, a fascinating glimpse into the neighborhoods of Mexico City that you probably will never visit in-person.
-Rating: 4/5
+**A Cop Movie (Una película de policías) (2021)**
+* Director: Alonso Ruizpalacios
+* Country: Mexico
+* Summary: An intimate view of the lives of police officers in Mexico City. 
+* Review: I was floored when I realized that this film was dramatized.  The acting is uncanny.  But then I found myself asking “why”?  It seems like the kind of story that derives the majority of its value from being true.  Still, a fascinating glimpse into the neighborhoods of Mexico City that you probably will never visit in-person.
+* Rating: 4/5
 
-El Ascensor (2021)
-Director: Daniel Bernal
-Country: Spain
-Summary: A married couple spends their fifth anniversary stuck on an elevator.  They must work together to find a way out and uncover surprising details about each other in the process.  
-Review: Do you like watching couples bicker?  If so, then this movie is for you.
-Rating: 1/5
+**El Ascensor (2021)**
+* Director: Daniel Bernal
+* Country: Spain
+* Summary: A married couple spends their fifth anniversary stuck on an elevator.  They must work together to find a way out and uncover surprising details about each other in the process.  
+* Review: Do you like watching couples bicker?  If so, then this movie is for you.
+* Rating: 1/5
 
-War of Likes (Guerra de Likes) (2021)
-Director: Maria Ripoli
-Country: Mexico
-Summary: To advance her career in publicity, Raquel attempts to reunite with the former popular girl from her high school who is now a successful influencer. 
-Review: I enjoyed watching a movie that largely takes place in upscale venues of Mexico City.  The plot was rather unbelievable and cartoonish.  Eye candy that does not require much thought or concentration. 
-Rating: 3/5
+**War of Likes (Guerra de Likes) (2021)**
+* Director: Maria Ripoli
+* Country: Mexico
+* Summary: To advance her career in publicity, Raquel attempts to reunite with the former popular girl from her high school who is now a successful influencer. 
+* Review: I enjoyed watching a movie that largely takes place in upscale venues of Mexico City.  The plot was rather unbelievable and cartoonish.  Eye candy that does not require much thought or concentration. 
+* Rating: 3/5
 
-Armed to the Teeth (Hasta los Dientes) (2018)
-Director: Alberto Saúl Arnaut Estrada
-Country: Mexico
-Summary: Around the same time that the Mexican Government announces the death of two hitmen in Monterrey, two college students go missing.  Their families seek justice and, in the process, reveal a Government cover-up. 
-Review: This is a topic that personally interests me since I lived near Monterrey when I was an exchange student in high school.  The film brings needed attention to the violence and broken justice system in Northern Mexico.  My main critique is that the documentary was unnecessarily long given the relatively simple story.  It felt like the producers struggled to fill the entire hour and 45 minutes and, as a consequence, I struggled to pay attention.  
-Rating: 3/5
+**Armed to the Teeth (Hasta los Dientes) (2018)**
+* Director: Alberto Saúl Arnaut Estrada
+* Country: Mexico
+* Summary: Around the same time that the Mexican Government announces the death of two hitmen in Monterrey, two college students go missing.  Their families seek justice and, in the process, reveal a Government cover-up. 
+* Review: This is a topic that personally interests me since I lived near Monterrey when I was an exchange student in high school.  The film brings needed attention to the violence and broken justice system in Northern Mexico.  My main critique is that the documentary was unnecessarily long given the relatively simple story.  It felt like the producers struggled to fill the entire hour and 45 minutes and, as a consequence, I struggled to pay attention.  
+* Rating: 3/5
 
-Northern Skies Over Empty Space (El Norte Sobre el Vacío) (2022) 
-Director: Alejandra Márquez Abella
-Country: Mexico
-Summary: A former hunter dedicates his time to caring for his ranch in the desert of Northern Mexico.  But the order of the ranch is threatened when the cartel takes an interest.
-Review: Another movie about Northern Mexico!  A real nail-biter with gorgeous shots of vast deserts, dusty ranchos, and the unadulterated night sky.  
-Rating: 5/5
+**Northern Skies Over Empty Space (El Norte Sobre el Vacío) (2022)**
+* Director: Alejandra Márquez Abella
+* Country: Mexico
+* Summary: A former hunter dedicates his time to caring for his ranch in the desert of Northern Mexico.  But the order of the ranch is threatened when the cartel takes an interest.
+* Review: Another movie about Northern Mexico!  A real nail-biter with gorgeous shots of vast deserts, dusty ranchos, and the unadulterated night sky.  
+* Rating: 5/5
 
-Ready to Mingle (Solteras) (2019)
-Director: Luis Javier Henaine
-Country: Mexico
-Summary: Ana has no luck with men and it seems like she is the only woman who isn’t getting married.  When she hears about a school for the romantically-challenged that guarantees results, she gives it a try. 
-Review: I’ve been a fan of the lead actor, Cassandra Ciangherotti, ever since she starred in the comedy series Los Espookys.  It’s a vapid rom-com, but conveys a positive message regarding self-sufficiency and shirking traditional expectations.  Also worth watching for some of the zingers.    
-Rating: 4/5
+**Ready to Mingle (Solteras) (2019)**
+* Director: Luis Javier Henaine
+* Country: Mexico
+* Summary: Ana has no luck with men and it seems like she is the only woman who isn’t getting married.  When she hears about a school for the romantically-challenged that guarantees results, she gives it a try. 
+* Review: I’ve been a fan of the lead actor, Cassandra Ciangherotti, ever since she starred in the comedy series Los Espookys.  It’s a vapid rom-com, but conveys a positive message regarding self-sufficiency and shirking traditional expectations.  Also worth watching for some of the zingers.    
+* Rating: 4/5
