@@ -14,15 +14,10 @@ In preparation for a 5-week trip to Mexico, I decided to watch as many Spanish-l
 Here’s everything I watched:
 
 Toc Toc (2017)
-
 Director: Vicente Villanueva
-
 Country: Spain
-
 Summary: A group of patients with OCD and appointments with the same shrink at the same time spend several hours waiting for said doctor to show up and become acquainted as they pass the time. 
-
 Review: Visually well-done, with a striking color scheme that accentuates the characters and adroit camera work.  Didn’t suit my sense of humor.
-
 Rating: 2/5
 
 
