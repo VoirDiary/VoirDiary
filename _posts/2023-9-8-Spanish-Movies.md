@@ -14,24 +14,18 @@ In preparation for a 5-week trip to Mexico, I decided to watch as many Spanish-l
 Here’s everything I watched:
 
 Toc Toc (2017)
-Director: Vicente Villanueva
-Country: Spain
-Summary: A group of patients with OCD and appointments with the same shrink at the same time spend several hours waiting for said doctor to show up and become acquainted as they pass the time. 
-Review: Visually well-done, with a striking color scheme that accentuates the characters and adroit camera work.  Didn’t suit my sense of humor.
-Rating: 2/5
-
+⋅⋅*Director: Vicente Villanueva
+⋅⋅*Country: Spain
+⋅⋅*Summary: A group of patients with OCD and appointments with the same shrink at the same time spend several hours waiting for said doctor to show up and become acquainted as they pass the time. 
+⋅⋅*Review: Visually well-done, with a striking color scheme that accentuates the characters and adroit camera work.  Didn’t suit my sense of humor.
+⋅⋅*Rating: 2/5
 
 The Wrath of God (La Ira de Dios) (2022)
-
-Director: Sebastián Schindel
-
-Country: Argentina
-
-Summary: Luciana, a writer’s assistant, has a falling out with her boss.  Years later, she experiences a string of bad luck and wonders if he is involved.
-
-Review: I enjoyed the antagonist’s thick Porteño accent.  But, the plot is very predictable.  I experienced a strong sense of deja vu and wondered if I had seen the film before.  (I had not).  
-
-Rating: 3/5
+⋅⋅*Director: Sebastián Schindel
+⋅⋅*Country: Argentina
+⋅⋅*Summary: Luciana, a writer’s assistant, has a falling out with her boss.  Years later, she experiences a string of bad luck and wonders if he is involved.
+⋅⋅*Review: I enjoyed the antagonist’s thick Porteño accent.  But, the plot is very predictable.  I experienced a strong sense of deja vu and wondered if I had seen the film before.  (I had not).  
+⋅⋅*Rating: 3/5
 
 
 
