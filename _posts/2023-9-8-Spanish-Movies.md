@@ -13,42 +13,42 @@ In preparation for a 5-week trip to Mexico, I decided to watch as many Spanish-l
 
 Here’s everything I watched:
 
-** Toc Toc (2017)
+**Toc Toc (2017)**
 * Director: Vicente Villanueva
 * Country: Spain
 * Summary: A group of patients with OCD and appointments with the same shrink at the same time spend several hours waiting for said doctor to show up and become acquainted as they pass the time. 
 * Review: Visually well-done, with a striking color scheme that accentuates the characters and adroit camera work.  Didn’t suit my sense of humor.
 * Rating: 2/5
 
-The Wrath of God (La Ira de Dios) (2022)
+**The Wrath of God (La Ira de Dios) (2022)**
 * Director: Sebastián Schindel
 * Country: Argentina
 * Summary: Luciana, a writer’s assistant, has a falling out with her boss.  Years later, she experiences a string of bad luck and wonders if he is involved.
 * Review: I enjoyed the antagonist’s thick Porteño accent.  But, the plot is very predictable.  I experienced a strong sense of deja vu and wondered if I had seen the film before.  (I had not).  
 * Rating: 3/5
 
-Dancing on Glass (Las Niñas de Cristal) (2022)
+**Dancing on Glass (Las Niñas de Cristal) (2022)**
 * Director: Jota Linares
 * Country: Spain
 * Summary: Irene finds herself dancing the lead part in her ballet company’s production of Giselle, after fellow company member dies by suicide.  But as pressure mounts, she wonders if she will meet her demise, as well.
 * Review: Tortured ballerinas and despotic directors. A shallow trope.  Nonsensical ending guising as artsy.
 * Rating: 3/5
 
-Fanny Pelopaja (1984)
+**Fanny Pelopaja (1984)**
 * Director: Vincente Aranda
 * Country: Spain
 * Summary: Fanny, recently out of prison, is plotting revenge on an ex-cop who murdered her boyfriend.  But he also has plans for her…
 * Review: True to the crime thriller genre, but ultimately it wasn’t my cup of tea.  The protagonist is supposed to wear dentures but we never saw her without them.  Maybe it would have interfered with her image as a femme fatale.  I found myself longing for it to be over.
 * Rating: 2/5
 
-Exterminating Angel (El Angel Exterminador) (1962)
-Director: Luis Buñuel
-Country: Mexico
-Summary:  A group of aristocrats attend a dinner party at a mansion, but find themselves unable to leave.
-Review: The film is thought to be a metaphor for the ruling class in Franco’s Spain.  It’s rich with symbolism and lends itself to individual interpretation.  Pacing was a bit slow. 
-Rating: 4/5
+**Exterminating Angel (El Angel Exterminador) (1962)**
+* Director: Luis Buñuel
+* Country: Mexico
+* Summary:  A group of aristocrats attend a dinner party at a mansion, but find themselves unable to leave.
+* Review: The film is thought to be a metaphor for the ruling class in Franco’s Spain.  It’s rich with symbolism and lends itself to individual interpretation.  Pacing was a bit slow. 
+* Rating: 4/5
 
-Anabel (2015)
+**Anabel (2015)**
 Director: Antonio Trashorras
 Country: Spain
 Summary:  A low-budget, indie film featuring Ana de Armas before she became a darling of Hollywood. It tells the sinister tale of two college students who take in a strange man as a housemate. 
