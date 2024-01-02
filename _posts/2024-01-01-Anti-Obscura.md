@@ -1,30 +1,40 @@
 ---
 layout: post
-title: "Hilaria Baldwin’s grift is a game that many of us partake in"
+title: "Anti-Obscura: Gone are the days of singularity elitism"
 categories:
   - Journaling
 tags:
   - Entertainment
-  - Cultural Identity
-  - Hilaria Baldwin
-  - Op-Ed
-  - Politics
+  - Fashion
 
 ---
+In the heyday of Lookbook.nu, I tried and failed to become a star. Despite composing whimsical names for my looks, incorporating vintage pieces, and trekking out to the middle of nowhere to stage folksy shoots, I topped out at 100 fans. But Lookbook did serve as a source of inspiration for my 2010’s twee, pseudo-French girl wardrobe. And several of its proteges went on to make careers of fashion blogging, creators like Luanna Perez-Garreaud, Rachel Martino, and Steffy Degreff.
 
-*My response to Hilaria Baldwin's charading as a Spanish person and a discussion of how this flavor of identity fabrication is actually quite common among Americans.*
+It’s been years since I browsed Lookbook. But the other day I found myself recalling a popular Lookbooker that went by the moniker “Jag Lever” and wondering what became of her.  I found Jag’s Instagram account and was unsurprised to see that her Lookbook fame has morphed into influencer fame.  But I was surprised to see that her schtick has changed.
 
-I grew up with my grandmother telling us that we were part-Native American.  Though everyone in my family was pale and fair-haired, our heritage manifested in other ways, such as my grandmother’s house.  There were feathered spears propped in the corner and headdresses hanging on the walls.  Displayed on the mantel was a photo of my grandmother next to a man, whom she told me was named “Sitting Bull.”  She kept at the ready an easel, where she painted subjects having a natural or spiritual theme, like canoes, wolves, and constellations.
+Jag, whose real name is Rachel Iwanyszyn (made public by her; I’m not a creeper), made a name for herself as a Zooey Deschanel lookalike from Michigan with a femme, loosely-60’s study abroad girlfriend style. Her looks frequently featured short, pleated skirts, shorts over tights, and big floppy hats. Then she moved to NYC where she entered her haute couture Slytherin era - leather jackets, Jeffrey Campbell Litas, and plum lipstick. That was the last I knew of Jag.
 
-I wore my heritage proudly, taking every opportunity to make my classmates aware.  They usually responded with awe and incredulity (probably due to my carrot-colored hair).  I joined a club at the YMCA called “Indian Princesses” that was dedicated to celebrating Native American culture.  Pocahontas was my favorite Disney princess, in-part because there was a chance we could be related.  For a time, this piece of my ethnicity formed a large part of my identity.
+So, I was floored to see that her current aesthetic is…spoopy?
 
-But, as I grew older, I became more inquisitive.  “What tribe do we descend from?” I asked my parents.  They weren’t sure.  “How many generations back is our Native American lineage?”  Again, they didn’t know.  But, what they did know was that it was “too far back to get any kind of scholarship.”  The more I asked, the more it dawned on me that our Native American roots were miniscule, if existent at all.  And, I felt I could no longer lay claim to them.  
+Like every textile, wall hanging, and utensil in her Brooklyn apartment features a pumpkin, bat, or ghost motif. There’s an “easy spooky dirty pudding” tutorial set to the Goosebumps theme song. Jag carts around a life-size skeleton with articulating joints as a sort of accessory. Even in June, she sported a jack o’ lantern print bikini on a beach in Finland.
 
-When I first heard about Bostonian Hilaria Baldwin guising as Spanish, I thought it was a strange thing to fake.  Why not lie about something more impressive, like having graduated from a prestigious university or having won a ballroom dancing competition?  But, then I was reminded of my own family and our clinging to the myth of our Native Americanness.  
-I know my family is not alone.  Many Americans suffer from an identity crisis stemming from an inability to identify with any particular culture.  For Americans that descend from generations of previous Americans, it is difficult to determine where our familial predecessors who initially immigrated to the U.S. came from.  But, we obviously care.  
+Millennials are characteristically obsessed with Halloween. It’s like something about being a child in the 90’s imprinted on us a lifelong love for the creepy crawly. Maybe it was Goosebumps or Are You Afraid of the Dark? Maybe it was the influence of grunge or the school-sanctioned parties. 
 
-Genetics test company 23andMe boasts more than 12,000,000 customers to-date .  As of 2018, Ancestry.com had more than three million paying subscribers .  Americans spend millions of dollars on genealogy research services every year, largely in hopes of gathering some clues about their ethnicities.  Even before these products were available, Americans often speculated as to their ethnic backgrounds based on their physical characteristics.  For example, in my family, the large number of redheads led to the rumor that we are also part Scotch-Irish.  
+As a result of this development, I felt kinship with Jag. She had always seemed inaccessible. But suddenly I saw her as just another girl that spends the majority of the year counting down to the cheesy holiday.  
 
-Our ethnicities are important to us because we have long relied on them to shape our identities.  But maybe this practice is lazy.  Who cares if your great-great-great-grand-something came from Italy if you don’t speak Italian, cook Italian food, or practice any other Italian customs?  If your association with a country goes so far back that you have to employ a third-party service to become aware of it, then your legacy is of little relevance.   
+This sense of communion was unfamiliar to me. A few years ago, I would have looked at Jag’s reinvention as Halloqueen and said: “but, that’s my thing!” But something has changed.
 
-Perhaps it is better to base our identities on other aspects of our personhood, such as our accomplishments, passions, upbringings, political stances, communities, religions, and adversities, as examples.  We all have unique experiences, even if they aren’t tied to another country.  In fact, with its relative diversity, wealth, and freedom, this country is an incubator for great stories.  It’s simply a matter of reframing our biographical narratives to center around the attributes that define us.  And, to take a cue from Hilaria, we need no embellishment in order to be interesting.
+I went to college in the early 10’s. The term “hipster” dominated discourse. You weren’t one if you self-identified as one. But you wanted to be one because it denoted being unique and on trend (or immune to trend) at the same time.
+
+I had “my things,” which at some point included lacey socks, anything starring Catherine Deneuve, and the band Night Driving in Small Towns. If anyone else expressed a fondness for one, I’d seethe. I’d declare myself the OG and slander the other as a wannabe. Or I’d simply disown that thing.
+
+My attitude wasn’t unique. At times it felt like my entire cohort was in competition to be into the most obscure crap. We’d post stills of foreign art films and quotes from long-dead philosophers on Tumblr. We’d go to shows for local bands that garnered a crowd of a dozen or so and put out one album before splitting. We thrifted because it almost guaranteed we’d end up with something one-of-a-kind. It was exhausting, but it did grant us exposure to cultural relics that we wouldn’t have encountered otherwise.
+
+One night, I was out drinking with a close friend when Call Me Maybe by Carly Rae Jepson came on over the bar speakers.  I  was disgusted to witness her singing along.  I felt betrayed. But soon I joined my peers in stanning Ke$ha and Rihanna, albeit ironically. It was like we had an unspoken joke - that it was quaint to be into normie stuff. Afterall, they were guilty pleasures, not cornerstones of our identities.
+When I entered law school, my standards relaxed. My new classmates were mostly from football/Greek life schools and less “alternative” than the students at my urban college had been. So, it felt safe to dabble in the mainstream without risking becoming a pariah.
+
+It turned out that awareness of pop culture granted me access to community. I got the references when my classmates quoted Crazy Ex-Girlfriend. We swapped theories about the Adnan Syed case, which we were versed on thanks to the Serial podcast. I made a playlist mostly consisting of Drake, Ariana Grande, and Fetty Wap (for working out, obviously). And suddenly I could sing along to songs at parties. The sameness was more than fine. It was esprit de corps.
+
+Taylor Swift’s Eras Tour sold 2.4 million tickets in the first day of U.S. presale. The hype didn’t tarnish the allure of the show; it added to the appeal. 142 million households watched Squid Games during its first month on Netflix. So, good luck trying to convince anyone that you liked it before it was cool. Hipness and singularity are disentangling. We’ve entered a period of cultural convergence. We watch the Barbie movie to comprehend why so many people are seeing it. Liking Succession makes you smart, not sheeple. 
+
+I don’t have a theory as to how or why alternative elitism took a nosedive. Maybe the pandemic left people craving connection. Maybe we realized that in trying to distinguish ourselves we were conforming. How unique could my outfits even have been when I spent all day scrolling Lookbook? It’s impossible to be completely original in a developed society.  And, obscurity is a poor heuristic for taste. 
