@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-I am a Seattle-based lawyer and occasional writer, doodler, and scaler of steep surfaces.  I'm interested in urbanism, technology law, anything spooky, and anything Southern.  I write about local issues, books, and lived/fictional experiences.  My work can be seen in the Seattle Times, the Tacoma News Tribune, the Washington Bar News, and here!  
+I am a Seattle-based lawyer and occasional writer, doodler, and scaler of steep surfaces.  I'm interested in urbanism, technology law, anything spooky, and anything Southern.  I write about local issues, books, and lived/fictional experiences.  My work can be seen in the Seattle Times, the Tacoma News Tribune, the Washington Bar News, Tales to Terrify, the Urbanist, and here!  
 </p>
 
 <p>
