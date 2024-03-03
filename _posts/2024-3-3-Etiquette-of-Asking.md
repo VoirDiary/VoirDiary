@@ -31,7 +31,7 @@ We’re all navigating the modern age in our own ways. And sometimes the key to 
 
 | When it's safe to ask         | When it's riskier to ask     | 
 |--------------|-----------|
-| When the question stems from genuine curiosity about how they spend the majority of their time, their areas of knowledge/interest/experience, or commonalitie | When the question is driven by a desire to probe personal information, like economic status, education level, immigration status, disability, or employment status    | 
+| When the question stems from genuine curiosity about how they spend the majority of their time, their areas of knowledge/interest/experience, or commonalities | When the question is driven by a desire to probe personal information, like economic status, education level, immigration status, disability, or employment status    | 
 | When the other person brings it up first or you have reason to believe that it is a welcome topic      | When you have reason to believe that it’s a sensitive topic  | 
 | At work or industry events       | At events that are not job-oriented  | 
 | You’ve known the person for a while      | You just met the person  | 
