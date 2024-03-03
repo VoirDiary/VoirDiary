@@ -33,4 +33,4 @@ Traditionally, consumer protection laws have focused on buyers of goods and serv
 
 The rarity of cities suing corporations may also be the result of a fear of losing economic opportunities. While the interests of cities and corporations sometimes align, the Seattle lawsuit stands for the proposition that the City’s primary responsibility is to its residents. Rather than avoiding conflict to preserve the possibility of some hypothetical future partnership with the automakers, the City took action in response to what it saw as an actual present harm to the safety of its streets and resources. Seattle’s legal battle is not just a fight against Kia and Hyundai, but the beginning of a war against corporate supremacy.
 
-Originally published by [the Urbanist](https://www.theurbanist.org/2023/05/15/seattle-is-suing-two-theft-prone-automakers/).
+*Originally published by [the Urbanist](https://www.theurbanist.org/2023/05/15/seattle-is-suing-two-theft-prone-automakers/).*
