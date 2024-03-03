@@ -1,3 +1,16 @@
+---
+layout: post
+title: "One-Judge Divisions Allow Gamesmanship, Politics to Infect Courts"
+categories:
+  - Op-Eds
+tags:
+  - Law
+  - Patents
+  - Judges
+  - Politics
+---
+
+
 Single-judge divisions in federal courts have inadvertently given rise to judge-shopping, when plaintiffs strategically file suit in a division based on favorability of its judge.
 
 In at least 81 divisions nationwide, only one or two judges preside over the division’s cases, creating the opportunity for plaintiffs to pre-select a judge.
