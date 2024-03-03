@@ -28,3 +28,15 @@ When in doubt, ask yourself what your goal is in asking someone’s job and cons
 
 If you do venture into the work topic, just be aware that you may not receive a receptive response. Understand that the response is probably not coming from a place of malice. Try not to get defensive. “Kindness is the heart of polite conversation,” said etiquette expert [Jan Goss](https://www.rd.com/list/rude-conversation-habits/).  
 We’re all navigating the modern age in our own ways. And sometimes the key to getting to know someone is to approach the unfamiliar with empathy.  
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
+
+
+You just met the person
+
+
+
