@@ -14,6 +14,7 @@ tags:
 -----------------------------------------------
 In preparation for my trip to Japan, I read this book about the history of the Japanese beer industry.  I like Japanese beer.  Sure, it is light on flavor and practically indistinguishable among labels.  But it hits the spot after a long day of walking and compliments almost any savory meal.  The book not only covered the origins and evolution of Japanese beer but the historical events that shaped the industry.  In reading it I gained an appreciation for the country's foamy golden drink and culture of gritty resourcefulness.    
 
+![image](/assets/images/Japanesebeer.jpg){:height="900px" width="514px"}
 
 # 1. Foreign Influences: The Origins of Japan’s Beer Brewing Industry, 1868-1906
 * Beer industry in Japan began during Meiji era (1868-1912) after Tokugawa shogunate collapsed (1603-1867)
