@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meet 'Ternurines', the Japanese toys taking over Mexican Twitter"
+title: "Meet "Ternurines", the Japanese toys taking over Mexican Twitter"
 categories:
   - Journaling
 tags:
