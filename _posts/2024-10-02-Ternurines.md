@@ -19,4 +19,3 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-To be continued...
