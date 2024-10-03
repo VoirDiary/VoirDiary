@@ -27,6 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-twitter-plugin
 
 # Sidebar link settings
 sidebar_home_link:  true
