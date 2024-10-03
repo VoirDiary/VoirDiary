@@ -21,3 +21,5 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 {% twitter page.a_tweet %}
 
+{% twitter https://x.com/EnMexicoMagico/status/1813945901616152948 maxwidth=500 %}
+
