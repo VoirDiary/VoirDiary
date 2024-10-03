@@ -16,4 +16,6 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 [<blockquote class="twitter-tweet"><p lang="es" dir="ltr">BAR SINSO 🍻 <a href="https://t.co/NDernpMNiK">pic.twitter.com/NDernpMNiK</a></p>&mdash; 🇲🇽 México Mágico ✨ (@EnMexicoMagico) <a href="https://twitter.com/EnMexicoMagico/status/1813945901616152948?ref_src=twsrc%5Etfw">July 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>](https://x.com/EnMexicoMagico/status/1813945901616152948)
 
+{% embed https://twitter.com/EnMexicoMagico/status/1813945901616152948?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1813945901616152948%7Ctwgr%5E945206a72c5500def6d196a28e30ef798b39a9db%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Furl%3Dhttps%3A%2F%2Ftwitter.com%2FEnMexicoMagico%2Fstatus%2F1813945901616152948 %}
+
 To be continued...
