@@ -147,18 +147,15 @@ NEW
 
 <div class="container">
     <div class="post">
-        <blockquote class="twitter-tweet">
-            <p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>— El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1807270415196135714?ref_src=twsrc%5Etfw">June 30, 2024</a>
-        </blockquote>
-        <div class="caption">BLACKPINK</div>
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9dcJq8psUt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <div class="caption">CATDOG</div>
     </div>
     <div class="post">
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
-        <div class="caption">BLACKPINK</div>
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C8hs7IVuLKg/?img_index=1" data-instgrm-version="14"></blockquote>
+        <div class="caption">CATDOG</div>
     </div>
 </div>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async src="//www.instagram.com/embed.js"></script>
 
 <style>
@@ -176,5 +173,6 @@ NEW
         margin-top: 10px;
     }
 </style>
+
 
 
