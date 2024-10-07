@@ -77,11 +77,40 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<style>
+    .tweet-container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .tweet {
+        flex: 1;
+        margin: 10px;
+    }
+    .caption {
+        text-align: left;
+        font-style: italic;
+        margin-top: 5px;
+    }
+</style>
+
+<div class="tweet-container">
+    <div class="tweet">
+        <blockquote class="twitter-tweet">
+            <p lang="zxx" dir="ltr"><a href="https://t.co/tOLX6i8Hzw">pic.twitter.com/tOLX6i8Hzw</a></p>— Memes Universidad Nacional (@nacional_memes) <a href="https://twitter.com/nacional_memes/status/1816281813192434114?ref_src=twsrc%5Etfw">July 25, 2024</a>
+        </blockquote>
+        <div class="caption">Comment says: “the line outside of the OXXO at 2 a.m.”.</div>
+    </div>
+    <div class="tweet">
+        <blockquote class="twitter-tweet">
+            <p lang="es" dir="ltr">Qué se hace cuando la gente shrek llega a vivir a la privada o a los depas??? <a href="https://t.co/TZUiKw5CTI">pic.twitter.com/TZUiKw5CTI</a></p>— María 💙 (@MariaVFH) <a href="https://twitter.com/MariaVFH/status/1814880546142691809?ref_src=twsrc%5Etfw">July 21, 2024</a>
+        </blockquote>
+        <div class="caption">Comment says: “What do you do when Shrek people move to your subdivision or apartment complex? (“Casa en Venta” = “House for Sale”)”.</div>
+    </div>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Old
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Viernes 5:01pm <a href="https://t.co/BwwLoSryzN">pic.twitter.com/BwwLoSryzN</a></p>&mdash; MOO DENG OR DEATH (@elbuenaldo) <a href="https://twitter.com/elbuenaldo/status/1806793628255395958?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Para la beca // Para la visa <a href="https://t.co/z7frrqor4K">pic.twitter.com/z7frrqor4K</a></p>&mdash; El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1813241671783752156?ref_src=twsrc%5Etfw">July 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/tOLX6i8Hzw">pic.twitter.com/tOLX6i8Hzw</a></p>&mdash; Memes Universidad Nacional (@nacional_memes) <a href="https://twitter.com/nacional_memes/status/1816281813192434114?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
