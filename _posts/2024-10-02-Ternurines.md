@@ -194,4 +194,20 @@ But it wasn’t until recently that Ternurines took Mexican social media by stor
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+NEW
+
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9jXhTlORp2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p style="text-align: left;">PEANUT</p>
+    </div>
+    <div style="margin: 20px;">
+        <blockquote class="twitter-tweet"><a href="https://twitter.com/Guarromantico_/status/1811752641242050877">Tweet</a></blockquote>
+        <p style="text-align: left;">PEANUT</p>
+    </div>
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
