@@ -129,34 +129,18 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
 
 BETWEEN POSTS
 
-<div class="container">
-    <div class="post">
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9dcJq8psUt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <div class="caption">CATDOG</div>
+        <p style="text-align: left;">CATDOG</p>
     </div>
-    <div class="post">
+    <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C8hs7IVuLKg/?img_index=1" data-instgrm-version="14"></blockquote>
-        <div class="caption">CATDOG</div>
+        <p style="text-align: left;">CATDOG</p>
     </div>
 </div>
 
 <script async src="//www.instagram.com/embed.js"></script>
-
-<style>
-    .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
-    }
-    .post {
-        margin: 10px;
-    }
-    .caption {
-        text-align: left;
-        font-size: 1.2em;
-        margin-top: 10px;
-    }
-</style>
 
 Sylvanian Families are not new.  They actually debuted in Japan in [1985](https://sylvanianfamiliesvillage.wordpress.com/2012/08/01/the-birth-of-sylvanian-families/), a creation of Japanese toy maker Epoch.  They entered North American markets later that year sold under the name “Calico Critters”.  
 
