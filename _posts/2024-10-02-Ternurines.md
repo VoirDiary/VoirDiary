@@ -202,24 +202,11 @@ Perhaps, in addition to the nostalgia factor, their animal likeness makes Ternur
 
 <script async src="//www.instagram.com/embed.js"></script>
 
-ALSO
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr">🙊 <a href="https://t.co/2UiX0ZdLUb">pic.twitter.com/2UiX0ZdLUb</a></p>&mdash; Mrs. Lovett (@BettLovett) <a href="https://twitter.com/BettLovett/status/1819789835265282290?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Caption says: “It’s incredible how far you can go when you use your credit card improperly.  Greetings from Cancun.”
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="margin: 20px;">
-        <blockquote class="twitter-tweet">
-            <a href="https://x.com/BettLovett/status/1819789835265282290">Tweet</a>
-        </blockquote>
-        <p style="text-align: left;">SQUIRRELS</p>
-    </div>
-    <div style="margin: 20px;">
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9sGKg-upa0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">SQUIRRELS</p>
-    </div>
-</div>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script async src="//www.instagram.com/embed.js"></script>
-
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr">🙊 <a href="https://t.co/2UiX0ZdLUb">pic.twitter.com/2UiX0ZdLUb</a></p>&mdash; Mrs. Lovett (@BettLovett) <a href="https://twitter.com/BettLovett/status/1819789835265282290?ref_src=twsrc%5Etfw">August 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Caption says: “This isn’t the life I wrote about in my project in middle school”
 
 Yes, Ternurines have taken to Tik Tok, too. 
 
