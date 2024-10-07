@@ -132,11 +132,11 @@ BETWEEN POSTS
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9dcJq8psUt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">CATDOG</p>
+        <p style="text-align: left;">Caption says: “When I have PMS I won’t say anything but there will be signs”</p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C8hs7IVuLKg/?img_index=1" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">CATDOG</p>
+        <p style="text-align: left;">Caption says: "Therapy isn't enough, I need to go back in time and undo my birth"</p>
     </div>
 </div>
 
@@ -151,11 +151,11 @@ But it wasn’t until recently that Ternurines took Mexican social media by stor
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9jXhTlORp2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">PEANUT</p>
+        <p style="text-align: left;">Caption says: “God I asked you to free me, not my stomach”</p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="twitter-tweet"><a href="https://twitter.com/Guarromantico_/status/1811752641242050877">Tweet</a></blockquote>
-        <p style="text-align: left;">PEANUT</p>
+        <p style="text-align: left;">Caption says: “Me waiting until I’m late to start hurrying”</p>
     </div>
 </div>
 
@@ -167,11 +167,11 @@ NEW
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C6O-2DlvJYC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">SWEATER</p>
+        <p style="text-align: left;">Caption says: "Having to withstand heat and stupid people at the same time seems excessive to me"</p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C-F0uwbJwc2/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">SWEATER</p>
+        <p style="text-align: left;">Caption says: “If it bothers you that I arrive late, don’t open work so early”</p>
     </div>
 </div>
 
