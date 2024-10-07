@@ -111,45 +111,37 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-core outfits and wide-set black eyes.  They are overlaid by text expressing sassy or nihilistic sentiments.  The recent trend features “Ternurines”, toys from the Sylvanian Families line.  The dolls are small, ranging from [3.2-7.5 cm](https://mimorelia.com/noticias/entretenimiento/este-es-el-origen-de-la-popularidad-de-los-ternurines-los-juguetes-que-conquistan-corazones-en-redes-sociales) in height, and covered in a thin layer of synthetic fur.  They come in a range of species - bears, koalas, giraffes, elephants, kangaroos, otters, all anthropomorphic with jointed arms and legs.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embed Social Media Posts</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .post {
-            margin: 10px;
-        }
-        .caption {
-            text-align: center;
-            font-size: 1.5em;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="post">
-            <blockquote class="twitter-tweet">
-                <a href="https://x.com/Guarromantico_/status/1807270415196135714"></a>
-            </blockquote>
-        </div>
-        <div class="post">
-            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
-        </div>
+<div class="container">
+    <div class="post">
+        <blockquote class="twitter-tweet">
+            <a href="https://x.com/Guarromantico_/status/1807270415196135714"></a>
+        </blockquote>
+        <div class="caption">BLACKPINK</div>
     </div>
-    <div class="caption">BLACKPINK</div>
+    <div class="post">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+        <div class="caption">BLACKPINK</div>
+    </div>
+</div>
 
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    <script async src="//www.instagram.com/embed.js"></script>
-</body>
-</html>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//www.instagram.com/embed.js"></script>
+
+<style>
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+    .post {
+        margin: 10px;
+    }
+    .caption {
+        text-align: left;
+        font-size: 1.2em;
+        margin-top: 10px;
+    }
+</style>
 
 
 
