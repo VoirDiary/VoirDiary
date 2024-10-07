@@ -127,8 +127,6 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async src="//www.instagram.com/embed.js"></script>
 
-BETWEEN POSTS
-
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9dcJq8psUt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
@@ -162,8 +160,6 @@ But it wasn’t until recently that Ternurines took Mexican social media by stor
 <script async src="//www.instagram.com/embed.js"></script>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-NEW
-
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C6O-2DlvJYC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
@@ -196,11 +192,11 @@ Perhaps, in addition to the nostalgia factor, their animal likeness makes Ternur
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C6ezzI5PBsE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">CHEESE</p>
+        <p style="text-align: left;">Caption says: “Damn, I just screwed myself”  “Ay, he just screwed himself”</p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C3yRVEoSaHY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">CHEESE</p>
+        <p style="text-align: left;">Caption says: “Shit I didn’t turn off the stove”</p>
     </div>
 </div>
 
