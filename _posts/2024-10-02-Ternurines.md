@@ -255,3 +255,7 @@ ALSO
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async src="//www.instagram.com/embed.js"></script>
+
+Yes, Ternurines have taken to Tik Tok, too. 
+
+
