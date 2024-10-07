@@ -280,3 +280,18 @@ In a display of life imitating social media, the Ternurin craze has spilled onto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZApSDZdEI-E?si=YHScpnvMf8F0soLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Near Mexico City’s Balderas Metro station, an enterprising couple set up a Ternurin-inspired popsicle stand. Called “Ternu Paletas”, they offer frozen doppelgangers for the dolls in flavors like tamarind, maracuya, chili-strawberry, mango, and peach.  But the crown jewel is undoubtedly their iconic axolotl Ternu-popsicle, a uniquely Mexican spin on the toys.  
+
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9oAHHsu8sU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p style="text-align: left;">GLUE</p>
+    </div>
+    <div style="margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C79fn3NtkhQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p style="text-align: left;">GLUE</p>
+    </div>
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+Relevant again, Ternurines’ peaceful invasion of Mexican social media and street culture shows no signs of slowing down.  Carried-in by the cultural tides, the toys have made a comeback to accompany their playmates, now adults, in navigating challenges with resilience and humor.  And fur.
