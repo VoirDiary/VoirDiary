@@ -13,7 +13,7 @@ tags:
 a_tweet: https://x.com/EnMexicoMagico/status/1813945901616152948
 ---
 
-Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-deprecating, sometimes scathing humor.  Users post photos of local businesses whose signage incorporates popular cartoon characters in blatant acts of infringement.  Memes about “Whitexicans”, privileged Mexicans who exist in ignorance of the struggles of their less fortunate compatriots, circulate regularly.  Equally popular are the memes about “Shrexicans”, Mexicans who embrace the “buchon” style of dress, characterized by tight jeans, prominent designer logos, and silk shirts with garrish patterns, a mimicry of the opulence associated with narcotraffickers.  Other common subjects include their affinity for Dragon Ball Z, sketchy street food, and chat logs memorializing failed attempts at seduction. 
+Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-deprecating, sometimes scathing humor.  Users post photos of local businesses whose signage incorporates popular cartoon characters in blatant acts of infringement.  Memes about “Whitexicans”, privileged Mexicans who exist in ignorance of the struggles of their less fortunate compatriots, circulate regularly.  Equally popular are the memes about “Shrexicans”, Mexicans who embrace the [“buchon”](https://www.milenio.com/cultura/por-que-les-dicen-buchones-buchonas-relacion-con-narcocultura) style of dress, characterized by tight jeans, prominent designer logos, and silk shirts with garrish patterns, a mimicry of the opulence associated with narcotraffickers.  Other common subjects include their affinity for Dragon Ball Z, sketchy street food, and chat logs memorializing failed attempts at seduction. 
 <style>
     .tweet-container {
         display: flex;
@@ -109,5 +109,6 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-core outfits and wide-set black eyes.  They are overlaid by text expressing sassy or nihilistic sentiments.  The recent trend features “Ternurines”, toys from the Sylvanian Families line.  The dolls are small, ranging from [3.2-7.5 cm](https://mimorelia.com/noticias/entretenimiento/este-es-el-origen-de-la-popularidad-de-los-ternurines-los-juguetes-que-conquistan-corazones-en-redes-sociales) in height, and covered in a thin layer of synthetic fur.  They come in a range of species - bears, koalas, giraffes, elephants, kangaroos, otters, all anthropomorphic with jointed arms and legs.
 
 
