@@ -209,4 +209,18 @@ NEW
 
 <script async src="//www.instagram.com/embed.js"></script>
 
+But it’s possible that Ternurin memes are more than a format that derives humor from irony.  Likely, they are a coping mechanism.  Kids who played with Sylvanian Families in their golden age are now adults in their 30’s or 40’s.  Besides the usual adult responsibilities, they are facing a post-pandemic world marked by global conflict, a mental health crisis, and environmental destruction.  In Mexico, [organized crime](https://www.statista.com/statistics/1071904/mexico-main-problems-opinion-leaders-journalists/), [corruption](https://www.statista.com/statistics/1071904/mexico-main-problems-opinion-leaders-journalists/), [and poverty](https://www.statista.com/statistics/1071904/mexico-main-problems-opinion-leaders-journalists/) are a constant undercurrent.  
 
+Nostalgia is a common response to [distressing negative emotions](https://www.psychologytoday.com/us/blog/supersurvivors/202109/why-nostalgia-is-the-rise).  Memories of happier or simpler times can provide comfort.  It offers a temporary respite from the uncertainty and stress of the present.  For Millenials, Ternurines are fur-covered time machines.  
+
+But unlike older generations, Millennials don’t have to dig through their parents’ basements to evoke nostalgia.  Psychologist [Mark Travers](https://www.forbes.com/sites/traversmark/2024/02/16/a-psychologist-explains-the-new-age-nostalgia-trend/) wrote that “the digital age has revolutionized the way we express and engage with our nostalgic impulses.”  Indeed, with mobile devices and the internet, relics of childhood are only a click-away.  Social media functions as crowd-sourced archives of nostalgia, with users swapping media and memories.  
+
+Enter Ternurines.
+
+[Ale Higareda](https://malvestida.com/2024/02/ternurines-el-antidoto-para-la-desesperanza-millennial/), of the website Malvestida, describes her Ternu-experiencia: 
+
+*“Amidst a wave of news that predicts the end of the world, and does nothing more than trigger the 87th anxiety attack of the month, a visual oasis appears on the front of my cell phone screen: the image of a tiny toy bunny, covered in a soft layer of suede and a green floral dress. It is one of the Ternurines.”*
+
+Yet, Ternurines aren’t pure escapism.  In contrast to Disney remakes or Nintendo 64 games, most Ternurin memes don’t evade Millennial problems.  They confront them head-on.  The posts explore themes such as financial struggles, dysfunctional relationships, and existential dread.  In a sense, Ternurin memes are the lovechild of Millenial nostalgia and Mexican Twitter humor at-large, self-aware as ever.  
+
+Perhaps, in addition to the nostalgia factor, their animal likeness makes Ternurines the perfect vehicle to broach uncomfortable, adult topics.  The depiction of our daily struggles, caricatured by what are essentially miniature furries, reveals the triviality of the situations.  The dopey dolls offer a dose of levity to treat Millennial malaise.  
