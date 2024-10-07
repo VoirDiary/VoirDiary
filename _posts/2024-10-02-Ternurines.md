@@ -234,18 +234,20 @@ Yes, Ternurines have taken to Tik Tok, too.
 
 In a display of life imitating social media, the Ternurin craze has spilled onto the streets of Mexico.  Ternurines can now be found at street markets, known as “tianguis”.  YouTuber Merlin Plus posted a [video](https://www.youtube.com/watch?v=13W6zA1BmUA) showing her trip to the tianguis of Mexico City to buy her first Ternurin.  She peruses various stands selling the dolls, some suspiciously sold in unmarked plastic baggies.  But what stuns is the vast assortment of accessories the vendors offer for the toys.  They have every piece of furniture imaginable, alongside miniature cookware, appliances, food, gardening gear, you-name-it, all in exquisite detail. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZApSDZdEI-E?si=YHScpnvMf8F0soLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZApSDZdEI-E?si=YHScpnvMf8F0soLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Near Mexico City’s Balderas Metro station, an enterprising couple set up a Ternurin-inspired popsicle stand. Called “Ternu Paletas”, they offer frozen doppelgangers for the dolls in flavors like tamarind, maracuya, chili-strawberry, mango, and peach.  But the crown jewel is undoubtedly their iconic axolotl Ternu-popsicle, a uniquely Mexican spin on the toys.  
 
 <div style="display: flex; justify-content: space-around;">
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9oAHHsu8sU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">GLUE</p>
+        <p style="text-align: left;"></p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C79fn3NtkhQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">GLUE</p>
+        <p style="text-align: left;"></p>
     </div>
 </div>
 
