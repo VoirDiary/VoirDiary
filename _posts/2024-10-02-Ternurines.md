@@ -111,22 +111,45 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-core outfits and wide-set black eyes.  They are overlaid by text expressing sassy or nihilistic sentiments.  The recent trend features “Ternurines”, toys from the Sylvanian Families line.  The dolls are small, ranging from [3.2-7.5 cm](https://mimorelia.com/noticias/entretenimiento/este-es-el-origen-de-la-popularidad-de-los-ternurines-los-juguetes-que-conquistan-corazones-en-redes-sociales) in height, and covered in a thin layer of synthetic fur.  They come in a range of species - bears, koalas, giraffes, elephants, kangaroos, otters, all anthropomorphic with jointed arms and legs.
 
-<div style="display: flex;">
-    <figure style="flex: 1; text-align: center;">
-        <!-- First embed code -->
-        <blockquote class="twitter-tweet">
-            <p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>&mdash; El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1674518400000000000">June 30, 2024</a>
-        </blockquote>
-        <figcaption>Caption for the first post</figcaption>
-    </figure>
-    <figure style="flex: 1; text-align: center;">
-        <!-- Second embed code -->
-        <blockquote class="instagram-media">
-            <p>View this post on Instagram</p>
-            <p>A post shared by Pinkurines | Ternurines y miniaturas (@pinkurines)</p>
-        </blockquote>
-        <figcaption>Caption for the second post</figcaption>
-    </figure>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed Social Media Posts</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .post {
+            margin: 10px;
+        }
+        .caption {
+            text-align: center;
+            font-size: 1.5em;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="post">
+            <blockquote class="twitter-tweet">
+                <a href="https://x.com/Guarromantico_/status/1807270415196135714"></a>
+            </blockquote>
+        </div>
+        <div class="post">
+            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
+        </div>
+    </div>
+    <div class="caption">BLACKPINK</div>
+
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script async src="//www.instagram.com/embed.js"></script>
+</body>
+</html>
+
 
 
