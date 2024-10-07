@@ -33,8 +33,14 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
         text-align: left;
     }
 </style>
+
 <div class="left-align">
-<blockquote class="twitter-tweet"><p lang="qme" dir="ltr">🥴 <a href="https://t.co/L9T4wWUw5s">pic.twitter.com/L9T4wWUw5s</a></p>&mdash; Patrisha🩺🌷🌟 (@drapatygal) <a href="https://twitter.com/drapatygal/status/1816919085768409295?ref_src=twsrc%5Etfw">July 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <blockquote class="twitter-tweet">
+        <p lang="qme" dir="ltr">🥴 <a href="https://t.co/L9T4wWUw5s">pic.twitter.com/L9T4wWUw5s</a></p>— Patrisha🩺🌷🌟 (@drapatygal) <a href="https://twitter.com/drapatygal/status/1816919085768409295?ref_src=twsrc%5Etfw">July 26, 2024</a>
+    </blockquote>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Viernes 5:01pm <a href="https://t.co/BwwLoSryzN">pic.twitter.com/BwwLoSryzN</a></p>&mdash; MOO DENG OR DEATH (@elbuenaldo) <a href="https://twitter.com/elbuenaldo/status/1806793628255395958?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
