@@ -121,7 +121,10 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
     </figure>
     <figure style="flex: 1; text-align: center;">
         <!-- Second embed code -->
-        <iframe src="your_second_embed_code_url" width="300" height="200"></iframe>
+        <blockquote class="instagram-media">
+            <p>View this post on Instagram</p>
+            <p>A post shared by Pinkurines | Ternurines y miniaturas (@pinkurines)</p>
+        </blockquote>
         <figcaption>Caption for the second post</figcaption>
     </figure>
 </div>
