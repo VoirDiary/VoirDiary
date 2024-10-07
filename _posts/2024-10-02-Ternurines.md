@@ -180,5 +180,18 @@ Sylvanian Families are not new.  They actually debuted in Japan in [1985](https:
 
 But it wasn’t until recently that Ternurines took Mexican social media by storm.  It appears that the mash-up of the adorably homely critters with saucy messages is a formula for comic success.  And now the tiny edgelords are all over Twitter, Instagram, and TikTok. 
 
+<div style="display: flex; justify-content: space-around;">
+    <div style="text-align: center; margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9jXhTlORp2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p>PEANUT</p>
+    </div>
+    <div style="text-align: center; margin: 20px;">
+        <blockquote class="twitter-tweet"><a href="https://x.com/Guarromantico_/status/1811752641242050877"></a></blockquote>
+        <p>PEANUT</p>
+    </div>
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
