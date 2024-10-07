@@ -24,7 +24,7 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
         margin: 10px;
     }
     .caption {
-        text-align: center;
+        text-align: left;
         font-style: italic;
         margin-top: 5px;
     }
@@ -44,6 +44,7 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
     </div>
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
