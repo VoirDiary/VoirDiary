@@ -116,11 +116,11 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
         <blockquote class="twitter-tweet">
             <p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>— El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1807270415196135714?ref_src=twsrc%5Etfw">June 30, 2024</a>
         </blockquote>
-        <p style="text-align: left;">BLACKPINK</p>
+        <p style="text-align: left;">Caption says: “I know that I rolled my eyes at you, but I swear I like you”</p>
     </div>
     <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
-        <p style="text-align: left;">BLACKPINK</p>
+        <p style="text-align: left;">Caption says: “Preparing for the next time they love bomb me”</p>
     </div>
 </div>
 
