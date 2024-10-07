@@ -224,3 +224,16 @@ Enter Ternurines.
 Yet, Ternurines aren’t pure escapism.  In contrast to Disney remakes or Nintendo 64 games, most Ternurin memes don’t evade Millennial problems.  They confront them head-on.  The posts explore themes such as financial struggles, dysfunctional relationships, and existential dread.  In a sense, Ternurin memes are the lovechild of Millenial nostalgia and Mexican Twitter humor at-large, self-aware as ever.  
 
 Perhaps, in addition to the nostalgia factor, their animal likeness makes Ternurines the perfect vehicle to broach uncomfortable, adult topics.  The depiction of our daily struggles, caricatured by what are essentially miniature furries, reveals the triviality of the situations.  The dopey dolls offer a dose of levity to treat Millennial malaise.  
+
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C6ezzI5PBsE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p style="text-align: left;">CHEESE</p>
+    </div>
+    <div style="margin: 20px;">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C3yRVEoSaHY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14"></blockquote>
+        <p style="text-align: left;">CHEESE</p>
+    </div>
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
