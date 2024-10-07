@@ -174,5 +174,9 @@ NEW
     }
 </style>
 
+Sylvanian Families are not new.  They actually debuted in Japan in [1985](https://sylvanianfamiliesvillage.wordpress.com/2012/08/01/the-birth-of-sylvanian-families/), a creation of Japanese toy maker Epoch.  They entered North American markets later that year sold under the name “Calico Critters”.  
 
+“Ternurin” is not an official name for the toys.  Rather, it’s a derivative of the word “Ternura”, which means “tenderness” or “affection”.  “Ternurin” translates to something along the lines of “little tender one”.  The origin of the name is uncertain.  Though, it’s possible that the moniker was lifted from a different line of sort-of-similar-looking toys sold in Mexico by the company [Honey Bee Acres](https://www.milenio.com/virales/ternurines-origen-e-historia-del-juguete-japones) and co-opted as an umbrella term for all toys made of flocked plastic, including Sylvanian Families.  
+
+But it wasn’t until recently that Ternurines took Mexican social media by storm.  It appears that the mash-up of the adorably homely critters with saucy messages is a formula for comic success.  And now the tiny edgelords are all over Twitter, Instagram, and TikTok. 
 
