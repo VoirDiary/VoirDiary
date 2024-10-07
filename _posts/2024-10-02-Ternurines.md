@@ -98,7 +98,7 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
         <blockquote class="twitter-tweet">
             <p lang="zxx" dir="ltr"><a href="https://t.co/tOLX6i8Hzw">pic.twitter.com/tOLX6i8Hzw</a></p>— Memes Universidad Nacional (@nacional_memes) <a href="https://twitter.com/nacional_memes/status/1816281813192434114?ref_src=twsrc%5Etfw">July 25, 2024</a>
         </blockquote>
-        <div class="caption">Comment says: “the line outside of the OXXO at 2 a.m.”.</div>
+        <div class="caption">Comment says: “the line outside of the OXXO at 2 a.m.”. (Note: Oxxo is a ubiquitous convenience store in Mexico).</div>
     </div>
     <div class="tweet">
         <blockquote class="twitter-tweet">
@@ -110,8 +110,4 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Old
 
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/tOLX6i8Hzw">pic.twitter.com/tOLX6i8Hzw</a></p>&mdash; Memes Universidad Nacional (@nacional_memes) <a href="https://twitter.com/nacional_memes/status/1816281813192434114?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Qué se hace cuando la gente shrek llega a vivir a la privada o a los depas??? <a href="https://t.co/TZUiKw5CTI">pic.twitter.com/TZUiKw5CTI</a></p>&mdash; María 💙 (@MariaVFH) <a href="https://twitter.com/MariaVFH/status/1814880546142691809?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
