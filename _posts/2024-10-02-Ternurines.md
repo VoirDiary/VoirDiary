@@ -258,4 +258,20 @@ ALSO
 
 Yes, Ternurines have taken to Tik Tok, too. 
 
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
+        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/t/ZTNC8vcQT/" data-video-id="1">
+            <section> </section>
+        </blockquote>
+        <p style="text-align: left;">ROSA</p>
+    </div>
+    <div style="margin: 20px;">
+        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/t/ZTNC8KC9v/" data-video-id="2">
+            <section> </section>
+        </blockquote>
+        <p style="text-align: left;">ROSA</p>
+    </div>
+</div>
+
+<script async src="https://www.tiktok.com/embed.js"></script>
 
