@@ -45,6 +45,40 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<style>
+    .tweet-container {
+        display: flex;
+        justify-content: space-between;
+    }
+    .tweet {
+        flex: 1;
+        margin: 10px;
+    }
+    .caption {
+        text-align: left;
+        font-style: italic;
+        margin-top: 5px;
+    }
+</style>
+
+<div class="tweet-container">
+    <div class="tweet">
+        <blockquote class="twitter-tweet">
+            <p lang="es" dir="ltr">Viernes 5:01pm <a href="https://t.co/BwwLoSryzN">pic.twitter.com/BwwLoSryzN</a></p>— MOO DENG OR DEATH (@elbuenaldo) <a href="https://twitter.com/elbuenaldo/status/1806793628255395958?ref_src=twsrc%5Etfw">June 28, 2024</a>
+        </blockquote>
+        <div class="caption">Comment says: “Friday 5:01pm”.</div>
+    </div>
+    <div class="tweet">
+        <blockquote class="twitter-tweet">
+            <p lang="es" dir="ltr">Para la beca // Para la visa <a href="https://t.co/z7frrqor4K">pic.twitter.com/z7frrqor4K</a></p>— El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1813241671783752156?ref_src=twsrc%5Etfw">July 16, 2024</a>
+        </blockquote>
+        <div class="caption">Comment says: “For the scholarship // For the visa”. (Note: These photos feature Dr. Simi, the beloved mascot of the chain Farmacias Similares).</div>
+    </div>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Old
+
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Viernes 5:01pm <a href="https://t.co/BwwLoSryzN">pic.twitter.com/BwwLoSryzN</a></p>&mdash; MOO DENG OR DEATH (@elbuenaldo) <a href="https://twitter.com/elbuenaldo/status/1806793628255395958?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Para la beca // Para la visa <a href="https://t.co/z7frrqor4K">pic.twitter.com/z7frrqor4K</a></p>&mdash; El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1813241671783752156?ref_src=twsrc%5Etfw">July 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
