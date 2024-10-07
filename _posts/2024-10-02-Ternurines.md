@@ -111,9 +111,6 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-core outfits and wide-set black eyes.  They are overlaid by text expressing sassy or nihilistic sentiments.  The recent trend features “Ternurines”, toys from the Sylvanian Families line.  The dolls are small, ranging from [3.2-7.5 cm](https://mimorelia.com/noticias/entretenimiento/este-es-el-origen-de-la-popularidad-de-los-ternurines-los-juguetes-que-conquistan-corazones-en-redes-sociales) in height, and covered in a thin layer of synthetic fur.  They come in a range of species - bears, koalas, giraffes, elephants, kangaroos, otters, all anthropomorphic with jointed arms and legs.
 
-Sure! Here is the complete code with the provided embed code for the first post:
-
-```html
 <div style="display: flex;">
     <figure style="flex: 1; text-align: center;">
         <!-- First embed code -->
