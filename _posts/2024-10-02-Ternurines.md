@@ -113,8 +113,8 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
 
 <div style="display: flex;">
     <figure style="flex: 1; text-align: center;">
-        <!-- First embed code -->
-        <iframe src="<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>&mdash; El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1807270415196135714?ref_src=twsrc%5Etfw">June 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> width="300" height="200"></iframe>
+        <!-- <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>&mdash; El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1807270415196135714?ref_src=twsrc%5Etfw">June 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+        <iframe src="https://x.com/Guarromantico_/status/1807270415196135714" width="300" height="200"></iframe>
         <figcaption>Caption says: “I know that I rolled my eyes at you, but I swear I like you”</figcaption>
     </figure>
     <figure style="flex: 1; text-align: center;">
