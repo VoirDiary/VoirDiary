@@ -143,7 +143,7 @@ Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-co
     }
 </style>
 
-NEW
+BETWEEN POSTS
 
 <div class="container">
     <div class="post">
@@ -179,6 +179,40 @@ Sylvanian Families are not new.  They actually debuted in Japan in [1985](https:
 “Ternurin” is not an official name for the toys.  Rather, it’s a derivative of the word “Ternura”, which means “tenderness” or “affection”.  “Ternurin” translates to something along the lines of “little tender one”.  The origin of the name is uncertain.  Though, it’s possible that the moniker was lifted from a different line of sort-of-similar-looking toys sold in Mexico by the company [Honey Bee Acres](https://www.milenio.com/virales/ternurines-origen-e-historia-del-juguete-japones) and co-opted as an umbrella term for all toys made of flocked plastic, including Sylvanian Families.  
 
 But it wasn’t until recently that Ternurines took Mexican social media by storm.  It appears that the mash-up of the adorably homely critters with saucy messages is a formula for comic success.  And now the tiny edgelords are all over Twitter, Instagram, and TikTok. 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Embed</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .caption {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C9jXhTlORp2/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" data-instgrm-version="14" style="background:#FFF; border:0; margin:0; padding:0; width:100%; max-width:540px; box-shadow:none; display:block; min-width:326px;">
+            <div style="padding:16px;">
+                <a href="https://www.instagram.com/p/C9jXhTlORp2/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D" style="color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">View this post on Instagram</a>
+            </div>
+        </blockquote>
+        <div class="caption">Caption says: “God I asked you to free me, not my stomach”</div>
+    </div>
+    <script async src="//www.instagram.com/embed.js"></script>
+</body>
+</html>
+
 
 
 
