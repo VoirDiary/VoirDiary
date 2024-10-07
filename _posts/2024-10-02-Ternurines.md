@@ -111,37 +111,21 @@ Mexican Twitter (aka “X”) is a special place.  It’s marked by a self-depre
 
 Lately Mexican Twitter is awash with photos of fuzzy animals sporting cottage-core outfits and wide-set black eyes.  They are overlaid by text expressing sassy or nihilistic sentiments.  The recent trend features “Ternurines”, toys from the Sylvanian Families line.  The dolls are small, ranging from [3.2-7.5 cm](https://mimorelia.com/noticias/entretenimiento/este-es-el-origen-de-la-popularidad-de-los-ternurines-los-juguetes-que-conquistan-corazones-en-redes-sociales) in height, and covered in a thin layer of synthetic fur.  They come in a range of species - bears, koalas, giraffes, elephants, kangaroos, otters, all anthropomorphic with jointed arms and legs.
 
-<div class="container">
-    <div class="post">
+<div style="display: flex; justify-content: space-around;">
+    <div style="margin: 20px;">
         <blockquote class="twitter-tweet">
             <p lang="es" dir="ltr">Te juro. <a href="https://t.co/h3uL9oCK6J">pic.twitter.com/h3uL9oCK6J</a></p>— El Guarromántico (@Guarromantico_) <a href="https://twitter.com/Guarromantico_/status/1807270415196135714?ref_src=twsrc%5Etfw">June 30, 2024</a>
         </blockquote>
-        <div class="caption">BLACKPINK</div>
+        <p style="text-align: left;">BLACKPINK</p>
     </div>
-    <div class="post">
+    <div style="margin: 20px;">
         <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C92ZyuQu0Ws/?utm_source=ig_web_copy_link" data-instgrm-version="14"></blockquote>
-        <div class="caption">BLACKPINK</div>
+        <p style="text-align: left;">BLACKPINK</p>
     </div>
 </div>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script async src="//www.instagram.com/embed.js"></script>
-
-<style>
-    .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
-    }
-    .post {
-        margin: 10px;
-    }
-    .caption {
-        text-align: left;
-        font-size: 1.2em;
-        margin-top: 10px;
-    }
-</style>
 
 BETWEEN POSTS
 
