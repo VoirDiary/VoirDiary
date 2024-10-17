@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Harris doesn’t need to convince voters she’s better than Trump. She needs to convince them she’s better than their couches"
+title: "Harris doesn’t need to convince voters she’s better than Trump. She needs to convince them she’s better than their couches."
 categories:
   - Op-Eds
 tags:
