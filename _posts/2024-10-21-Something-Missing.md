@@ -56,30 +56,53 @@ Ms. Hill reached her hand in the jar.  She gave the slips a swirl before pulling
 Alex was very blonde.  “Too blonde,” Amelia thought, not knowing the word for towhead.  Alex had a seemingly boundless reserve of energy which manifested in his enthusiasm for every class activity, group punishment, and human interaction; the result, Amelia posited, of having parents that never fought.  
 
 Alex sprang from his seat and bound to the front of the classroom.  He turned to face the other students and cleared his throat.  He didn’t have any notes, Amelia noticed.  Instead, he fixed his gaze in the direction of Ms. Hill.  
+
 “My Grandfather was just a boy and living in the old country.  One day, his Mother asked him to go to the market to buy a loaf of bread.  She gave him a quarter and a sack with some lunch.  They lived deep in the woods and the market was in the village, miles away.  So, the journey would take at least half a day.
+
 He started to walk down the path heading to the village when he was stopped by an old peddler.  The peddler asked him where he was going.  He told him that he was going to the market to buy a loaf of bread. 
+
 The peddler looked at the quarter in my Grandfather’s hand.
+
 ‘I’ll tell you what.  Since you’re such a good boy, I’ll give you two dimes for that quarter.’
- ‘Gee, thanks!’ my Grandfather said.  And he gave the peddler the quarter in exchange for the two dimes.’”
+
+‘Gee, thanks!’ my Grandfather said.  And he gave the peddler the quarter in exchange for the two dimes.’”
+ 
 Alex spoke fluidly, only pausing occasionally for dramatic effect.  Amelia was impressed.  He sounded like the narrator of play.
+
 “My Grandfather kept walking down the path when he was met by a gypsy woman.  She saw the two dimes in his hand and stopped him.  
+
 ‘Little boy, what shiny dimes you have!  They would look marvelous on a chain.  If you give me your dimes, I’ll give you three nickels in return.’
- My Grandfather couldn’t believe his luck and he hurried to make the trade.
- He was almost to the edge of the woods when a soldier came down the path.  
- ‘You shouldn’t be walking in these woods alone, little boy,’ the soldier said.  
- ‘It’s o.k.,’ my Grandfather told him.  ‘I walk down this path every Saturday to get bread from the market.’  
- ‘Does a little boy like you even have money for bread?’ asked the soldier.  
- ‘I’ve got three nickels!’ My Grandfather replied with pride.  
- ‘You’re going to need more than that to get bread.  Here, let me give you four pennies for those nickels.’
+
+My Grandfather couldn’t believe his luck and he hurried to make the trade.
+ 
+He was almost to the edge of the woods when a soldier came down the path.  
+
+‘You shouldn’t be walking in these woods alone, little boy,’ the soldier said. 
+ 
+‘It’s o.k.,’ my Grandfather told him.  ‘I walk down this path every Saturday to get bread from the market.’ 
+ 
+‘Does a little boy like you even have money for bread?’ asked the soldier.  
+ 
+‘I’ve got three nickels!’ My Grandfather replied with pride.  
+ 
+‘You’re going to need more than that to get bread.  Here, let me give you four pennies for those nickels.’
+
 My Grandfather accepted and thanked the soldier.
+
 Soon he reached the edge of the woods and started on the village road.  He  was heading towards the market when he was stopped by a priest.  
+
 ‘Little boy, do you have any money to spare for the church?’
+
 My Grandfather looked at his pennies.  ‘I have four pennies, but I need them to buy bread for my Mother.’
+
 ‘You can’t buy bread for four pennies!  Is that all that your Mother gave you?’ the priest asked.  
+
 ‘She actually only gave me one quarter.  But I traded it for two dimes, and the two dimes for three nickels, and the three nickels for four quarters.’ 
+
 ‘I’m sorry to tell you son, but you’ve been duped.  You can’t buy bread with four pennies and your Mother will be very angry with you.  You should give those pennies to the church, instead.  You still won’t have bread.  But at least that way I can pray for you and ask the lord to spare you from a spanking.’”
 
 Laughter broke out across the classroom.
+
 “And that is why my Grandfather is an atheist to this day.”
 
 More laughter followed.  And then applause.  Alex bowed.
