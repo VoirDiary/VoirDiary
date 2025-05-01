@@ -50,13 +50,13 @@ First Cabin in Osaka
   * Gachapon toys - capsule toys dispensed in coin-operated machines feature whimsical miniatures or popular characters with impressive detail.  If you return the capsules in the collection bins, you can buy dozens of these toys without making a dent in your luggage space
 
 
-I spent two weeks in China in April 2025.  After hearing stories about mobile apps not working and the inescapable government eye, I went there expecting austerity and timidity.  When I got to Shanghai, I was met with a glittering, frenetic metropolis - incredibly clean and surprisingly ostentatious.  There were tall buildings with fast food restaurants on the tenth floor.  There was a subway system spanning the city with frequent trains that always ran on time.  There were waves of people walking dogs, chatting, and pushing their way into malls to come out with bags of luxury brands or surprise toys.
+I went to China for this first time in my life this Spring.  After hearing stories about mobile apps not working and the inescapable government eye, I went there expecting austerity and timidity.  When I got to Shanghai, I was met with a glittering, frenetic metropolis - incredibly clean and surprisingly ostentatious.  There were tall buildings with fast food restaurants on the tenth floor.  There was a subway system spanning the city with frequent trains that always ran on time.  There were waves of people walking dogs, chatting, and pushing their way into malls to come out with bags of luxury brands or surprise toys.
 
 I also had the opportunity to go to Guilin.  What Guilin lacked in infrastructure, it made up for in serenity and natural beauty.  Arrowhead-shaped Karst mountains dot the landscape carved by the gentle Li River.  I saw fields of yellow flowers in Yangshuo and steep rice terraces in Longsheng.  The lush vegetation and clear waters left me doubting some of the narratives that we hear about China and their recklessness towards environmental conservation. 
 
 I was reluctant to leave.  But I didn’t want to pull an Onijah Robinson.  And I recognized that every place is better when you aren’t working.  But I took with me some observations.  In particular, here are five things that China is doing right and that I wish we had in the U.S.
 
-Mobile Pay & Federated Apps
+# Mobile Pay & Federated Apps
 
 The thing I was most dreading about going to China was figuring out the payment situation.  I heard that nobody takes cash, nobody takes credit card, they only use Alipay or WeChatpay.  I downloaded both apps and couldn’t seem to add money to either.  I imagined myself stranded, begging strangers to pay for my food in exchange for some filthy fiat.  
 
@@ -69,8 +69,9 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
 [screenshots of AliPay]
+![image](/assets/images/firstcabin1.jpg){:height="990px" width="600px"}
 
-Power Bank Network
+# Power Bank Network
 
 Almost every shop and restaurant in China has a yellow box filled with power banks.  You can use (you guessed it!) WeChat or AliPay to rent one to recharge your electronic devices.  Just open the app’s camera feature and scan the QR code on the box.  A power bank will eject.  The power bank has USB-C, lightning, and USB-micro cables.  So, regardless of what phone you have, the power bank will likely fit it.  You pay by time and return the power bank when you are done.
 
@@ -78,7 +79,7 @@ But what makes this system so brilliant is that you can return the power bank to
 
 [Power Bank pictures]
 
-Walkability 
+# Walkability 
 
 You really don’t need a car in China.  And that’s not happenstance.  Rather, it’s the result of urban planning.  Shanghai has ample sidewalks, often lined by attractive landscaping, and crosswalks galore.  The crosswalks have countdowns, quelling the fear that you are stuck in a time warp and will be waiting at the crosswalk 5ever. Streets in popular shopping areas, like Tianzifang and Yuyuan, are blocked off to cars, making for an optimal walking experience.
 
@@ -88,19 +89,19 @@ If you want to go by car, DiDi, the local rideshare company, is suspiciously che
 
 [Pictures of Yuyuan, Tianzifang]
 
-Water Refill Stations
+# Water Refill Stations
 
 Everywhere.  Free.  Hot and cold water.  Bring a bottle.
 
 Public bathrooms are also ubiquitous, free, and clean.
 
-No Tipping
+# No Tipping
 
 People do not tip at restaurants, salons, spas, taxis, etc. in China.  Yet, somehow the service is still good.  I don’t know enough about Chinese culture or society to posit a theory as to how these seemingly contradictory conditions can exist.  But it certainly makes eating out more affordable and pricing more transparent.
 
 [Pictures of restaurants]
 
-Safety 
+# Safety 
 
 China just feels safe.  I saw women walking alone at night, people leaving their bags on benches to run to the restroom, and shopkeepers barely keeping an eye on their wares.
 
