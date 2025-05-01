@@ -72,9 +72,11 @@ Public bathrooms are also ubiquitous, free, and clean.
 
 People do not tip at restaurants, salons, spas, taxis, etc. in China.  Yet, somehow the service is still good.  I don’t know enough about Chinese culture or society to posit a theory as to how these seemingly contradictory conditions can exist.  But it certainly makes eating out more affordable and pricing more transparent.
 
-<center><img src="/assets/images/Chicken.jpeg" width="300" height="495"></center>
-<center><img src="/assets/images/Crab.jpeg" alt="Image description" width="300" height="495"></center>
-<center><img src="/assets/images/Dumplings.jpeg" alt="Image description" width="300" height="495"></center>
+<div align="center">
+  <img src="/assets/images/Chicken.jpeg" width="350" height="490" style="display: inline-block; margin: 0 10px;" />
+  <img src="/assets/images/Crab.jpeg" width="350" height="490" style="display: inline-block; margin: 0 10px;" />
+  <img src="/assets/images/Dumplings.jpeg" width="350" height="490" style="display: inline-block; margin: 0 10px;" />
+</div>
 
 # 6. Safety 
 
