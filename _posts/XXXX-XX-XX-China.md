@@ -56,6 +56,9 @@ If you want to go by car, DiDi, the local rideshare company, is suspiciously che
 
 <div align="center">
   <img src="/assets/images/Yuyuan.jpeg" width="500" height="490" style="display: inline-block; margin: 0 10px;" />
+ </div>
+
+<div align="center">
   <img src="/assets/images/Tianzifang.jpeg" width="390" height="490" style="display: inline-block; margin: 0 10px;" />
 </div>
 
