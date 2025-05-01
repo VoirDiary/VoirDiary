@@ -68,8 +68,7 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
-[screenshots of AliPay]
-![image](/assets/images/firstcabin1.jpg){:height="990px" width="600px"}
+![image](/assets/images/Alipay.png){:height="990px" width="600px"}
 
 # Power Bank Network
 
@@ -77,7 +76,8 @@ Almost every shop and restaurant in China has a yellow box filled with power ban
 
 But what makes this system so brilliant is that you can return the power bank to any box location.  And, as mentioned, these boxes are everywhere!  So, you don’t have to return to the shop where you originally rented the power bank.  Just go on your merry way and stick it back in any yellow box you see.
 
-[Power Bank pictures]
+![image](/assets/images/Powerbank1.jpeg){:height="990px" width="600px"}
+![image](/assets/images/Powerbank2.jpeg){:height="990px" width="600px"}
 
 # Walkability 
 
@@ -87,7 +87,8 @@ If you need to travel a longer distance, the public transportation system can ge
 
 If you want to go by car, DiDi, the local rideshare company, is suspiciously cheap.  I did notice that almost all of my DiDi drivers were in electric vehicles, so maybe that explains it? (I do hope the drivers are making livable wages).  DiDi drivers do ask you for the last four digits of your phone number when you get-in.  So, consider learning those numbers in Chinese.  Or if you stare at them blankly like I did, they’ll eventually just start driving.
 
-[Pictures of Yuyuan, Tianzifang]
+![image](/assets/images/Yuyuan.jpeg){:height="990px" width="600px"}
+![image](/assets/images/Tianzifang.jpeg){:height="990px" width="600px"}
 
 # Water Refill Stations
 
@@ -99,7 +100,9 @@ Public bathrooms are also ubiquitous, free, and clean.
 
 People do not tip at restaurants, salons, spas, taxis, etc. in China.  Yet, somehow the service is still good.  I don’t know enough about Chinese culture or society to posit a theory as to how these seemingly contradictory conditions can exist.  But it certainly makes eating out more affordable and pricing more transparent.
 
-[Pictures of restaurants]
+![image](/assets/images/Chicken.jpeg){:height="990px" width="600px"}
+![image](/assets/images/Crab.jpeg){:height="990px" width="600px"}
+![image](/assets/images/Dumplings.jpeg){:height="990px" width="600px"}
 
 # Safety 
 
@@ -107,7 +110,7 @@ China just feels safe.  I saw women walking alone at night, people leaving their
 
 I have been told that this is the result of the prevalence of cameras.  Now, I understand this is a sensitive topic.  Cameras can be a double edge sword.  On one hand, you gain security, but on the other, you sacrifice privacy.  I would personally be o.k. giving up some privacy to live in a country with one of the world’s lowest crime rates.  But I haven’t thought deeply about the consequences of surveillance, and I’m being a little bit contrarian.
 
-[Pictures of night]
+![image](/assets/images/Night.jpeg){:height="990px" width="600px"}
 
 
 Now, I don’t want to give the impression that China is some paradise.  There are ways in which China could learn from the U.S., as well.  For example, spitting in public.  Stop it.
