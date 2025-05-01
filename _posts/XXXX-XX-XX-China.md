@@ -31,7 +31,7 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
 <p align="center">
-  <img src="/assets/images/Alipay.png" width="270" height="520"
+  <img src="/assets/images/Alipay.png" width="270" height="530"
 </p>
 
 
@@ -42,11 +42,11 @@ Almost every shop and restaurant in China has a yellow box filled with power ban
 But what makes this system so brilliant is that you can return the power bank to any box location.  And, as mentioned, these boxes are everywhere!  So, you don’t have to return to the shop where you originally rented the power bank.  Just go on your merry way and stick it back in any yellow box you see.
 
 <p align="center">
-  <img src="/assets/images/Powerbank1.jpeg" width="310" height="490"
+  <img src="/assets/images/Powerbank1.jpeg" width="330" height="490"
 </p>
 
 <p align="center">
-  <img src="/assets/images/Powerbank2.jpeg" width="310" height="490"
+  <img src="/assets/images/Powerbank2.jpeg" width="330" height="490"
 </p>
 
 # 3. Walkability 
