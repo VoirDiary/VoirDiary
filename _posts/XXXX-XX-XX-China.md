@@ -85,7 +85,7 @@ China just feels safe.  I saw women walking alone at night, people leaving their
 I have been told that this is the result of the prevalence of cameras.  Now, I understand this is a sensitive topic.  Cameras can be a double edge sword.  On one hand, you gain security, but on the other, you sacrifice privacy.  I would personally be o.k. giving up some privacy to live in a country with one of the world’s lowest crime rates.  But I haven’t thought deeply about the consequences of surveillance, and I’m being a little bit contrarian.
 
 <div align="center">
-  <img src="/assets/images/Night.jpeg" width="580" height="490" style="display: inline-block; margin: 0 10px;" />
+  <img src="/assets/images/Night.jpeg" width="600" height="490" style="display: inline-block; margin: 0 10px;" />
  </div>
 
 
