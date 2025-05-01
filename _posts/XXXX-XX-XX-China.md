@@ -31,6 +31,7 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
 ![image](/assets/images/Alipay.png){:height="490px" width="300px"}
+<img src="assets/images/Alipay.png" alt="Image description" width="500" height="300">
 
 # 2. Power Bank Network
 
