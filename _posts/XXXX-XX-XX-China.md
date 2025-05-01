@@ -32,6 +32,11 @@ I found these centralized apps to be very convenient.  No wondering which app to
 
 <center><img src="/assets/images/Alipay.png" alt="Image description" width="290" height="450"></center>
 
+<p align="center">
+  /assets/images/Alipay.png
+</p>
+
+
 # 2. Power Bank Network
 
 Almost every shop and restaurant in China has a yellow box filled with power banks.  You can use (you guessed it!) WeChat or AliPay to rent one to recharge your electronic devices.  Just open the app’s camera feature and scan the QR code on the box.  A power bank will eject.  The power bank has USB-C, lightning, and USB-micro cables.  So, regardless of what phone you have, the power bank will likely fit it.  You pay by time and return the power bank when you are done.
