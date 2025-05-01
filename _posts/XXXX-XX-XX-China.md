@@ -33,7 +33,7 @@ I found these centralized apps to be very convenient.  No wondering which app to
 <center><img src="/assets/images/Alipay.png" alt="Image description" width="290" height="450"></center>
 
 <p align="center">
-  <img src="/assets/images/Alipay.png" width="300" height="400"
+  <img src="/assets/images/Alipay.png" width="290" height="460"
 </p>
 
 
