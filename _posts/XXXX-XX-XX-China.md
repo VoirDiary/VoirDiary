@@ -84,7 +84,9 @@ China just feels safe.  I saw women walking alone at night, people leaving their
 
 I have been told that this is the result of the prevalence of cameras.  Now, I understand this is a sensitive topic.  Cameras can be a double edge sword.  On one hand, you gain security, but on the other, you sacrifice privacy.  I would personally be o.k. giving up some privacy to live in a country with one of the world’s lowest crime rates.  But I haven’t thought deeply about the consequences of surveillance, and I’m being a little bit contrarian.
 
-<center><img src="/assets/images/Night.jpeg" alt="Image description" width="300" height="495"></center>
+<div align="center">
+  <img src="/assets/images/Night.jpeg" width="580" height="490" style="display: inline-block; margin: 0 10px;" />
+ </div>
 
 
 Now, I don’t want to give the impression that China is some paradise.  There are ways in which China could learn from the U.S., as well.  For example, spitting in public.  Stop it.
