@@ -31,7 +31,7 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
 <p align="center">
-  <img src="/assets/images/Alipay.png" width="270" height="500"
+  <img src="/assets/images/Alipay.png" width="270" height="520"
 </p>
 
 
@@ -46,7 +46,7 @@ But what makes this system so brilliant is that you can return the power bank to
 </p>
 
 <p align="center">
-  <img src="/assets/images/Powerbank2.jpeg" width="270" height="490"
+  <img src="/assets/images/Powerbank2.jpeg" width="290" height="490"
 </p>
 
 # 3. Walkability 
