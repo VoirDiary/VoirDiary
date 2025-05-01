@@ -59,7 +59,7 @@ If you want to go by car, DiDi, the local rideshare company, is suspiciously che
  </div>
 
 <div align="center">
-  <img src="/assets/images/Tianzifang.jpeg" width="390" height="490" style="display: inline-block; margin: 0 10px;" />
+  <img src="/assets/images/Tianzifang.jpeg" width="580" height="490" style="display: inline-block; margin: 0 10px;" />
 </div>
 
 # 4. Water Refill Stations
