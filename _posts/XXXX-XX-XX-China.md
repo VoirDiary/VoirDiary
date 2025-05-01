@@ -38,9 +38,8 @@ Almost every shop and restaurant in China has a yellow box filled with power ban
 
 But what makes this system so brilliant is that you can return the power bank to any box location.  And, as mentioned, these boxes are everywhere!  So, you don’t have to return to the shop where you originally rented the power bank.  Just go on your merry way and stick it back in any yellow box you see.
 
-<center><img src="/assets/images/Powerbank1.jpeg" alt="Image description" width="325" height="495"></center>
-
-<center><img src="/assets/images/Powerbank2.jpeg" alt="Image description" width="325" height="495"></center>
+<img src="/assets/images/Powerbank1.jpeg" alt="Image description" width="325" height="495">
+<img src="/assets/images/Powerbank2.jpeg" alt="Image description" width="325" height="495">
 
 # 3. Walkability 
 
