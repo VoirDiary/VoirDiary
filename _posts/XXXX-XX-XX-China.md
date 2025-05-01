@@ -57,8 +57,13 @@ If you need to travel a longer distance, the public transportation system can ge
 
 If you want to go by car, DiDi, the local rideshare company, is suspiciously cheap.  I did notice that almost all of my DiDi drivers were in electric vehicles, so maybe that explains it? (I do hope the drivers are making livable wages).  DiDi drivers do ask you for the last four digits of your phone number when you get-in.  So, consider learning those numbers in Chinese.  Or if you stare at them blankly like I did, they’ll eventually just start driving.
 
-<center><img src="/assets/images/Yuyuan.jpeg" alt="Image description" width="300" height="495"></center>
-<center><img src="/assets/images/Tianzifang.jpeg" alt="Image description" width="300" height="495"></center>
+<p align="center">
+  <img src="/assets/images/Yuyuan.jpeg" width="350" height="490"
+</p>
+
+<p align="center">
+  <img src="/assets/images/Tianzifang.jpeg" width="350" height="490"
+</p>  
 
 # 4. Water Refill Stations
 
