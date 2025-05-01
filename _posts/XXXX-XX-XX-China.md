@@ -31,7 +31,7 @@ But these apps are so much more.  WeChat can be used for messaging and sharing p
 I found these centralized apps to be very convenient.  No wondering which app to open.  Just open AliPay and search for what you need.  
 
 <p align="center">
-  <img src="/assets/images/Alipay.png" width="270" height="460"
+  <img src="/assets/images/Alipay.png" width="270" height="490"
 </p>
 
 
@@ -39,10 +39,12 @@ I found these centralized apps to be very convenient.  No wondering which app to
 
 Almost every shop and restaurant in China has a yellow box filled with power banks.  You can use (you guessed it!) WeChat or AliPay to rent one to recharge your electronic devices.  Just open the app’s camera feature and scan the QR code on the box.  A power bank will eject.  The power bank has USB-C, lightning, and USB-micro cables.  So, regardless of what phone you have, the power bank will likely fit it.  You pay by time and return the power bank when you are done.
 
-<img src="/assets/images/Powerbank1.jpeg" alt="Image description" width="325" height="495">
-
 But what makes this system so brilliant is that you can return the power bank to any box location.  And, as mentioned, these boxes are everywhere!  So, you don’t have to return to the shop where you originally rented the power bank.  Just go on your merry way and stick it back in any yellow box you see.
 
+<p align="center">
+  <img src="/assets/images/Powerbank1.jpeg" width="270" height="490"
+</p>
+  
 <img src="/assets/images/Powerbank2.jpeg" alt="Image description" width="325" height="495">
 
 # 3. Walkability 
