@@ -43,6 +43,7 @@ But what makes this system so brilliant is that you can return the power bank to
 
 <p align="center">
   <img src="/assets/images/IMG_3090.jpeg" width="350" height="490"
+     <img src="/assets/images/Powerbank2.jpeg" width="350" height="490"
 </p>
 
 <p align="center">
