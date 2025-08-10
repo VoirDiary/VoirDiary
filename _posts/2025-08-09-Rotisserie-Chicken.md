@@ -16,5 +16,5 @@ Determined to not let that be the case, I hunted for ways to use past-prime roti
 **Chicken Quesadillas**
 This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rotisserie chicken.  You know what to do.  If you aren’t sure, check out this recipe:
 
-https://themom100.com/wp-content/uploads/2013/01/rotisserie-chicken-quesadillas-126-1200x800.jpg
+<img src="https://themom100.com/wp-content/uploads/2013/01/rotisserie-chicken-quesadillas-126-1200x800.jpg" style="width:220px; display:block;"
 [Easy Rotisserie Chicken and Cheese Quesadillas Recipe — The Mom 100](https://themom100.com/recipe/easy-rotisserie-chicken-and-cheese-quesadillas/)
