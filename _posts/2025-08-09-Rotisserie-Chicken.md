@@ -69,10 +69,12 @@ This recipe assumes you will be starting with raw chicken.  To use rotisserie ch
 
 [Avgolemono Soup - Serious Eats](https://www.seriouseats.com/avgolemono-soup-greek-lemon-egg-chicken-soup)
 
-**A note about bone broth**
+**A Note about Bone Broth**
 
 If you are intent on wasting none of your rotisserie chicken, you can use the bones to make broth.  I personally have never done tried it, but it doesn’t sound hard.  Here’s a sample recipe for rotisserie chicken bone broth: 
 
-The Easiest DIY Rotisserie Chicken Broth Recipe - This Mess is Ours
+<img src="https://thismessisours.com/wp-content/uploads/2020/09/IMG_6498.jpg" style="width:400px; display:block;">
+
+[The Easiest DIY Rotisserie Chicken Broth Recipe - This Mess is Ours](https://www.seriouseats.com/thmb/EtmMXCSwssg6VkdwTXyWh4suwtk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/070623_Avgolemono-Soup-MPPSoupsAndStews-MorganHuntGlaze-27373c43431c4c6286af983f7bb72897.jpg)
 
 Hopefully these recipes alleviate some of your anxiety around making full use of your Costco rotisserie chicken.  And don’t forget about even more common-sense meals, like sandwiches, caesar salad, nachos, etc.  With a little bit of creativity, chicken waste is a thing of the past!
