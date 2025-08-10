@@ -14,9 +14,10 @@ As far as I’m concerned, Costco’s rotisserie chicken is one of the top reaso
 Determined to not let that be the case, I hunted for ways to use past-prime rotisserie chicken.  My search turned up several easy, tasty recipes to revive chilled chicken.  Here are my favorites, ideal for throwing together on a weeknight with little prep and easy-to-find ingredients.  
 
 **Chicken Quesadillas**
+
 This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rotisserie chicken.  You know what to do.  If you aren’t sure, check out this recipe:
 
-<img src="https://themom100.com/wp-content/uploads/2013/01/rotisserie-chicken-quesadillas-126-1200x800.jpg" style="width:220px; display:block;">
+<img src="https://themom100.com/wp-content/uploads/2013/01/rotisserie-chicken-quesadillas-126-1200x800.jpg" style="width:400px; display:block;">
 
 [Easy Rotisserie Chicken and Cheese Quesadillas Recipe — The Mom 100](https://themom100.com/recipe/easy-rotisserie-chicken-and-cheese-quesadillas/)
 
