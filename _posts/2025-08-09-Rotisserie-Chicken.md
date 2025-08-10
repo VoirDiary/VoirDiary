@@ -19,5 +19,52 @@ This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rot
 
 <img src="https://themom100.com/wp-content/uploads/2013/01/rotisserie-chicken-quesadillas-126-1200x800.jpg" style="width:400px; display:block;">
 
-[Easy Rotisserie Chicken and Cheese Quesadillas Recipe — The Mom 100](https://themom100.com/recipe/easy-rotisserie-chicken-and-cheese-quesadillas/)
+[Easy Rotisserie Chicken and Cheese Quesadillas — The Mom 100](https://themom100.com/recipe/easy-rotisserie-chicken-and-cheese-quesadillas/)
 
+**Chicken Noodle Soup**
+
+A classic American favorite.  Perfect for chilly nights.  This recipe calls for an Instant Pot or pressure cooker.  But [here](https://www.thepioneerwoman.com/food-cooking/recipes/a9895/homemade-chicken-and-noodles/) is a similar version for the stovetop.  
+
+This recipe assumes you will be starting with raw chicken.  To use rotisserie chicken, simply don’t add chicken to the pot in step 1.  Shred the breast of the rotisserie chicken and add to the soup at the end.  
+
+<img src="https://hips.hearstapps.com/hmg-prod/images/instant-pot-chicken-noodle-soup-recipe-1627525449.jpg" style="width:400px; display:block;">
+
+[Instant Pot Chicken Noodle Soup - The Pioneer Woman](https://www.thepioneerwoman.com/food-cooking/recipes/a37002168/instant-pot-chicken-noodle-soup-recipe/)
+
+**Pozole**
+
+A healthy, hearty Mexican soup.  Blender required.  
+
+This recipe assumes you will be starting with raw chicken.  To use rotisserie chicken, simply don’t add chicken to the pot in step 1.  Shred the rotisserie chicken (preferably the thighs) and add to the pot in step 4.  
+
+Pozole Verde - Isabel Eats
+
+**Enchiladas**
+
+I was leery of canned enchilada sauce, until I tried this recipe.  Honestly on par with my local Mexican restaurant’s chicken enchiladas. 
+
+I prefer enchiladas with green sauce.  But if you like red sauce, here’s a recipe for you (just skip the step where you cook the chicken).  
+
+Salsa Verde Chicken Enchiladas - Mexican Recipes - Old El Paso
+
+**Asian-Inspired Chicken Salad**
+
+A no-cook meal, ideal for warmer days.  
+
+Chinese Chicken Salad - Laughing Spatula
+
+**Avgelomono**
+
+This Greek soup is great for anyone that loves lemons and doesn’t hate the idea of lemons + eggs.  The authentic recipe only calls for chicken broth (and not chicken meat), but I prefer a higher protein, heartier variation.  
+
+This recipe assumes you will be starting with raw chicken.  To use rotisserie chicken, simply skip step 1.  Shred the rotisserie chicken (preferably breast) and add to the pot in step 7.  
+
+Avgolemono Soup (Greek Lemon-Egg Chicken Soup)
+
+**A note about bone broth**
+
+If you are intent on wasting none of your rotisserie chicken, you can use the bones to make broth.  I personally have never done tried it, but it doesn’t sound hard.  Here’s a sample recipe for rotisserie chicken bone broth: 
+
+The Easiest DIY Rotisserie Chicken Broth Recipe - This Mess is Ours
+
+Hopefully these recipes alleviate some of your anxiety around making full use of your Costco rotisserie chicken.  And don’t forget about even more common-sense meals, like sandwiches, caesar salad, nachos, etc.  With a little bit of creativity, chicken waste is a thing of the past!
