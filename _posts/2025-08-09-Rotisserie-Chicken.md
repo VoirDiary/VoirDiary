@@ -55,15 +55,19 @@ I prefer enchiladas with green sauce.  But if you like red sauce, [here’s](htt
 
 A no-cook meal, ideal for warmer days.  
 
-Chinese Chicken Salad - Laughing Spatula
+<img src="https://laughingspatula.com/wp-content/uploads/2024/06/Chinese-Salad-hero.jpg" style="width:400px; display:block;">
 
-**Avgelomono**
+[Chinese Chicken Salad - Laughing Spatula](https://laughingspatula.com/chinese-chicken-salad/)
 
-This Greek soup is great for anyone that loves lemons and doesn’t hate the idea of lemons + eggs.  The authentic recipe only calls for chicken broth (and not chicken meat), but I prefer a higher protein, heartier variation.  
+**Avgelomono (Lemon, Egg, Chicken Soup)**
+
+This Greek soup is great for anyone that loves lemons and doesn’t hate the idea of lemons + eggs.  The traditional recipe only calls for chicken broth (and not chicken meat), but I prefer a higher protein, heartier variation.  
 
 This recipe assumes you will be starting with raw chicken.  To use rotisserie chicken, simply skip step 1.  Shred the rotisserie chicken (preferably breast) and add to the pot in step 7.  
 
-Avgolemono Soup (Greek Lemon-Egg Chicken Soup)
+<img src="https://www.seriouseats.com/thmb/EtmMXCSwssg6VkdwTXyWh4suwtk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/070623_Avgolemono-Soup-MPPSoupsAndStews-MorganHuntGlaze-27373c43431c4c6286af983f7bb72897.jpg" style="width:400px; display:block;">
+
+[Avgolemono Soup - Serious Eats](https://www.seriouseats.com/avgolemono-soup-greek-lemon-egg-chicken-soup)
 
 **A note about bone broth**
 
