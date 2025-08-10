@@ -47,7 +47,7 @@ I was leery of canned enchilada sauce, until I tried this recipe.  Honestly on p
 
 I prefer enchiladas with green sauce.  But if you like red sauce, [here’s](https://www.oldelpaso.com/recipes/easy-chicken-enchiladas) a recipe for you (just skip the step where you cook the chicken).  
 
-<img src="https://www.oldelpaso.com/-/media/project/gmi/oldelpaso/oldelpaso-us/recipes/kr3nymaauuen1e1xch0ssq_gmi_hi_res_jpeg.jpeg" style="width:400px; display:block;">
+<img src="https://www.oldelpaso.com/-/media/project/gmi/oldelpaso/oldelpaso-us/recipes/kr3nymaauuen1e1xch0ssq_gmi_hi_res_jpeg.jpeg?v=c255f6d2&&iar=0#38;t=4c5a749111ad462d9f0355ce09ad5134?iar=0&rev=6068c991b65a414dab5e4c97bb46e90f&hash=C7B2BF9EB97E833680EDB3F5177A5C3C" style="width:400px; display:block;">
 
 [Salsa Verde Chicken Enchiladas - Old El Paso](https://www.oldelpaso.com/recipes/easy-salsa-verde-chicken-enchiladas)
 
