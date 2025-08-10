@@ -13,6 +13,7 @@ As far as I’m concerned, Costco’s rotisserie chicken is one of the top reaso
 
 Determined to not let that be the case, I hunted for ways to use past-prime rotisserie chicken.  My search turned up several easy, tasty recipes to revive chilled chicken.  Here are my favorites, ideal for throwing together on a weeknight with little prep and easy-to-find ingredients.  
 
+
 **Chicken Quesadillas**
 
 This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rotisserie chicken.  You know what to do.  If you aren’t sure, check out this recipe:
@@ -76,5 +77,7 @@ If you are intent on wasting none of your rotisserie chicken, you can use the bo
 <img src="https://thismessisours.com/wp-content/uploads/2020/09/IMG_6498.jpg" style="width:400px; display:block;">
 
 [The Easiest DIY Rotisserie Chicken Broth Recipe - This Mess is Ours](https://www.seriouseats.com/thmb/EtmMXCSwssg6VkdwTXyWh4suwtk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/070623_Avgolemono-Soup-MPPSoupsAndStews-MorganHuntGlaze-27373c43431c4c6286af983f7bb72897.jpg)
+
+---
 
 Hopefully these recipes alleviate some of your anxiety around making full use of your Costco rotisserie chicken.  And don’t forget about even more common-sense meals, like sandwiches, caesar salad, nachos, etc.  With a little bit of creativity, chicken waste is a thing of the past!
