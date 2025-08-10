@@ -49,10 +49,6 @@ I prefer enchiladas with green sauce.  But if you like red sauce, [here’s](htt
 
 <img src="/assets/images/Enchiladas.png" style="width:400px; display:block;">
 
-<div align="center">
-  <img src="/assets/images/Enchiladas.png" width="580" height="490" style="display: inline-block; margin: 0 10px;" />
-</div>
-
 [Salsa Verde Chicken Enchiladas - Old El Paso](https://www.oldelpaso.com/recipes/easy-salsa-verde-chicken-enchiladas)
 
 **Asian-Inspired Chicken Salad**
