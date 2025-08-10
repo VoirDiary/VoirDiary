@@ -15,7 +15,7 @@ Determined to not let that be the case, I hunted for ways to use past-prime roti
 
 ---
 
-**Chicken Quesadillas**
+**1. Chicken Quesadillas**
 
 This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rotisserie chicken.  You know what to do.  If you aren’t sure, check out this recipe:
 
@@ -23,7 +23,7 @@ This one barely requires a recipe.  Flour tortillas, shredded cheese, pulled rot
 
 [Easy Rotisserie Chicken and Cheese Quesadillas — The Mom 100](https://themom100.com/recipe/easy-rotisserie-chicken-and-cheese-quesadillas/)
 
-**Chicken Noodle Soup**
+**2. Chicken Noodle Soup**
 
 A classic American favorite.  Perfect for chilly nights.  This recipe calls for an Instant Pot or pressure cooker.  But [here](https://www.thepioneerwoman.com/food-cooking/recipes/a9895/homemade-chicken-and-noodles/) is a similar version for the stovetop.  
 
@@ -33,7 +33,7 @@ This recipe assumes you will be starting with raw chicken.  To use rotisserie ch
 
 [Instant Pot Chicken Noodle Soup - The Pioneer Woman](https://www.thepioneerwoman.com/food-cooking/recipes/a37002168/instant-pot-chicken-noodle-soup-recipe/)
 
-**Pozole**
+**3. Pozole**
 
 A healthy, hearty Mexican soup.  Blender required.  
 
@@ -43,7 +43,7 @@ This recipe assumes you will be starting with raw chicken.  To use rotisserie ch
 
 [Pozole Verde - Isabel Eats](https://www.isabeleats.com/chicken-pozole-verde/)
 
-**Enchiladas**
+**4. Enchiladas**
 
 I was leery of canned enchilada sauce, until I tried this recipe.  Honestly on par with my local Mexican restaurant’s chicken enchiladas. 
 
@@ -53,7 +53,7 @@ I prefer enchiladas with green sauce.  But if you like red sauce, [here’s](htt
 
 [Salsa Verde Chicken Enchiladas - Old El Paso](https://www.oldelpaso.com/recipes/easy-salsa-verde-chicken-enchiladas)
 
-**Asian-Inspired Chicken Salad**
+**5. Asian-Inspired Chicken Salad**
 
 A no-cook meal, ideal for warmer days.  
 
@@ -61,7 +61,7 @@ A no-cook meal, ideal for warmer days.
 
 [Chinese Chicken Salad - Laughing Spatula](https://laughingspatula.com/chinese-chicken-salad/)
 
-**Avgelomono (Lemon, Egg, Chicken Soup)**
+**6. Avgelomono (Lemon, Egg, Chicken Soup)**
 
 This Greek soup is great for anyone that loves lemons and doesn’t hate the idea of lemons + eggs.  The traditional recipe only calls for chicken broth (and not chicken meat), but I prefer a higher protein, heartier variation.  
 
