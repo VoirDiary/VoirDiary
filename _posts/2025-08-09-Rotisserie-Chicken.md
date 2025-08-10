@@ -37,15 +37,19 @@ A healthy, hearty Mexican soup.  Blender required.
 
 This recipe assumes you will be starting with raw chicken.  To use rotisserie chicken, simply don’t add chicken to the pot in step 1.  Shred the rotisserie chicken (preferably the thighs) and add to the pot in step 4.  
 
-Pozole Verde - Isabel Eats
+<img src="https://www.isabeleats.com/wp-content/uploads/2024/11/pozole-verde-24-small-5.jpg" style="width:400px; display:block;">
+
+[Pozole Verde - Isabel Eats](https://www.isabeleats.com/chicken-pozole-verde/)
 
 **Enchiladas**
 
 I was leery of canned enchilada sauce, until I tried this recipe.  Honestly on par with my local Mexican restaurant’s chicken enchiladas. 
 
-I prefer enchiladas with green sauce.  But if you like red sauce, here’s a recipe for you (just skip the step where you cook the chicken).  
+I prefer enchiladas with green sauce.  But if you like red sauce, [here’s](https://www.oldelpaso.com/recipes/easy-chicken-enchiladas) a recipe for you (just skip the step where you cook the chicken).  
 
-Salsa Verde Chicken Enchiladas - Mexican Recipes - Old El Paso
+<img src="https://www.oldelpaso.com/-/media/project/gmi/oldelpaso/oldelpaso-us/recipes/kr3nymaauuen1e1xch0ssq_gmi_hi_res_jpeg.jpeg" style="width:400px; display:block;">
+
+[Salsa Verde Chicken Enchiladas - Old El Paso](https://www.oldelpaso.com/recipes/easy-salsa-verde-chicken-enchiladas)
 
 **Asian-Inspired Chicken Salad**
 
