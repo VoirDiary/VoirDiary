@@ -1,5 +1,20 @@
-Something Missing
-By Erin Caldwell
+---
+layout: post
+title: "Something Missing"
+categories:
+  - Short Stories
+tags:
+  - Fiction
+  - Short Stories
+  - Stories
+  - Short Fiction
+  - Prose
+  - Vietnam
+  - Florida
+  - Southern Gothic
+---
+
+
 
 *“All wars are fought twice, the first time on the battlefield the second time in memory.” - Viet Thanh Nguyen*
 
