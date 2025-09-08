@@ -81,6 +81,6 @@ Moreover, technology markets are uniquely dynamic - today’s dominant player ca
 
 Finally, there’s the issue of enforcement bandwidth. Resources spent pursuing speculative antitrust theories against popular tech platforms may come at the expense of addressing more direct consumer harms—such as price-fixing, fraud, or deceptive practices. Regulators must prioritize cases where the evidence of harm is clear and the consumer impact is tangible.
 
-*Recalibrating Antitrust*
+**Recalibrating Antitrust**
 
 While antitrust enforcement plays a critical role in maintaining fair competition, it must be calibrated to avoid collateral damage. Punishing success without clear evidence of consumer harm risks chilling innovation, weakening global competitiveness, and misallocating regulatory focus. The goal should be to protect consumers—not to penalize companies for being very good at what they do.  As Commissioner Wilson put it, “the sword [of enforcement] should be in a firm grip… ready to fall on those who create or maintain a monopoly through anticompetitive conduct, not… those who succeed by delighting consumers.”
