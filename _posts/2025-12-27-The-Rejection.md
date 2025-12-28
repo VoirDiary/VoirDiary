@@ -17,7 +17,7 @@ tags:
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
 **Filing Date: October 13, 2074**\
-**Art Unit: 3790**\
+**Art Unit: 3790**
 
 After careful review of the above-identified patent application, it is hereby rejected under 35 U.S.C. § 101(d) on the grounds that the claimed invention is contrary to public policy.
 
@@ -36,18 +36,12 @@ Date: April 22, 2075
 
 ---
 
-**Response to Office Action: Rejection Based on Public Safety and Welfare**
-
-**Patent Application No. 39/101,663**
-
-**Applicant: Therafrost Life Sciences, Inc.** 
-
-**Title: Localized Neurostimulator**
-
-**Examiner: Oby McMullen**
-
-**Filing Date: October 13, 2074**
-
+**Response to Office Action: Rejection Based on Public Safety and Welfare**\
+**Patent Application No. 39/101,663**\
+**Applicant: Therafrost Life Sciences, Inc.**\
+**Title: Localized Neurostimulator**\
+**Examiner: Oby McMullen**\
+**Filing Date: October 13, 2074**\
 **Art Unit: 3790**
 
 In response to the rejection of the above-identified patent application on the grounds that the invention is contrary to public policy, the applicant respectfully submits the following arguments for reconsideration.
@@ -72,8 +66,8 @@ The invention in question’s utility in recreational activities and academic se
 
 Given that the claimed invention has safe and ethical applications, the rejection based on public policy should be withdrawn. The applicant requests reconsideration of the application in light of these legitimate uses and respectfully requests allowance of the claims.
 
-Attorney for Applicant: /Stew Ward/
-USPTO Registration No. 76,509
+Attorney for Applicant: /Stew Ward/\
+USPTO Registration No. 76,509\
 Date: July 22, 2075
 
 ---
