@@ -11,7 +11,7 @@ tags:
   - Prose
 ---
 
-**Office Action: Notice of Rejection**\\
+**Office Action: Notice of Rejection**\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
@@ -36,7 +36,7 @@ Date: April 22, 2075
 
 ---
 
-**Response to Office Action: Rejection Based on Public Safety and Welfare**\\
+**Response to Office Action: Rejection Based on Public Safety and Welfare**\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
@@ -72,7 +72,7 @@ Date: July 22, 2075
 
 ---
 
-**Office Action: Final Rejection in Response to Applicant’s Arguments**\\
+**Office Action: Final Rejection in Response to Applicant’s Arguments**\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\ 
 **Title: Localized Neurostimulator**\
@@ -100,7 +100,7 @@ Date: October 15, 2075
 
 ---
 
-**Response to Final Office Action**\\
+**Response to Final Office Action**\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
