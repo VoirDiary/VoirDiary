@@ -11,7 +11,7 @@ tags:
   - Prose
 ---
 
-**Office Action: Notice of Rejection**\
+**Office Action: Notice of Rejection**\\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
@@ -36,7 +36,7 @@ Date: April 22, 2075
 
 ---
 
-**Response to Office Action: Rejection Based on Public Safety and Welfare**\
+**Response to Office Action: Rejection Based on Public Safety and Welfare**\\
 **Patent Application No. 39/101,663**\
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
@@ -71,6 +71,32 @@ USPTO Registration No. 76,509\
 Date: July 22, 2075
 
 ---
+
+**Office Action: Final Rejection in Response to Applicant’s Arguments**\\
+**Patent Application No. 39/101,663**\
+**Applicant: Therafrost Life Sciences, Inc.**\ 
+**Title: Localized Neurostimulator**\
+**Examiner: Oby McMullen**\
+**Filing Date: October 13, 2074**\
+**Art Unit: 3790**
+
+The Office acknowledges receipt of the applicant’s response dated July 22, 2075. The arguments have been carefully considered.
+Grounds for Final Rejection
+
+While the applicant asserts that the invention may be utilized for safe, consensual activities, the Office notes that the fundamental characteristics and primary functionality of the claimed system remain those designed to inflict substantial physical or psychological harm. The mere possibility of benign use does not obviate the fact that the invention as described is equipped, intended, and marketed for the infliction of harm—an activity broadly contrary to public welfare.
+
+U.S. patent law recognizes dual-use inventions. However, where the predominant use or clear intent of the invention is for acts universally recognized as unsafe or harmful, public policy concerns outweigh secondary, innocuous uses. 
+
+The specification and claims of the present application emphasize features designed to maximize and control pain or suffering.  For example, claim 3 is directed to a method for simulating the sensation of sprouting a tail and ears.  Claim 5 is directed to simulating the sensation of experiencing childbirth via the urethra.  Claim 7 is directed to simulating the sensation of being constricted by tentacles.  The focus of the application distinguishes the invention from devices primarily designed for safety, enjoyment, or health.
+
+Given these findings, the applicant’s arguments do not overcome the rejection under 35 U.S.C. § 101(d) and public policy grounds.
+
+**Conclusion**
+
+Accordingly, the patent application is finally rejected in its entirety. No further prosecution will be considered unless substantial amendments addressing the invention’s design, specification, and intended use are provided.
+
+Examiner Signature: /Oby McMullen/\
+Date: October 15, 2075
 
 
 
