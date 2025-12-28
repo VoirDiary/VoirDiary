@@ -11,19 +11,13 @@ tags:
   - Prose
 ---
 
-**Office Action: Notice of Rejection**
-
-**Patent Application No. 39/101,663**
-
-**Applicant: Therafrost Life Sciences, Inc.** 
-
-**Title: Localized Neurostimulator**
-
-**Examiner: Oby McMullen**
-
-**Filing Date: October 13, 2074**
-
-**Art Unit: 3790**
+**Office Action: Notice of Rejection**\
+**Patent Application No. 39/101,663**\
+**Applicant: Therafrost Life Sciences, Inc.**\
+**Title: Localized Neurostimulator**\
+**Examiner: Oby McMullen**\
+**Filing Date: October 13, 2074**\
+**Art Unit: 3790**\
 
 After careful review of the above-identified patent application, it is hereby rejected under 35 U.S.C. § 101(d) on the grounds that the claimed invention is contrary to public policy.
 
@@ -37,7 +31,7 @@ The claimed invention pertains to a device intended to cause severe physical or 
 
 Accordingly, the application is rejected in its entirety because the invention does not meet the criteria of patentability under 35 U.S.C. § 101(d). The applicant is advised that no claims directed to this invention can be allowed or sustained. Should the applicant wish to respond or amend, the response must address the objections raised herein.
 
-Examiner Signature: /Oby McMullen/
+Examiner Signature: /Oby McMullen/\
 Date: April 22, 2075
 
 ---
