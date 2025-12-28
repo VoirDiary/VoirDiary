@@ -16,7 +16,7 @@ tags:
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
-**Filing Date: October 13, 2074**\
+**Filing Date: October 12, 2074**\
 **Art Unit: 3790**
 
 After careful review of the above-identified patent application, it is hereby rejected under 35 U.S.C. § 101(d) on the grounds that the claimed invention is contrary to public policy.
@@ -41,7 +41,7 @@ Date: April 22, 2075
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
-**Filing Date: October 13, 2074**\
+**Filing Date: October 12, 2074**\
 **Art Unit: 3790**
 
 In response to the rejection of the above-identified patent application on the grounds that the invention is contrary to public policy, the applicant respectfully submits the following arguments for reconsideration.
@@ -77,7 +77,7 @@ Date: July 22, 2075
 **Applicant: Therafrost Life Sciences, Inc.**\ 
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
-**Filing Date: October 13, 2074**\
+**Filing Date: October 12, 2074**\
 **Art Unit: 3790**
 
 The Office acknowledges receipt of the applicant’s response dated July 22, 2075. The arguments have been carefully considered.
@@ -105,7 +105,7 @@ Date: October 15, 2075
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
-**Filing Date: October 13, 2074**\
+**Filing Date: October 12, 2074**\
 **Art Unit: 3790**
 
 In response to the rejection of the above-identified patent application on the grounds that the invention is contrary to public policy, the applicant respectfully submits the following arguments for reconsideration. 
@@ -130,7 +130,7 @@ Given these novel and exigent circumstances, the invention’s use is not contra
 
 Attorney for Applicant: /Stew Ward/\
 USPTO Registration No. 76,509\
-Date: November 10, 2075
+Date: November 5, 2075
 
 ---
 
@@ -139,10 +139,10 @@ Date: November 10, 2075
 **Applicant: Therafrost Life Sciences, Inc.**\
 **Title: Localized Neurostimulator**\
 **Examiner: Oby McMullen**\
-**Filing Date: October 13, 2074**\
+**Filing Date: October 12, 2074**\
 **Art Unit: 3790**
 
-The Office acknowledges receipt of the applicant’s recent communication dated November 10, 2075. In light of these extraordinary circumstances facing humanity, the rejection under 35 U.S.C. § 101(d) on the grounds of public policy is hereby withdrawn. Examination of the application now proceeds on the basis of prior-art patentability requirements under 35 U.S.C. § 103.
+The Office acknowledges receipt of the applicant’s recent communication dated November 5, 2075. In light of these extraordinary circumstances facing humanity, the rejection under 35 U.S.C. § 101(d) on the grounds of public policy is hereby withdrawn. Examination of the application now proceeds on the basis of prior-art patentability requirements under 35 U.S.C. § 103.
 
 **Acknowledgment of Legitimate Use**
 
