@@ -71,6 +71,14 @@ This recipe assumes you will be starting with raw chicken.  To use rotisserie ch
 
 [Avgolemono Soup - Serious Eats](https://www.seriouseats.com/avgolemono-soup-greek-lemon-egg-chicken-soup)
 
+**7. Chicken Fajitas**
+
+I recommend using smoked paprika and corn tortillas. Finish with a squirt of lime.
+
+<img src="https://www.eatwell101.com/wp-content/uploads/2021/02/bests-Chicken-Fajitas-Recipe-1-1200x800.jpg" style="width:400px; display:block;">
+
+[Easy Chicken Fajitas - EatWell 101](https://www.eatwell101.com/skillet-roasted-chicken-fajitas-recipe)
+
 **A Note about Bone Broth**
 
 If you are intent on wasting none of your rotisserie chicken, you can use the bones to make broth.  I personally have never done tried it, but it doesn’t sound hard.  Here’s a sample recipe for rotisserie chicken bone broth: 
